@@ -1,6 +1,6 @@
 # Hi there, I'm [stephen mwangi] 👋
 
-I am a Statistics and Economics student specializing in Data Science and Analytical Project Management. I love turning raw data into actionable insights through forecasting models, data cleaning, and programming.
+I am a Statistics and Economics graduate specializing in Data Science and Analytical Project Management. I love turning raw data into actionable insights through forecasting models, data cleaning, and programming.
 
 ## 🛠️ Tech Stack & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
