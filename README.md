@@ -15,7 +15,7 @@ I am a Statistics and Economics graduate specializing in Data Science and Analyt
 * 📈 **Macroeconomic & Credit Analysis** - Structuring and analyzing financial indicators using Python.
 * 📉 **60-Month Sales Forecasting Model** - Linear regression and trend analysis built in Excel.
 * 🗂️ **Project Monitoring Dashboard** - Interactive tracking system with automated status tools.
-Monte Carlo simulation project in Excel demonstrating portfolio risk and scenario analysis.
+*Monte Carlo simulation project in Excel demonstrating portfolio risk and scenario analysis.
 
 
 
