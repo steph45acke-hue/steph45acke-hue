@@ -15,6 +15,8 @@ I am a Statistics and Economics graduate specializing in Data Science and Analyt
 * 📈 **Macroeconomic & Credit Analysis** - Structuring and analyzing financial indicators using Python.
 * 📉 **60-Month Sales Forecasting Model** - Linear regression and trend analysis built in Excel.
 * 🗂️ **Project Monitoring Dashboard** - Interactive tracking system with automated status tools.
-*
+Monte Carlo simulation project in Excel demonstrating portfolio risk and scenario analysis.
+
+
 
 📫 **How to reach me:** [https://www.linkedin.com/posts/stephen-mwangi-a514a536a_excel-vba-dataanalytics-activity-7469053337053696002-ZqCK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFuNoZ0BzpA3eTLSNoBuud18PFbOqVqGfGM]
