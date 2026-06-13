@@ -11,12 +11,20 @@ I am a Statistics and Economics graduate specializing in Data Science and Analyt
 
 📋 Featured Projects
 
-* 📊 **EDA-Automator** - Reactive Python web application that uses statistical formulas (IQR) to completely automate data cleaning, schema health audits, and anomaly detection.
-* 📈 **Macroeconomic & Credit Analysis** - Structuring and analyzing financial indicators using Python.
-* 📉 **60-Month Sales Forecasting Model** - Linear regression and trend analysis built in Excel.
-* 🗂️ **Project Monitoring Dashboard** - Interactive tracking system with automated status tools.
-*Monte Carlo simulation project in Excel demonstrating portfolio risk and scenario analysis.
+📊 EDA-Automator  
+Reactive Python web app using statistical formulas (IQR) to automate data cleaning, schema audits, and anomaly detection.
 
+📈 Macroeconomic-Credit-Analysis  
+Structuring and analyzing financial indicators using Python.
+
+📉 Sales-Forecasting-Model-60Months  
+Linear regression and trend analysis built in Excel.
+
+🗂️ Project-Monitoring-Dashboard  
+Interactive tracking system with automated status tools.
+
+🎲 MonteCarlo-Portfolio-Simulator  
+Excel project demonstrating portfolio risk and scenario analysis.
 
 
 📫 **How to reach me:** [https://www.linkedin.com/posts/stephen-mwangi-a514a536a_excel-vba-dataanalytics-activity-7469053337053696002-ZqCK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFuNoZ0BzpA3eTLSNoBuud18PFbOqVqGfGM]
