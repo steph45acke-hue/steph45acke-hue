@@ -1,6 +1,6 @@
-# Hi there, I'm [stephen mwangi] 👋
+.# Hi there, I'm [stephen_mwangi] 👋
 
-I am a Statistics and Economics graduate specializing in Data Science and Analytical Project Management. I love turning raw data into actionable insights through forecasting models, data cleaning, and programming.
+I am a Statistics and Economics graduate specializing in Data Science and Analytical Engineering. I leverage **Python**, **SQL**, and **Advanced Excel** to translate complex economic data and statistical theory into production-grade predictive models, automated data pipelines, and actionable business intelligence.
 
 ### 🛠️ Tech Stack & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -30,6 +30,10 @@ I am a Statistics and Economics graduate specializing in Data Science and Analyt
 
 * **📁 Supermarket-Management-System**
   Relational inventory database built from scratch using MySQL to enforce operational data integrity, establish primary keys, and manage transactional retail data.
+  * 📁 **Supermarket-Inventory-Management-System** Relational inventory database built from scratch using MySQL to enforce operational data integrity, manage transactional retail data with automated audit logging, and generate dynamic low-stock business reports.
+
+* 📁 **Employee-Management-System** Centralized relational database system designed to track staff organizational records, manage role-based department assignments, and audit shift logs for cashier and warehouse personnel.
+*
 
 
 📫 **How to reach me:** [https://www.linkedin.com/posts/stephen-mwangi-a514a536a_excel-vba-dataanalytics-activity-7469053337053696002-ZqCK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFuNoZ0BzpA3eTLSNoBuud18PFbOqVqGfGM]
