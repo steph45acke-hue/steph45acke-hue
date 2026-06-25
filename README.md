@@ -33,7 +33,9 @@ I am a Statistics and Economics graduate specializing in Data Science and Analyt
   * 📁 **Supermarket-Inventory-Management-System** Relational inventory database built from scratch using MySQL to enforce operational data integrity, manage transactional retail data with automated audit logging, and generate dynamic low-stock business reports.
 
 * 📁 **Employee-Management-System** Centralized relational database system designed to track staff organizational records, manage role-based department assignments, and audit shift logs for cashier and warehouse personnel.
-*
+
+* 📁 **Student-Information-System** Normalized MySQL database architecture featuring many-to-many relationship modeling, transactional audit ledgers, and institutional academic reporting.
+
 
 
 📫 **How to reach me:** [https://www.linkedin.com/posts/stephen-mwangi-a514a536a_excel-vba-dataanalytics-activity-7469053337053696002-ZqCK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFuNoZ0BzpA3eTLSNoBuud18PFbOqVqGfGM]
