@@ -28,4 +28,4 @@ I am a Statistics and Economics graduate specializing in Data Science and Analyt
 
 
 
-📫 **How to reach me:** [https://www.linkedin.com/posts/stephen-mwangi-a514a536a_excel-vba-dataanalytics-activity-7469053337053696002-ZqCK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFuNoZ0BzpA3eTLSNoBuud18PFbOqVqGfGM]
+📫 **How to reach me:** [https://www.linkedin.com/posts/stephen-mwangiutm_source=share&utm_medium=member_desktop&rcm=ACoAAFuNoZ0BzpA3eTLSNoBuud18PFbOqVqGfGM]
