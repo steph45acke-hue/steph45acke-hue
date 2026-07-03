@@ -11,30 +11,20 @@ I am a Statistics and Economics graduate specializing in Data Science and Analyt
 
 ---
 
-### 📂 Featured Projects
 
-* **📁 EDA-Automator**
-  Reactive Python web app using statistical formulas (IQR) to automate data cleaning, schema mapping, and instant profiling.
+📁 Featured Projects
 
-* **📁 Macroeconomic-Credit-Analysis**
-  Structuring and analyzing financial indicators and macroeconomic datasets using Python.
-
-* **📁 Sales-Forecasting-Model-60Months**
-  Linear regression and dynamic trend analysis built completely in Excel to project market directions.
-
-* **📁 Project-Monitoring-Dashboard**
-  Interactive operational tracking system configured with automated status reporting tools.
-
-* **📁 MonteCarlo-Portfolio-Simulator**
-  Advanced Excel project demonstrating portfolio risk management, financial forecasting, and scenario analysis.
-
-* **📁 Supermarket-Management-System**
-  Relational inventory database built from scratch using MySQL to enforce operational data integrity, establish primary keys, and manage transactional retail data.
-  * 📁 **Supermarket-Inventory-Management-System** Relational inventory database built from scratch using MySQL to enforce operational data integrity, manage transactional retail data with automated audit logging, and generate dynamic low-stock business reports.
-
-* 📁 **Employee-Management-System** Centralized relational database system designed to track staff organizational records, manage role-based department assignments, and audit shift logs for cashier and warehouse personnel.
-
-* 📁 **Student-Information-System** Normalized MySQL database architecture featuring many-to-many relationship modeling, transactional audit ledgers, and institutional academic reporting.
+* 📦 **Enterprise-Product-Catalog** — Production-grade relational database architecture engineered with raw MySQL. Implements self-referencing unary relationships for multi-tier hierarchies, dynamic EAV key-value matrices for product specifications, and strict referential integrity (`RESTRICT`/`CASCADE`) to eliminate ghost inventory. Includes advanced self-join queries for real-time warehouse capital asset valuations.
+* 🤝 **Customer-Relationship-Management** — Centralized enterprise CRM database system structured to map deep relational insights between corporate clients, sales pipelines, transactional interactions, and deal progression lifecycle stages using normalized relational tables.
+* 🧪 **EDA-Automator** — Reactive Python web application utilizing statistical formulas ($IQR$) to automate data cleaning, schema mapping, and instant profiling.
+* 📉 **Macroeconomic-Credit-Analysis** — Structuring and analyzing financial indicators and macroeconomic datasets using Python to model credit patterns.
+* 📊 **Sales-Forecasting-Model-60Months** — Linear regression and dynamic trend analysis built completely in Excel to project market directions over a 5-year cycle.
+* 📋 **Project-Monitoring-Dashboard** — Interactive operational tracking system configured with automated status reporting tools.
+* 🎲 **MonteCarlo-Portfolio-Simulator** — Advanced Excel project demonstrating portfolio risk management, financial forecasting, and stochastic scenario analysis.
+* 🛒 **Supermarket-Inventory-Management-System** — Relational inventory database built from scratch using MySQL to enforce operational data integrity, manage transactional retail data with automated audit logging, and generate dynamic low-stock business reports.
+* 👥 **Employee-Management-System** — Centralized relational database system designed to track staff organizational records, manage role-based department assignments, and audit shift logs for cashier and warehouse personnel.
+* 🎓 **Student-Information-System** — Normalized MySQL database architecture featuring many-to-many relationship modeling, transactional audit ledgers, and institutional academic reporting.
+*
 
 
 
