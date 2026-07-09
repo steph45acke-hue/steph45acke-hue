@@ -4,7 +4,13 @@
 
 Passionate about bridging the gap between statistical theory, economic indicators, and scalable data engineering. I specialize in building robust relational database architectures, developing automated data profiling utilities, and engineering predictive financial models.
 
----
+## 🛠️ Technical Ecosystem & Tools
+
+* **Core Querying & Logic:** `SQL (MySQL Server & Workbench)`, `Python`
+* **Data Science Libraries:** `Pandas`, `NumPy`, `Streamlit (App Interface)`
+* **Operational Environments:** `VS Code`, `Jupyter Notebooks`
+* **Version Control:** `Git`, `GitHub Engine`
+
 
 ## 🚀 Featured Technical Portfolio
 
