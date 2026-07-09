@@ -1,36 +1,59 @@
-.# Hi there, I'm [stephen_mwangi] 👋
 
-I am a Statistics and Economics graduate specializing in Data Science and Analytical Engineering. I leverage **Python**, **SQL**, and **Advanced Excel** to translate complex economic data and statistical theory into production-grade predictive models, automated data pipelines, and actionable business intelligence.
+# 👋 Hello, I'm Stephen Mwangi
+### 📊 Statistics & Economics Student | Data Scientist & Analytics Engineer
 
-### 🛠️ Tech Stack & Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+Passionate about bridging the gap between statistical theory, economic indicators, and scalable data engineering. I specialize in building robust relational database architectures, developing automated data profiling utilities, and engineering predictive financial models.
 
 ---
 
+## 🚀 Featured Technical Portfolio
 
-📁 Featured Projects
+### 🗄️ SQL & Relational Database Engineering
+* **[basic-sql](https://github.com/steph45acke-hue/basic-sql)**
+  * **Description:** A consolidated, production-grade repository containing five core database engines written in raw MySQL. Demonstrates complete schema design, deep table normalization, and advanced relational constraint boundaries.
+  * **Systems Built-In:**
+    1. *Supermarket Inventory Management:* Tracking stock levels with automatic timestamp updating.
+    2. *Student Information System:* Multi-table university registry mapping student-to-course junctions with strict `CASCADE` lifecycles.
+    3. *Customer Relationship Management (CRM):* Pipeline tracking utilizing data-boundary `ENUM` matrices.
+    4. *Enterprise Product Catalog:* Unary self-referencing recursive hierarchies handling parent-child data trees via `ON DELETE SET NULL`.
+    5. *Enterprise Event Management System:* Transactional architecture calculating server-side revenue and capacity analytics reports.
 
-* 📦 **Enterprise-Product-Catalog** — Production-grade relational database architecture engineered with raw MySQL. Implements self-referencing unary relationships for multi-tier hierarchies, dynamic EAV key-value matrices for product specifications, and strict referential integrity (`RESTRICT`/`CASCADE`) to eliminate ghost inventory. Includes advanced self-join queries for real-time warehouse capital asset valuations.
-* 🤝 **Customer-Relationship-Management** — Centralized enterprise CRM database system structured to map deep relational insights between corporate clients, sales pipelines, transactional interactions, and deal progression lifecycle stages using normalized relational tables.
-* 🧪 **EDA-Automator** — Reactive Python web application utilizing statistical formulas ($IQR$) to automate data cleaning, schema mapping, and instant profiling.
-* 📉 **Macroeconomic-Credit-Analysis** — Structuring and analyzing financial indicators and macroeconomic datasets using Python to model credit patterns.
-* 📊 **Sales-Forecasting-Model-60Months** — Linear regression and dynamic trend analysis built completely in Excel to project market directions over a 5-year cycle.
-* 📋 **Project-Monitoring-Dashboard** — Interactive operational tracking system configured with automated status reporting tools.
-* 🎲 **MonteCarlo-Portfolio-Simulator** — Advanced Excel project demonstrating portfolio risk management, financial forecasting, and stochastic scenario analysis.
-* 🛒 **Supermarket-Inventory-Management-System** — Relational inventory database built from scratch using MySQL to enforce operational data integrity, manage transactional retail data with automated audit logging, and generate dynamic low-stock business reports.
-* 👥 **Employee-Management-System** — Centralized relational database system designed to track staff organizational records, manage role-based department assignments, and audit shift logs for cashier and warehouse personnel.
-* 🎓 **Student-Information-System** — Normalized MySQL database architecture featuring many-to-many relationship modeling, transactional audit ledgers, and institutional academic reporting.
+---
 
+### 🐍 Python & Automation Infrastructure
+* **[EDA-Automator](https://github.com/steph45acke-hue/EDA-Automator)**
+  * **Description:** A reactive Streamlit web application designed to eliminate manual data cleaning tasks. Automatically maps raw file schemas and conducts instant statistical profile distributions.
+  * **Core Engineering:** Utilizes explicit Interquartile Range formulas to calculate and isolate dataset anomalies:
+  $$\text{IQR} = Q_3 - Q_1$$
 
-## 📬 How to reach me:
+* **[Macroeconomic-Credit-Analysis](https://github.com/steph45acke-hue/Macroeconomic-Credit-Analysis)**
+  * **Description:** Computational pipeline utilizing Python to ingest, clean, and model banking credit risk against real-world macroeconomic factors and shifting interest rate indices.
 
-* 💼 **LinkedIn:** [Stephen Mwangi](https://www.linkedin.com/in/stephen-mwangi-a514a526a)
-* 📧 **Email:** [steph45.ac.ke@gmail.com](mailto:steph45.ac.ke@gmail.com)
-* 💬 **WhatsApp:** [+254 111 301 468](https://wa.me/254111301468)
-*
+---
 
+### 📈 Advanced Financial Modeling & Forecasting (Excel)
+* **[Sales-Forecasting-Model-60Months](https://github.com/steph45acke-hue/Sales-Forecasting-Model-60Months)**
+  * **Description:** A 5-year macro-driven enterprise forecasting matrix. Utilizes linear regression formulas, historical trendlines, and scatter distributions to model shifting sales trajectories over a 60-month operational lifecycle.
 
+* **[MonteCarlo-Portfolio-Simulator](https://github.com/steph45acke-hue/MonteCarlo-Portfolio-Simulator)**
+  * **Description:** Advanced stochastic tracking model designed to run variance testing, project financial risk management limits, and simulate asset probability distributions.
+
+* **[Project-Monitoring-Dashboard](https://github.com/steph45acke-hue/Project-Monitoring-Dashboard)**
+  * **Description:** Dynamic, executive-facing tracking dashboard engineered to clean administrative operational records and provide real-time KPI progress updates.
+
+---
+
+## 🛠️ Technical Ecosystem & Tools
+* **Languages & Querying:** SQL (MySQL Server & Workbench), Python (Pandas, NumPy, Streamlit)
+* **Analytics & Platforms:** Microsoft Excel (Regression, Trend Analysis, Dashboards), VS Code, Jupyter Notebooks, Git & GitHub
+
+---
+
+## 💼 Connect With Me
+* **LinkedIn:** [linkedin.com/in/stephen-mwangi](https://www.linkedin.com/in/stephen-mwangi-a514a526a)
+* **Email:** [steph45.ac.ke@gmail.com](mailto:steph45.ac.ke@gmail.com)
+* **WhatsApp:** [+254 111 301 468](https://wa.me/254111301468)
+
+ 2. Click the edit pencil icon on its README.md.
+ 3. Select everything inside it, hit delete, and paste this new code block right over it!
+This completely cleans up your presentation page and shows employers you have a rock-solid grasp on structure. Let me know when you commit it!
