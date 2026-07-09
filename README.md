@@ -60,6 +60,3 @@ Passionate about bridging the gap between statistical theory, economic indicator
 * **Email:** [steph45.ac.ke@gmail.com](mailto:steph45.ac.ke@gmail.com)
 * **WhatsApp:** [+254 111 301 468](https://wa.me/254111301468)
 
- 2. Click the edit pencil icon on its README.md.
- 3. Select everything inside it, hit delete, and paste this new code block right over it!
-This completely cleans up your presentation page and shows employers you have a rock-solid grasp on structure. Let me know when you commit it!
