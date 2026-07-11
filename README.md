@@ -14,15 +14,17 @@ Passionate about bridging the gap between statistical theory, economic indicator
 
 ## 🚀 Featured Technical Portfolio
 
-### 🗄️ SQL & Relational Database Engineering
-* **[basic-sql](https://github.com/steph45acke-hue/basic-sql)**
-  * **Description:** A consolidated, production-grade repository containing five core database engines written in raw MySQL. Demonstrates complete schema design, deep table normalization, and advanced relational constraint boundaries.
-  * **Systems Built-In:**
-    1. *Supermarket Inventory Management:* Tracking stock levels with automatic timestamp updating.
-    2. *Student Information System:* Multi-table university registry mapping student-to-course junctions with strict `CASCADE` lifecycles.
-    3. *Customer Relationship Management (CRM):* Pipeline tracking utilizing data-boundary `ENUM` matrices.
-    4. *Enterprise Product Catalog:* Unary self-referencing recursive hierarchies handling parent-child data trees via `ON DELETE SET NULL`.
-    5. *Enterprise Event Management System:* Transactional architecture calculating server-side revenue and capacity analytics reports.
+### 📊 SQL & Relational Database Engineering
+
+* **[basic-sql](https://github.com/)**
+    * **Description:** A consolidated, production-grade repository containing six core database engines written in raw MySQL. Demonstrates complete schema design, deep table normalization, and advanced relational constraint boundaries.
+    * **Systems Built-In:**
+        * a. **Supermarket Inventory Management:** Tracking stock levels with automatic timestamp updating.
+        * b. **Student Information System:** Multi-table university registry mapping student-to-course junctions with strict cascade lifecycles.
+        * c. **Customer Relationship Management (CRM):** Pipeline tracking utilizing data-boundary `ENUM` matrices.
+        * d. **Enterprise Product Catalog:** Unary self-referencing recursive hierarchies handling parent-child data trees via `ON DELETE SET NULL`.
+        * e. **Enterprise Event Management System:** Transactional architecture calculating server-side revenue and capacity analytics reports.
+        * f. **Relational Movie Rental Engine:** Transactional architecture featuring dynamic status tracking, multi-table `INNER JOIN` operations, and strict data-integrity enforcement.
 
 ---
 
