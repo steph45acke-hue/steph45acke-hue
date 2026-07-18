@@ -1,6 +1,6 @@
 
 # 👋 Hello, I'm Stephen Mwangi
-### 📊 Statistics & Economics Student | Data Scientist & Analytics Engineer
+### 📊 Statistics & Economics graduate | Data Scientist & Analytics Engineer
 
 Passionate about bridging the gap between statistical theory, economic indicators, and scalable data engineering. I specialize in building robust relational database architectures, developing automated data profiling utilities, and engineering predictive financial models.
 
@@ -25,6 +25,8 @@ Passionate about bridging the gap between statistical theory, economic indicator
         * d. **Enterprise Product Catalog:** Unary self-referencing recursive hierarchies handling parent-child data trees via `ON DELETE SET NULL`.
         * e. **Enterprise Event Management System:** Transactional architecture calculating server-side revenue and capacity analytics reports.
         * f. **Relational Movie Rental Engine:** Transactional architecture featuring dynamic status tracking, multi-table `INNER JOIN` operations, and strict data-integrity enforcement.
+        * g. Blogging Platform: Relational schema design for content management, user roles, and post-comment hierarchies.
+ * h. Restaurant Reservation System: Database application implementation managing table availability, booking logs, and customer status.
 
 ---
 
