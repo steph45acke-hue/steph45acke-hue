@@ -28,7 +28,11 @@ Passionate about bridging the gap between statistical theory, economic indicator
         * g. Blogging Platform: Relational schema design for content management, user roles, and post-comment hierarchies.
  * h. Restaurant Reservation System: Database application implementation managing table availability, booking logs, and customer status.
 
----
+### Intermediate Projects
+ * **Hospital Management System**: A relational database application mapping patient-doctor appointments with strict foreign key constraints and transactional integrity.
+ * **Online Retail Database System**: A five-table architecture designed to manage product catalogs, customer transactions, and order fulfillment processes.
+
+
 
 ### 🐍 Python & Automation Infrastructure
 * **[EDA-Automator](https://github.com/steph45acke-hue/EDA-Automator)**
