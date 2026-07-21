@@ -14,23 +14,26 @@ Passionate about bridging the gap between statistical theory, economic indicator
 
 ## 🚀 Featured Technical Portfolio
 
-### 📊 SQL & Relational Database Engineering
 
-* **[basic-sql](https://github.com/)**
-    * **Description:** A consolidated, production-grade repository containing six core database engines written in raw MySQL. Demonstrates complete schema design, deep table normalization, and advanced relational constraint boundaries.
-    * **Systems Built-In:**
-        * a. **Supermarket Inventory Management:** Tracking stock levels with automatic timestamp updating.
-        * b. **Student Information System:** Multi-table university registry mapping student-to-course junctions with strict cascade lifecycles.
-        * c. **Customer Relationship Management (CRM):** Pipeline tracking utilizing data-boundary `ENUM` matrices.
-        * d. **Enterprise Product Catalog:** Unary self-referencing recursive hierarchies handling parent-child data trees via `ON DELETE SET NULL`.
-        * e. **Enterprise Event Management System:** Transactional architecture calculating server-side revenue and capacity analytics reports.
-        * f. **Relational Movie Rental Engine:** Transactional architecture featuring dynamic status tracking, multi-table `INNER JOIN` operations, and strict data-integrity enforcement.
-        * g. Blogging Platform: Relational schema design for content management, user roles, and post-comment hierarchies.
- * h. Restaurant Reservation System: Database application implementation managing table availability, booking logs, and customer status.
+### SQL & Relational Database Engineering
+ * **basic-sql**
+   * **Description:** A consolidated, production-grade repository containing core database engines written in raw MySQL. Demonstrates complete schema design, deep table normalization, and advanced relational constraint boundaries.
+   * **Systems Built-In:**
+     * **a. Supermarket Inventory Management:** Tracking stock levels with automatic timestamp updating.
+     * **b. Student Information System:** Multi-table university registry mapping student-to-course junctions with strict cascade lifecycles.
+     * **c. Customer Relationship Management (CRM):** Pipeline tracking utilizing data-boundary ENUM matrices.
+     * **d. Enterprise Product Catalog:** Unary self-referencing recursive hierarchies handling parent-child data trees via ON DELETE SET NULL.
+     * **e. Enterprise Event Management System:** Transactional architecture calculating server-side revenue and capacity analytics reports.
+     * **f. Relational Movie Rental Engine:** Transactional architecture featuring dynamic status tracking, multi-table INNER JOIN operations, and strict data-integrity enforcement.
+     * **g. Blogging Platform:** Relational schema design for content management, user roles, and post-comment hierarchies.
+     * **h. Restaurant Reservation System:** Database application implementation managing table availability, booking logs, and customer status.
+ * **Intermediate Projects**
+   * **Hospital Management System:** A relational database application mapping patient-doctor appointments with strict foreign key constraints and transactional integrity.
+   * **Online Retail Database System:** A five-table architecture designed to manage product catalogs, customer transactions, and order fulfillment processes.
+   * **Library Management System:** A comprehensive relational database system managing book catalogs, member registrations, and borrowing transactions with complete multi-table join capabilities.
+   * **Flight Reservation System:** An enterprise-grade database system handling multi-city airport routing via dual foreign-key aliasing, passenger registries, and transactional seat bookings.
 
-### Intermediate Projects
- * **Hospital Management System**: A relational database application mapping patient-doctor appointments with strict foreign key constraints and transactional integrity.
- * **Online Retail Database System**: A five-table architecture designed to manage product catalogs, customer transactions, and order fulfillment processes.
+
 
 
 
