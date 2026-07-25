@@ -1,79 +1,75 @@
-Statistics & Economics Graduate | Data Scientist & Analytics Engineer
-Passionate about bridging the gap between statistical theory, economic indicators, and scalable data engineering. I specialize in robust relational database architectures, developing automated data profiling utilities, and engineering predictive financial models.
+Stephen Mwangi | Statistics & Economics Graduate & Data Scientist
+"Bridging the gap between statistical theory, economic indicators, and scalable data engineering."
 
 🛠️ Technical Ecosystem & Tools
-Core Querying & Logic: SQL (MySQL Server & Workbench), Python (Pandas, NumPy, Streamlit)
-
-Analytics & Platforms: Microsoft Excel (Regression, Trend Analysis, Dashboards), VS Code, Jupyter Notebooks
-
-Version Control: Git, GitHub Engine (steph45acke-hue)
-
+Category	Primary Technologies & Environments
+Core Querying & Logic	SQL (MySQL Server & Workbench), Python
+Data Science Libraries	Pandas, NumPy, Streamlit (App Interface)
+Operational Platforms	Microsoft Excel (Regression, Trend Analysis, Dashboards), VS Code, Jupyter Notebooks
+Version Control & Branding	Git, GitHub Engine (steph45acke-hue)
 🚀 Featured Technical Portfolio
-SQL & Relational Database Engineering
+🗄️ SQL & RELATIONAL DATABASE ENGINEERING
+📂 BASIC SQL REPOSITORY	📂 INTERMEDIATE SYSTEM ARCHITECTURE
 basic-sql
 
-Description: A consolidated, production-grade repository containing core database engines written in raw MySQL. Demonstrates complete schema design, deep table normalization, and advanced relational constraint boundaries.
 
-Systems Built-In:
+(Core MySQL database engines demonstrating deep normalization and constraints)
 
-a. Supermarket Inventory Management: Tracking stock levels with automatic timestamp updating.
+intermediate-projects
 
-b. Student Information System: Multi-table university registry mapping student-to-course junction lifecycles.
 
-c. Customer Relationship Management (CRM): Pipeline tracking utilizing data-boundary ENUM mappings.
+(Production-grade multi-table relational systems)
 
-d. Enterprise Product Catalog: Unary self-referencing recursive hierarchies handling parent-child data sets.
+• Supermarket Inventory Management: Stock tracking with automatic timestamps.
 
-e. Enterprise Event Management System: Transactional architecture calculating server-side revenue and capacity analytics reports.
 
-f. Relational Movie Rental Engine: Transactional architecture featuring dynamic status tracking, multi-table INNER JOIN operations, and strict data-integrity enforcement.
+• Student Information System: University registry and course mapping.
 
-g. Blogging Platform: Relational schema design for content management, user roles, and post-comment hierarchies.
 
-h. Restaurant Reservation System: Database application implementation managing table availability, booking logs, and customer status.
+• Customer Relationship Management: Pipeline tracking with ENUM boundaries.
 
-Intermediate Projects
 
-Hospital Management System: A relational database application mapping patient-doctor appointments with strict foreign key constraints and transactional integrity.
+• Enterprise Product Catalog: Unary self-referencing recursive hierarchies.
 
-Online Retail Database System: A five-table architecture designed to manage product catalogs, customer transactions, and order fulfillment processes.
 
-Library Management System: A comprehensive relational database system managing book catalogs, member registrations, and borrowing transactions with complete multi-table join capabilities.
+• Event Management System: Revenue and capacity analytics.
 
-Flight Reservation System: An enterprise-grade database system handling multi-city airport routing via dual foreign key aliasing, passenger registries, and transactional seat bookings.
 
-Fitness Centre Management System: A multi-table relational schema designed to track members, certified trainers, tier-based membership plans, and scheduled class bookings, featuring advanced multi-table joins and revenue aggregation analytics.  
+• Movie Rental Engine: Dynamic status tracking and INNER JOIN operations.
+
+
+• Blogging Platform: Content management and user roles.
+
+
+• Restaurant Reservation System: Table availability and booking logs.
+
+• Hospital Management System: Patient-doctor appointment mapping.
+
+
+• Online Retail Database System: Five-table product and order fulfillment architecture.
+
+
+• Library Management System: Book catalogs and borrowing transaction tracking.
+
+
+• Flight Reservation System: Multi-city airport routing with dual foreign key aliasing.
+
+
+• Fitness Centre Management System: Member, trainer, and class booking tracking with revenue aggregations.  
 MD
 
-Hotel Booking System: A normalized relational database application managing room inventories, guest profiles, reservation schedules, and billing cycles to minimize booking conflicts.
 
-Online Banking System: A core backend digital banking architecture tracking secure customer profiles, multi-tier accounts, and transactional ledgers utilizing high-precision DECIMAL(15, 2) data types and secure reference codes.  
-MD
+• Hotel Booking System: Room inventories, guest profiles, and billing cycles.
 
-Python & Automation Infrastructure
-EDA-Automator
 
-Description: A reactive Streamlit web application designed to eliminate manual data cleaning tasks. Automatically infers schemas and conducts instant statistical profile distributions.
+• Online Banking System: High-precision DECIMAL(15, 2) accounts and transaction audit trails.
 
-Core Engineering: Utilizes explicit Interquartile Range formulas to calculate and isolate dataset anomalies (IQR=Q3−Q1).
-
-Macroeconomic-Credit Analysis
-
-Description: Computational pipeline utilizing Python to ingest, clean, and model banking credit risk against real-world macroeconomic factors and shifting interest rate indices.
-
-Advanced Financial Modeling & Forecasting (Excel)
-Sales-Forecasting-Model-60Months
-
-Description: A 5-year macro-driven enterprise forecasting matrix. Utilizes linear regression formulas, historical trendlines, and scatter distributions to model shifting sales trajectories over a 60-month operational lifecycle.
-
-MonteCarlo-Portfolio-Simulator
-
-Description: Advanced stochastic tracking model designed to run variance testing, project financial risk management, and simulate asset probability distributions.
-
-Project-Monitoring-Dashboard
-
-Description: Dynamic, executive-facing tracking dashboard engineered to clean administrative operational records and supply real-time KPI progress updates.
-
+🐍 PYTHON & AUTOMATION INFRASTRUCTURE
+⚡ EDA-AUTOMATOR	📈 MACROECONOMIC-CREDIT ANALYSIS
+Reactive Streamlit web application designed to eliminate manual data cleaning tasks, automatically infer schemas, and isolate dataset anomalies using explicit Interquartile Range formulas (IQR=Q3−Q1).	Computational pipeline built using Python to ingest, clean, and model banking credit risk against real-world macroeconomic factors and shifting interest rate indices.
+📊 ADVANCED FINANCIAL MODELING & FORECASTING (EXCEL)
+📉 SALES-FORECASTING-MODEL-60MONTHS	🎲 MONTECARLO-PORTFOLIO-SIMULATOR	📊 PROJECT-MONITORING-DASHBOARD
+A 5-year macro-driven enterprise matrix utilizing linear regression formulas and scatter distributions to model sales trajectories.	Advanced stochastic tracking model designed to run variance testing, financial risk management, and asset probability distributions.	Dynamic, executive-facing tracking dashboard engineered to clean operational records and supply real-time KPI progress updates.
 🔗 Connect With Me
 GitHub: github.com/steph45acke-hue
 
