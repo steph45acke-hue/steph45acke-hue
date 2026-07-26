@@ -39,9 +39,8 @@
 * **Fitness Centre Management System:** Member, trainer, and class booking tracking with revenue aggregations.
 * **Hotel Booking System:** Room inventories, guest profiles, and billing cycles.
 * **Online Banking System:** High-precision `DECIMAL(15, 2)` accounts and transaction audit trails.
-* Car Rental Management System (MySQL) - A relational database project managing fleet inventory, customer profiles, staff, and transactional data, complete with multi-table joins and revenue aggregation reports.
-
-
+* **Car Rental Management System (MySQL) - A relational database project managing fleet inventory, customer profiles, staff, and transactional data, complete with multi-table joins and revenue aggregation reports.
+* **Real Estate Management System (MySQL) - A relational database project tracking property inventory, client profiles, agent commissions, transactions, and payment processing with multi-table joins.
 ---
 
 ### 🐍 PYTHON & AUTOMATION INFRASTRUCTURE
