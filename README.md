@@ -1,8 +1,7 @@
 # STEPHEN MWANGI | Statistics & Economics Graduate & Data Scientist
 
-> **"Bridging the gap between statistical theory, economic indicators, and scalable data engineering."**
-
----
+🔥 B U I L D I N G   R E A L   S Y S T E M S   T H A T   S O L V E   R E A L   P R O B L E M S 🔥
+🎯 F O C U S E D   O N   D E L I V E R I N G   W O R K I N G   S O L U T I O N S 🎯
 
 ## 🛠️ TECHNICAL ECOSYSTEM & TOOLS
 
