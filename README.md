@@ -1,8 +1,8 @@
 # STEPHEN MWANGI | Statistics & Economics Graduate & Data Scientist
-**
-**#🔥 B U I L D I N G   R E A L   S Y S T E M S   T H A T   S O L V E     R E A L    P R O B L E M S 🔥
-#🎯 F O C U S E D   ON   D E L I V E R I N G   W O R K I N G    S O L U T I O N S  TO  A  PROBLEM🎯**
 
+🔥 BUILDING REAL SYSTEMS THAT SOLVE REAL PROBLEMS 🔥
+--------------------------------------------------------------------------------
+🎯 FOCUSED ON DELIVERING WORKING SOLUTIONS 🎯
 ## 🛠️ TECHNICAL ECOSYSTEM & TOOLS
 
 | Category | Technologies & Environment |
