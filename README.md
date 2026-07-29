@@ -41,8 +41,8 @@
 * Car Rental Management System (MySQL) - A relational database project managing fleet inventory, customer profiles, staff, and transactional data, complete with multi-table joins and revenue aggregation reports.
 * Real Estate Management System (MySQL) - A relational database project tracking property inventory, client profiles, agent commissions, transactions, and payment processing with multi-table joins.
 
-**ADVANCED SQL PROJECTS
- 1: l E-Commerce Platform - A production-grade relational database backend featuring ACID-compliant transactions, pessimistic row-level locking (FOR UPDATE) to prevent inventory race conditions, automated rollback safety nets, custom error handling, and analytical window functions.
+**ADVANCED SQL PROJECTS.
+ 1:  E-Commerce Platform - A production-grade relational database backend featuring ACID-compliant transactions, pessimistic row-level locking (FOR UPDATE) to prevent inventory race conditions, automated rollback safety nets, custom error handling, and analytical window functions.
 ### 🐍 PYTHON & AUTOMATION INFRASTRUCTURE
 
 * **`EDA-AUTOMATOR`**
