@@ -40,7 +40,9 @@
 * **Online Banking System:** High-precision `DECIMAL(15, 2)` accounts and transaction audit trails.
 * Car Rental Management System (MySQL) - A relational database project managing fleet inventory, customer profiles, staff, and transactional data, complete with multi-table joins and revenue aggregation reports.
 * Real Estate Management System (MySQL) - A relational database project tracking property inventory, client profiles, agent commissions, transactions, and payment processing with multi-table joins.
----
+# 🚀 Advanced Data Systems & Backend Engineering Portfolio
+ 1.Transactional E-Commerce Database & Concurrency Engine-In modern e-commerce platforms, maintaining data integrity during high-volume concurrent checkouts is critical. A failure in inventory synchronization can lead to overselling items, corrupting order ledgers, and causing severe business losses.
+
 
 ### 🐍 PYTHON & AUTOMATION INFRASTRUCTURE
 
