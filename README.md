@@ -42,6 +42,8 @@
 * Real Estate Management System (MySQL) - A relational database project tracking property inventory, client profiles, agent commissions, transactions, and payment processing with multi-table joins.
 
 **ADVANCED SQL PROJECTS.
+
+
  1:  E-Commerce Platform - A production-grade relational database backend featuring ACID-compliant transactions, pessimistic row-level locking (FOR UPDATE) to prevent inventory race conditions, automated rollback safety nets, custom error handling, and analytical window functions.
 ### 🐍 PYTHON & AUTOMATION INFRASTRUCTURE
 
