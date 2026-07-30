@@ -16,36 +16,33 @@
 
 
 ## 🚀 FEATURED TECHNICAL PORTFOLIO
+Here is your beautifully structured, highly professional portfolio layout. I have organized it into a clean, side-by-side comparison format for your Basic and Intermediate projects, followed by your flagship Advanced project spanning the full width below it.
 
-### 🗄️ SQL & RELATIONAL DATABASE ENGINEERING (MYSQL)
+Copy and paste this directly into your portfolio or README:
 
-* **`BASIC-SQL`** *(Core MySQL database engines demonstrating deep normalization and constraints)*
-* **Supermarket Inventory Management:** Stock tracking with automatic timestamps.
-* **Student Information System:** University registry and course mapping.
-* **Customer Relationship Management:** Pipeline tracking with `ENUM` boundaries.
-* **Enterprise Product Catalog:** Unary self-referencing recursive hierarchies.
-* **Event Management System:** Revenue and capacity analytics.
-* **Movie Rental Engine:** Dynamic status tracking and `INNER JOIN` operations.
-* **Blogging Platform:** Content management and user roles.
-* **Restaurant Reservation System:** Table availability and booking logs.
+---
 
+## 🚀 FEATURED TECHNICAL PORTFOLIO
 
-* **`INTERMEDIATE-PROJECTS`** *(Production-grade multi-table relational systems)*
-* **Hospital Management System:** Patient-doctor appointment mapping.
-* **Online Retail Database System:** Five-table product and order fulfillment architecture.
-* **Library Management System:** Book catalogs and borrowing transaction tracking.
-* **Flight Reservation System:** Multi-city airport routing with dual foreign key aliasing.
-* **Fitness Centre Management System:** Member, trainer, and class booking tracking with revenue aggregations.
-* **Hotel Booking System:** Room inventories, guest profiles, and billing cycles.
-* **Online Banking System:** High-precision `DECIMAL(15, 2)` accounts and transaction audit trails.
-* Car Rental Management System (MySQL) - A relational database project managing fleet inventory, customer profiles, staff, and transactional data, complete with multi-table joins and revenue aggregation reports.
-* Real Estate Management System (MySQL) - A relational database project tracking property inventory, client profiles, agent commissions, transactions, and payment processing with multi-table joins.
+| 🟢 BASIC-SQL PROJECTS | 🟡 INTERMEDIATE-PROJECTS |
+| --- | --- |
+| **Supermarket Inventory Management:** Stock tracking with automatic timestamps. | **Hospital Management System:** Patient-doctor appointment mapping. |
+| **Student Information System:** University registry and course mapping. | **Online Retail Database System:** Five-table product and order fulfillment architecture. |
+| **Customer Relationship Management:** Pipeline tracking with ENUM boundaries. | **Library Management System:** Book catalogs and borrowing transaction tracking. |
+| **Enterprise Product Catalog:** Unary self-referencing recursive hierarchies. | **Flight Reservation System:** Multi-city airport routing with dual foreign key aliasing. |
+| **Event Management System:** Revenue and capacity analytics. | **Fitness Centre Management System:** Member, trainer, and class booking tracking with revenue aggregations. |
+| **Movie Rental Engine:** Dynamic status tracking and INNER JOIN operations. | **Hotel Booking System:** Room inventories, guest profiles, and billing cycles. |
+| **Blogging Platform:** Content management and user roles. | **Online Banking System:** High-precision decimal accounts and transaction audit trails. |
+| **Restaurant Reservation System:** Table availability and booking logs. | **Car Rental Management System:** Fleet inventory, customer profiles, staff, and transactional data with revenue aggregation reports. |
+|  | **Real Estate Management System:** Property inventory, client profiles, agent commissions, transactions, and payment processing with multi-table joins. |
 
-**ADVANCED SQL PROJECTS.
+---
 
+### 🔴 ADVANCED SQL CAPSTONE PROJECT
 
- 1:  E-Commerce Platform - A production-grade relational database backend featuring ACID-compliant transactions, pessimistic row-level locking (FOR UPDATE) to prevent inventory race conditions, automated rollback safety nets, custom error handling, and analytical window functions.
-### 🐍 PYTHON & AUTOMATION INFRASTRUCTURE
+* **E-Commerce Platform:** A production-grade relational database backend featuring ACID-compliant transactions, pessimistic row-level locking (`FOR UPDATE`) to prevent inventory race conditions, automated rollback safety nets, custom error handling, and analytical window functions.
+
+---
 
 * **`EDA-AUTOMATOR`**
 * Reactive Streamlit web application designed to eliminate manual data cleaning tasks, automatically infer schemas, and isolate dataset anomalies using explicit Interquartile Range formulas ($IQR = Q3 - Q1$).
