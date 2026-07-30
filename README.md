@@ -5,14 +5,7 @@
 🎯 FOCUSED ON DELIVERING WORKING SOLUTIONS 🎯
 ## 🛠️ TECHNICAL ECOSYSTEM & TOOLS
 
-| Category | Technologies & Environment |
-| --- | --- |
-| **🗄️ Core Querying & Logic** | SQL / MySQL (Server & Workbench) |
-| **📊 Data Science Libraries** | Python (Pandas, NumPy) |
-| **💻 Operational Platforms** | Streamlit (App Interface), VS Code, Jupyter Notebooks |
-| **📈 Analytics** | Microsoft Excel (Regression, Dashboards) |
-| **🐙 Version Control & Branding** | Git & GitHub (`steph45acke-hue`), LinkedIn, Email |
-
+CategoryTechnologies & Environment🗄️ Database Engineering & ArchitectureSQL / MySQL (Advanced Modeling, Stored Procedures, Relational Design)📈 Business Intelligence & VisualizationMicrosoft Power BI (DAX, Interactive Dashboards, Executive Reporting)📊 Data Science & Analytics FrameworksPython (Pandas, NumPy), Streamlit (App Interface), Jupyter Notebooks📈 Advanced Excel AnalyticsStatistical Modeling, Regression Forecasting, Interactive Dashboards💻 Development & Version ControlVS Code, Git & GitHub (steph45acke-hue), LinkedIn Professional Branding
 ---
 
 ## 🚀 FEATURED TECHNICAL PORTFOLIO
