@@ -39,6 +39,8 @@
 
 Online Learning Platform: An advanced educational database system featuring normalized relational schemas, foreign key-safe data management, custom troubleshooting workflows for constraint handling, and multi-table business intelligence queries for course revenue and instructor performance analytics.
 
+PYTHON PROJECTS
+
 * **`EDA-AUTOMATOR`**
 * Reactive Streamlit web application designed to eliminate manual data cleaning tasks, automatically infer schemas, and isolate dataset anomalies using explicit Interquartile Range formulas ($IQR = Q3 - Q1$).
 
