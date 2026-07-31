@@ -12,13 +12,8 @@
 | **📈 Business Intelligence & Visualization** | Microsoft Power BI (DAX, Interactive Dashboards, Executive Reporting) |
 | **📊 Data Science & Analytics Frameworks** | Python (Pandas, NumPy), Streamlit (App Interface), Jupyter Notebooks |
 | **📈 Advanced Excel Analytics** | Statistical Modeling, Regression Forecasting, Interactive Dashboards |
-| **💻 Development & Version Control** | VS Code, Git & GitHub (`steph45acke-hue`), LinkedIn Professional Branding |
+| **💻 Development & Version Control** | VS Code, Git & GitHub (`steph45acke-hue`), LinkedIn Professional Brand
 
-
-## 🚀 FEATURED TECHNICAL PORTFOLIO
-Here is your beautifully structured, highly professional portfolio layout. I have organized it into a clean, side-by-side comparison format for your Basic and Intermediate projects, followed by your flagship Advanced project spanning the full width below it.
-
-Copy and paste this directly into your portfolio or README:
 
 ---
 
@@ -42,7 +37,7 @@ Copy and paste this directly into your portfolio or README:
 
 * **E-Commerce Platform:** A production-grade relational database backend featuring ACID-compliant transactions, pessimistic row-level locking (`FOR UPDATE`) to prevent inventory race conditions, automated rollback safety nets, custom error handling, and analytical window functions.
 
----
+Online Learning Platform: An advanced educational database system featuring normalized relational schemas, foreign key-safe data management, custom troubleshooting workflows for constraint handling, and multi-table business intelligence queries for course revenue and instructor performance analytics.
 
 * **`EDA-AUTOMATOR`**
 * Reactive Streamlit web application designed to eliminate manual data cleaning tasks, automatically infer schemas, and isolate dataset anomalies using explicit Interquartile Range formulas ($IQR = Q3 - Q1$).
