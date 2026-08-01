@@ -1,4 +1,4 @@
-# Hi there, I'm Stephanie! 👋
+# Hi there, I'm Stephen Munene! 👋
 
 I am a Statistics & Economics student at The Co-operative University of Kenya, building my path toward data science through robust database design, analytics, and machine learning.
 
@@ -17,11 +17,11 @@ I am a Statistics & Economics student at The Co-operative University of Kenya, b
 
 ### BEST SQL PROJECTS
 
-* **[Online Retail Database System](https://github.com/steph45acke-hue/ONLINE-RETAIL-DATABASE-SYSTEM)**
-  * Designed and executed a 5-table relational database system in MySQL Workbench to manage and analyze retail operations.
+* **[E-Commerce Platform](https://github.com/steph45acke-hue/E_COMMERCE_PLATFORM)**
+  * Designed and executed a relational database system in MySQL Workbench to manage and analyze retail operations.
   * Structured complex relational schemas, maintained strict data integrity, and wrote advanced multi-table joins and analytical queries to extract critical business insights.
 
-* **[Online Learning Platform Database](https://github.com/steph45acke-hue/ONLINE-LEARNING-PLATFORM)**
+* **[Online Learning Platform Database](https://github.com/steph45acke-hue/ONLINE_LEARNING_PLATFORM)**
   * Built a comprehensive relational database backend from scratch to handle student registrations, course management, instructor records, and enrollments.
   * Optimized table structures and query performance to streamline tracking, reporting, and user data analytics.
 
