@@ -1,18 +1,17 @@
-### Hi there, I'm Stephen 👋
+# Hi there, I'm Stephanie! 👋
+
+I am a Statistics & Economics student at The Co-operative University of Kenya, building my path toward data science through robust database design, analytics, and machine learning.
 
 **WE FOCUS ON SOLVING PROBLEMS AND GIVING SOLUTIONS**
 
 ---
 
-### 🛠️ Core Tech Stack & Tools
+### Core Tech Stack & Tools
+* **Status:** Statistics & Economics Student | The Co-operative University of Kenya
 * **Databases & Querying:** MySQL, SQL Workbench
 * **Data Visualization & Analytics:** Excel, Power BI
 * **Machine Learning:** Scikit-Learn, Predictive Modeling Basics
 * **Version Control:** Git, GitHub
-
----
-
-I am a Statistics & Economics student at The Co-operative University of Kenya, building my path toward data science through robust database design, analytics, and machine learning.
 
 ---
 
