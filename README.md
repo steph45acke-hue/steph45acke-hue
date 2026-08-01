@@ -1,77 +1,35 @@
-# STEPHEN MWANGI | Statistics & Economics Graduate & Data Scientist
+### Hi there, I'm Stephen 👋
 
-🔥 BUILDING REAL SYSTEMS THAT SOLVE REAL PROBLEMS 🔥
---------------------------------------------------------------------------------
-🎯 FOCUSED ON DELIVERING WORKING SOLUTIONS 🎯
-## 🛠️ TECHNICAL ECOSYSTEM & TOOLS
-
-
-| Category | Technologies & Environment |
-| --- | --- |
-| **🗄️ Database Engineering & Architecture** | SQL / MySQL (Advanced Modeling, Stored Procedures, Relational Design) |
-| **📈 Business Intelligence & Visualization** | Microsoft Power BI (DAX, Interactive Dashboards, Executive Reporting) |
-| **📊 Data Science & Analytics Frameworks** | Python (Pandas, NumPy), Streamlit (App Interface), Jupyter Notebooks |
-| **📈 Advanced Excel Analytics** | Statistical Modeling, Regression Forecasting, Interactive Dashboards |
-| **💻 Development & Version Control** | VS Code, Git & GitHub (`steph45acke-hue`), LinkedIn Professional Brand
-
+**WE FOCUS ON SOLVING PROBLEMS AND GIVING SOLUTIONS**
 
 ---
 
-## 🚀 FEATURED TECHNICAL PORTFOLIO
-
-| 🟢 BASIC-SQL PROJECTS | 🟡 INTERMEDIATE-PROJECTS |
-| --- | --- |
-| **Supermarket Inventory Management:** Stock tracking with automatic timestamps. | **Hospital Management System:** Patient-doctor appointment mapping. |
-| **Student Information System:** University registry and course mapping. | **Online Retail Database System:** Five-table product and order fulfillment architecture. |
-| **Customer Relationship Management:** Pipeline tracking with ENUM boundaries. | **Library Management System:** Book catalogs and borrowing transaction tracking. |
-| **Enterprise Product Catalog:** Unary self-referencing recursive hierarchies. | **Flight Reservation System:** Multi-city airport routing with dual foreign key aliasing. |
-| **Event Management System:** Revenue and capacity analytics. | **Fitness Centre Management System:** Member, trainer, and class booking tracking with revenue aggregations. |
-| **Movie Rental Engine:** Dynamic status tracking and INNER JOIN operations. | **Hotel Booking System:** Room inventories, guest profiles, and billing cycles. |
-| **Blogging Platform:** Content management and user roles. | **Online Banking System:** High-precision decimal accounts and transaction audit trails. |
-| **Restaurant Reservation System:** Table availability and booking logs. | **Car Rental Management System:** Fleet inventory, customer profiles, staff, and transactional data with revenue aggregation reports. |
-|  | **Real Estate Management System:** Property inventory, client profiles, agent commissions, transactions, and payment processing with multi-table joins. |
+### 🛠️ Core Tech Stack & Tools
+* **Databases & Querying:** MySQL, SQL Workbench
+* **Data Visualization & Analytics:** Excel, Power BI
+* **Machine Learning:** Scikit-Learn, Predictive Modeling Basics
+* **Version Control:** Git, GitHub
 
 ---
 
-### 🔴 ADVANCED SQL CAPSTONE PROJECT
-
-* **E-Commerce Platform:** A production-grade relational database backend featuring ACID-compliant transactions, pessimistic row-level locking (`FOR UPDATE`) to prevent inventory race conditions, automated rollback safety nets, custom error handling, and analytical window functions.
-
-Online Learning Platform: An advanced educational database system featuring normalized relational schemas, foreign key-safe data management, custom troubleshooting workflows for constraint handling, and multi-table business intelligence queries for course revenue and instructor performance analytics.
-
-PYTHON PROJECTS
-
-* **`EDA-AUTOMATOR`**
-* Reactive Streamlit web application designed to eliminate manual data cleaning tasks, automatically infer schemas, and isolate dataset anomalies using explicit Interquartile Range formulas ($IQR = Q3 - Q1$).
-
-
-* **`MACROECONOMIC-CREDIT-ANALYSIS`**
-* Computational pipeline built using Python to ingest, clean, and model banking credit risk against real-world macroeconomic factors and shifting interest rate indices.
-
-
+I am a Statistics & Economics student at The Co-operative University of Kenya, building my path toward data science through robust database design, analytics, and machine learning.
 
 ---
 
-### 📊 ADVANCED FINANCIAL MODELING & FORECASTING (EXCEL)
+### BEST SQL PROJECTS
 
-* **`SALES-FORECASTING-MODEL-60MONTHS`**
-* A 5-year macro-driven enterprise matrix utilizing linear regression formulas and scatter distributions to model sales trajectories.
+* **[Online Retail Database System](https://github.com/steph45acke-hue/ONLINE-RETAIL-DATABASE-SYSTEM)**
+  * Designed and executed a 5-table relational database system in MySQL Workbench to manage and analyze retail operations.
+  * Structured complex relational schemas, maintained strict data integrity, and wrote advanced multi-table joins and analytical queries to extract critical business insights.
 
-
-* **`MONTECARLO-PORTFOLIO-SIMULATOR`**
-* Advanced stochastic tracking model designed to run variance testing, financial risk management, and asset probability distributions.
-
-
-* **`PROJECT-MONITORING-DASHBOARD`**
-* Dynamic, executive-facing tracking dashboard engineered to clean operational records and supply real-time KPI progress updates.
-
-
+* **[Online Learning Platform Database](https://github.com/steph45acke-hue/ONLINE-LEARNING-PLATFORM)**
+  * Built a comprehensive relational database backend from scratch to handle student registrations, course management, instructor records, and enrollments.
+  * Optimized table structures and query performance to streamline tracking, reporting, and user data analytics.
 
 ---
 
-## 🔗 CONNECT WITH ME
+### EXCEL PROJECT
 
-* **GitHub:** [github.com/steph45acke-hue](https://www.google.com/search?q=https://github.com/steph45acke-hue)
-* **LinkedIn:** [linkedin.com/in/stephen-mwangi](https://www.google.com/search?q=https://linkedin.com/in/stephen-mwangi)
-* **Email:** [steph45.ac.ke@gmail.com](https://www.google.com/search?q=mailto%3Asteph45.ac.ke%40gmail.com)
-* **WhatsApp:** +254 711 301 468
+* **[Cloud AI and VBA Dashboard Project](https://github.com/steph45acke-hue/EXCEL-AI-VBA-DASHBOARD)**
+  * Developed a dynamic, automated reporting dashboard in Excel combining advanced data modeling with VBA macros and Cloud AI integration.
+  * Automated data processing workflows and built interactive visualization elements for rapid executive reporting.
