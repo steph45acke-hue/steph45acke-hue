@@ -13,19 +13,19 @@ I am a Statistics & Economics student at The Co-operative University of Kenya, b
 * **Machine Learning:** Scikit-Learn, Predictive Modeling Basics
 * **Version Control:** Git, GitHub
 
----
 
 ### BEST SQL PROJECTS
 
-* **[E-Commerce Platform](https://github.com/steph45acke-hue/E_COMMERCE_PLATFORM)**
-  * Designed and executed a relational database system in MySQL Workbench to manage and analyze retail operations.
-  * Structured complex relational schemas, maintained strict data integrity, and wrote advanced multi-table joins and analytical queries to extract critical business insights.
+* **[SUPPLY_CHAIN_MANAGEMENT_SYSTEM](https://github.com/steph45acke-hue/SUPPLY_CHAIN_MANAGEMENT_SYSTEM)**
+  Designed and executed an end-to-end supply chain management system featuring relational database architecture and an interactive Power BI dashboard.
 
-* **[Online Learning Platform Database](https://github.com/steph45acke-hue/ONLINE_LEARNING_PLATFORM)**
-  * Built a comprehensive relational database backend from scratch to handle student registrations, course management, instructor records, and enrollments.
-  * Optimized table structures and query performance to streamline tracking, reporting, and user data analytics.
+* **E_COMMERCE_PLATFORM**
+  Designed and executed a relational database system in MySQL Workbench to manage and analyze retail operations.
+  Structured complex relational schemas, maintained strict data integrity, and wrote advanced multi-table joins and analytical queries to extract critical business insights.
 
----
+* **ONLINE_LEARNING_PLATFORM**
+  Built a comprehensive relational database backend from scratch to handle student registrations, course management, instructor records, and enrollments.
+  Optimized table structures and query performance to streamline tracking, reporting, and user data analytics.
 
 ### EXCEL PROJECT
 
