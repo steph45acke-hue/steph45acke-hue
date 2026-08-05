@@ -1,49 +1,67 @@
-# Hi there, I'm Stephen Munene! 👋
+<h1 align="center">DATA SCIENTIST</h1>
+<h3 align="center">STEPHEN MUNENE</h3>
 
-> **WE FOCUS ON SOLVING PROBLEMS AND GIVING SOLUTIONS WITH EXPLANATION.**
-
-I am a Statistics & Economics student at The Co-operative University of Kenya, building my path toward data science through robust database design, analytics, and machine learning. I bridge the gap between economic theory and practical, data-driven software solutions.
-
----
-
-### 🛠️ Core Tech Stack & Tools
-
-* **Status:** Statistics & Economics Student | The Co-operative University of Kenya
-* **Programming & Web Apps:** Python, Streamlit
-* **Databases & Querying:** MySQL, SQL Workbench
-* **Data Visualization & Analytics:** Excel, Advanced Dashboards
-* **Machine Learning:** Scikit-Learn, Predictive Modeling Basics
-* **Version Control:** Git, GitHub
-* **Core Focus:** `SQL` + `PYTHON` + `STREAMLIT`
+<p align="center">
+  <img src="https://img.shields.io/badge/MISSION-SOLVING%20PROBLEMS%20%26%20GIVING%20SOLUTIONS%20WITH%20EXPLANATION-success?style=for-the-badge&logo=codeforces&logoColor=white" alt="Mission">
+</p>
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🔹 [Sales & Inventory Forecasting System](https://github.com/steph45acke-hue/SALES_AND_INVENTORY_FORECASTING_SYSTEM)
-Developed an end-to-end operational analytics and forecasting platform integrating a normalized MySQL database backend with Python data processing pipelines and an interactive Streamlit web application. Features dynamic category filtering, key performance indicator metrics, and automated rolling 7-day trend visualization for real-time decision-making.
-
----
-
-### 📊 Best SQL Projects
-
-#### 🔸 [Supply Chain Management System](https://github.com/steph45acke-hue/SUPPLY_CHAIN_MANAGEMENT_SYSTEM)
-Designed and executed an end-to-end supply chain management system featuring relational database architecture and data-driven operational tracking to optimize logistics.
-
-#### 🔸 E-Commerce Platform *(Coming Soon / Update Link)*
-Designed and executed a relational database system in MySQL Workbench to manage and analyze retail operations. Structured complex relational schemas, maintained strict data integrity, and wrote advanced multi-table joins and analytical queries to extract critical business insights.
-
-#### 🔸 Online Learning Platform *(Coming Soon / Update Link)*
-Built a comprehensive relational database backend from scratch to handle student registrations, course management, instructor records, and enrollments. Optimized table structures and query performance to streamline tracking, reporting, and user data analytics.
+### 👨‍💻 PROFESSIONAL BACKGROUND
+<p>
+  Statistics & Economics undergraduate at <b>The Co-operative University of Kenya</b>. Focused on translating complex data and economic models into production-grade software systems, automated database architectures, and real-time decision-making applications.
+</p>
 
 ---
 
-### 📈 Excel Project
+### 🛠️ TECHNICAL ARCHITECTURE & STACK
 
-#### 📌 Cloud AI and VBA Dashboard Project *(Coming Soon / Update Link)*
-Developed a dynamic, automated reporting dashboard in Excel combining advanced data modeling with VBA macros and Cloud AI integration. Automated data processing workflows and built interactive visualization elements for rapid executive reporting.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+</p>
+
+* **Languages & Libraries:** Python, SQL, VBA, Pandas, NumPy
+* **Databases & Design:** MySQL Server, MySQL Workbench, ERD Modeling, Query Optimization
+* **Web & Visualization Tools:** Streamlit (Primary Visualization & Web App Engine), Automated Executive Dashboards
 
 ---
 
-### 📫 Connect With Me
-* **GitHub Profile:** [steph45acke-hue](https://github.com/steph45acke-hue)
+### 🚀 FEATURED PRODUCTION SYSTEMS
+
+* **🔗 [Sales & Inventory Forecasting System](https://github.com/steph45acke-hue/SALES_AND_INVENTORY_FORECASTING_SYSTEM)**  
+  <kbd>PYTHON + SQL + STREAMLIT</kbd>  
+  Operational intelligence platform combining a normalized MySQL database backend with Python processing pipelines and an interactive Streamlit visualization interface for real-time inventory management and rolling 7-day trend analysis.
+
+* **🔗 [Supply Chain Management System](https://github.com/steph45acke-hue/SUPPLY_CHAIN_MANAGEMENT_SYSTEM)**  
+  <kbd>Relational Architecture</kbd> <kbd>Logistics Tracking</kbd>  
+  Structured framework engineered to streamline asset tracking, eliminate bottlenecks, and enforce absolute data integrity.
+
+* **🔗 [E-Commerce Platform](https://github.com/steph45acke-hue/E_COMMERCE_PLATFORM)**  
+  <kbd>MySQL Workbench</kbd> <kbd>Complex Joins</kbd>  
+  Transactional and analytical retail database designed from scratch to execute multi-table joins and extract deep revenue insights.
+
+* **🔗 [Online Learning Platform](https://github.com/steph45acke-hue/ONLINE_LEARNING_PLATFORM)**  
+  <kbd>Relational Schema</kbd> <kbd>User Management</kbd>  
+  Scalable educational backend handling student registrations, course enrollments, and user performance tracking.
+
+* **📌 Cloud AI & VBA Dashboard**  
+  <kbd>Advanced Excel</kbd> <kbd>VBA Macros</kbd> <kbd>Cloud Intelligence</kbd>  
+  Dynamic, self-automating executive reporting framework accelerating enterprise decision-making workflows.
+
+---
+
+### 📫 PROFESSIONAL CONNECT
+<p>
+  <a href="https://github.com/steph45acke-hue">
+    <img src="https://img.shields.io/badge/GitHub-steph45acke_hue-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://wa.me/254111301468">
+    <img src="https://img.shields.io/badge/WhatsApp-0111301468-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
