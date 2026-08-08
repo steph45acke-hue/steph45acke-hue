@@ -34,6 +34,11 @@
 
 ### 🚀 FEATURED PRODUCTION SYSTEMS
 
+### **SQL + PYTHON + STREAMLIT VISUALIZATION PROJECT**
+
+## **[📈 STOCK TRADING PLATFORM](https://github.com/steph45acke-hue/STOCK_TRADING_PLATFORM)**
+> Full-stack financial database and interactive analytics dashboard built with MySQL and Python (Streamlit & Pandas) to simulate a live retail stock brokerage backend. Features real-time equity valuation, automated multi-table profit calculations, and an immutable transaction audit log with fully embedded inline documentation screenshots.
+
 * **🔗 [Sales & Inventory Forecasting System](https://github.com/steph45acke-hue/SALES_AND_INVENTORY_FORECASTING_SYSTEM)**  
   <kbd>PYTHON + SQL + STREAMLIT</kbd>  
   Operational intelligence platform combining a normalized MySQL database backend with Python processing pipelines and an interactive Streamlit visualization interface for real-time inventory management and rolling 7-day trend analysis.
@@ -46,9 +51,6 @@
   <kbd>MySQL Workbench</kbd> <kbd>Complex Joins</kbd>  
   Transactional and analytical retail database designed from scratch to execute multi-table joins and extract deep revenue insights.
 
-* **🔗 [Online Learning Platform](https://github.com/steph45acke-hue/ONLINE_LEARNING_PLATFORM)**  
-  <kbd>Relational Schema</kbd> <kbd>User Management</kbd>  
-  Scalable educational backend handling student registrations, course enrollments, and user performance tracking.
 
 * **📌 Cloud AI & VBA Dashboard**  
   <kbd>Advanced Excel</kbd> <kbd>VBA Macros</kbd> <kbd>Cloud Intelligence</kbd>  
