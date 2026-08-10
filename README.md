@@ -46,16 +46,13 @@
 * **🔗 [Supply Chain Management System](https://github.com/steph45acke-hue/SUPPLY_CHAIN_MANAGEMENT_SYSTEM)**  
   <kbd>Relational Architecture</kbd> <kbd>Logistics Tracking</kbd>  
   Structured framework engineered to streamline asset tracking, eliminate bottlenecks, and enforce absolute data integrity.
+# <span style="color: #2b6cb0;">DISTRIBUTED LEDGER TECHNOLOGY IMPLEMENTATION</span>
 
-* **🔗 [E-Commerce Platform](https://github.com/steph45acke-hue/E_COMMERCE_PLATFORM)**  
-  <kbd>MySQL Workbench</kbd> <kbd>Complex Joins</kbd>  
-  Transactional and analytical retail database designed from scratch to execute multi-table joins and extract deep revenue insights.
+🔗 **[https://github.com/steph45acke-hue/DISTRIBUTED_LEDGER_TECHNOLOGY_IMPLEMENTATION](https://github.com/steph45acke-hue/DISTRIBUTED_LEDGER_TECHNOLOGY_IMPLEMENTATION)**  
 
+`PYTHON` `SQL` `SHA-256` `MySQL`
 
-* **📌 Cloud AI & VBA Dashboard**  
-  <kbd>Advanced Excel</kbd> <kbd>VBA Macros</kbd> <kbd>Cloud Intelligence</kbd>  
-  Dynamic, self-automating executive reporting framework accelerating enterprise decision-making workflows.
-
+> **Project Brief:** A lightweight, backend-driven core that simulates cryptographic blockchain integrity and immutable data structures. The application securely links transactional data headers through SHA-256 hashing and manages relational foreign-key constraints using a MySQL backend, guaranteeing tamper-evident auditing and chain continuity. 
 ---
 
 ### 📫 PROFESSIONAL CONNECT
