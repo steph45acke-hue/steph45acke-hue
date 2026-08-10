@@ -31,7 +31,6 @@
 * **Web & Visualization Tools:** Streamlit (Primary Visualization & Web App Engine), Automated Executive Dashboards
 
 ---
-
 ### 🚀 FEATURED PRODUCTION SYSTEMS
 
 ### **SQL + PYTHON + STREAMLIT VISUALIZATION PROJECT**
@@ -46,14 +45,10 @@
 * **🔗 [Supply Chain Management System](https://github.com/steph45acke-hue/SUPPLY_CHAIN_MANAGEMENT_SYSTEM)**  
   <kbd>Relational Architecture</kbd> <kbd>Logistics Tracking</kbd>  
   Structured framework engineered to streamline asset tracking, eliminate bottlenecks, and enforce absolute data integrity.
-# <span style="color: #2b6cb0;">DISTRIBUTED LEDGER TECHNOLOGY IMPLEMENTATION</span>
 
-🔗 **[https://github.com/steph45acke-hue/DISTRIBUTED_LEDGER_TECHNOLOGY_IMPLEMENTATION](https://github.com/steph45acke-hue/DISTRIBUTED_LEDGER_TECHNOLOGY_IMPLEMENTATION)**  
-
-`PYTHON` `SQL` `SHA-256` `MySQL`
-
-> **Project Brief:** A lightweight, backend-driven core that simulates cryptographic blockchain integrity and immutable data structures. The application securely links transactional data headers through SHA-256 hashing and manages relational foreign-key constraints using a MySQL backend, guaranteeing tamper-evident auditing and chain continuity. 
----
+* **🔗 [DISTRIBUTED LEDGER TECHNOLOGY IMPLEMENTATION](https://github.com/steph45acke-hue/DISTRIBUTED_LEDGER_TECHNOLOGY_IMPLEMENTATION)**  
+  <kbd>PYTHON</kbd> <kbd>SQL</kbd> <kbd>SHA-256</kbd> <kbd>MySQL</kbd>  
+  > **Project Brief:** A lightweight, backend-driven core that simulates cryptographic blockchain integrity and immutable data structures. The application securely links transactional data headers through SHA-256 hashing and manages relational foreign-key constraints using a MySQL backend, guaranteeing tamper-evident auditing and chain continuity.
 
 ### 📫 PROFESSIONAL CONNECT
 <p>
