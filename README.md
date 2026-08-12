@@ -41,9 +41,8 @@
 * **🔗 [Sales & Inventory Forecasting System](https://github.com/steph45acke-hue/SALES_AND_INVENTORY_FORECASTING_SYSTEM)**  
   <kbd>PYTHON + SQL + STREAMLIT</kbd>  
   Operational intelligence platform combining a normalized MySQL database backend with Python processing pipelines and an interactive Streamlit visualization interface for real-time inventory management and rolling 7-day trend analysis.
-  
 ### 🚀 Enterprise CRM Analytics Engine
-> **PYTHON + SQL Project** | [View Repository](https://github.com/steph45acke-hue/Enterprise-CRM-Analytics-Engine)
+> **PYTHON + SQL Project**  (https://github.com/steph45acke-hue/CRM_ANALYTICS_DASHBOARD)
 
 An automated end-to-end Python and SQL ETL (Extract, Transform, Load) pipeline and business intelligence engine. It connects directly to a relational MySQL database, executes multi-table joins and aggregations, processes raw records into optimized Pandas DataFrames to compute key commercial KPIs (such as Total Spend and Average Order Value), and programmatically generates audit-ready version-controlled CSV reports and Matplotlib visual charts.
 
