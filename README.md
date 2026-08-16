@@ -33,10 +33,17 @@
 ---
 ### 🚀 FEATURED PRODUCTION SYSTEMS
 
-### **SQL + PYTHON + STREAMLIT VISUALIZATION PROJECT**
+[![STOCK TRADING PLATFORM](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&height=80&lines=STOCK+TRADING+PLATFORM;PYTHON+%2B+SQL+%2B+STREAMLIT)](https://github.com/steph45acke-hue/STOCK_TRADING_PLATFORM)<div align="center">
 
-## **[📈 STOCK TRADING PLATFORM](https://github.com/steph45acke-hue/STOCK_TRADING_PLATFORM)**
-> Full-stack financial database and interactive analytics dashboard built with MySQL and Python (Streamlit & Pandas) to simulate a live retail stock brokerage backend. Features real-time equity valuation, automated multi-table profit calculations, and an immutable transaction audit log with fully embedded inline documentation screenshots.
+[![Banner](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=1000&auto=format&fit=crop)](https://github.com/steph45acke-hue/STOCK_TRADING_PLATFORM)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/steph45acke-hue/STOCK_TRADING_PLATFORM)
+[![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)</div>
+
+A full-stack financial database and interactive analytics dashboard built with MySQL and Python to simulate a live retail stock brokerage backend with real-time equity valuation and transaction auditing.
+
 
 
 
@@ -52,15 +59,34 @@
 A complete **PYTHON + SQL + STREAMLIT** pipeline processing 2019 Kenya census data, managing relational database queries, and displaying live interactive insights.
 
 
+[![Enterprise CRM Analytics Engine](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&height=80&lines=ENTERPRISE+CRM+ANALYTICS;PYTHON+%2B+SQL+ETL+PIPELINE)](https://github.com/steph45acke-hue/CRM_ANALYTICS_DASHBOARD)<div align="center">
 
-### 🚀 Enterprise CRM Analytics Engine
-> **PYTHON + SQL Project**  (https://github.com/steph45acke-hue/CRM_ANALYTICS_DASHBOARD)
+[![Banner](https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1000&auto=format&fit=crop)](https://github.com/steph45acke-hue/CRM_ANALYTICS_DASHBOARD)
 
-An automated end-to-end Python and SQL ETL (Extract, Transform, Load) pipeline and business intelligence engine. It connects directly to a relational MySQL database, executes multi-table joins and aggregations, processes raw records into optimized Pandas DataFrames to compute key commercial KPIs (such as Total Spend and Average Order Value), and programmatically generates audit-ready version-controlled CSV reports and Matplotlib visual charts.
+[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/steph45acke-hue/CRM_ANALYTICS_DASHBOARD)
+[![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Pandas](https://img.shields.io/badge/Pandas-ETL-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)</div>
 
-* **🔗 [DISTRIBUTED LEDGER TECHNOLOGY IMPLEMENTATION](https://github.com/steph45acke-hue/DISTRIBUTED_LEDGER_TECHNOLOGY_IMPLEMENTATION)**  
-  <kbd>PYTHON</kbd> <kbd>SQL</kbd> <kbd>SHA-256</kbd> <kbd>MySQL</kbd>  
-  > **Project Brief:** A lightweight, backend-driven core that simulates cryptographic blockchain integrity and immutable data structures. The application securely links transactional data headers through SHA-256 hashing and manages relational foreign-key constraints using a MySQL backend, guaranteeing tamper-evident auditing and chain continuity.
+An automated end-to-end Python and SQL ETL (Extract, Transform, Load) pipeline and business intelligence engine designed to connect directly to relational MySQL databases, execute multi-table joins, and compute key commercial KPIs.
+
+
+
+
+[![Distributed Ledger Technology Implementation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FFB703&center=true&vCenter=true&width=800&height=80&lines=DISTRIBUTED+LEDGER+TECHNOLOGY;PYTHON+%2B+SQL+%2B+SHA-256+BLOCKCHAIN)](https://github.com/steph45acke-hue/DISTRIBUTED_LEDGER_TECHNOLOGY_IMPLEMENTATION)<div align="center">
+
+[![Banner](https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1000&auto=format&fit=crop)](https://github.com/steph45acke-hue/DISTRIBUTED_LEDGER_TECHNOLOGY_IMPLEMENTATION)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/steph45acke-hue/DISTRIBUTED_LEDGER_TECHNOLOGY_IMPLEMENTATION)
+[![Python](https://img.shields.io/badge/Python-Core-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/MySQL-Backend-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Security](https://img.shields.io/badge/SHA--256-Crypto-FF5722?style=for-the-badge&logo=letsencrypt&logoColor=white)](https://en.wikipedia.org/wiki/SHA-2)</div>
+
+A lightweight, backend-driven core simulating cryptographic blockchain integrity and immutable data structures, securing transactional data headers through SHA-256 hashing and MySQL foreign-key relational constraints for tamper-evident auditing.
+
+
+
+
 
 ### 📫 PROFESSIONAL CONNECT
 <p>
