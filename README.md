@@ -38,9 +38,21 @@
 ## **[📈 STOCK TRADING PLATFORM](https://github.com/steph45acke-hue/STOCK_TRADING_PLATFORM)**
 > Full-stack financial database and interactive analytics dashboard built with MySQL and Python (Streamlit & Pandas) to simulate a live retail stock brokerage backend. Features real-time equity valuation, automated multi-table profit calculations, and an immutable transaction audit log with fully embedded inline documentation screenshots.
 
-* **🔗 [Sales & Inventory Forecasting System](https://github.com/steph45acke-hue/SALES_AND_INVENTORY_FORECASTING_SYSTEM)**  
-  <kbd>PYTHON + SQL + STREAMLIT</kbd>  
-  Operational intelligence platform combining a normalized MySQL database backend with Python processing pipelines and an interactive Streamlit visualization interface for real-time inventory management and rolling 7-day trend analysis.
+
+
+[![KENYA CENSUS PROJECT](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&height=80&lines=KENYA+CENSUS+PROJECT;PYTHON+%2B+SQL+%2B+STREAMLIT)](https://github.com/steph45acke-hue/KENYA_CENSUS_PROJECT)<div align="center">
+
+[![Banner](https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1000&auto=format&fit=crop)](https://github.com/steph45acke-hue/KENYA_CENSUS_PROJECT)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/steph45acke-hue/KENYA_CENSUS_PROJECT)
+[![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)</div>
+
+A complete **PYTHON + SQL + STREAMLIT** pipeline processing 2019 Kenya census data, managing relational database queries, and displaying live interactive insights.
+
+
+
 ### 🚀 Enterprise CRM Analytics Engine
 > **PYTHON + SQL Project**  (https://github.com/steph45acke-hue/CRM_ANALYTICS_DASHBOARD)
 
