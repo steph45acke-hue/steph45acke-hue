@@ -59,12 +59,14 @@ A full-stack financial database and interactive analytics dashboard built with M
 A complete **PYTHON + SQL + STREAMLIT** pipeline processing 2019 Kenya census data, managing relational database queries, and displaying live interactive insights.
 
 
+
+
 [![KENYA CENSUS PIPELINE](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FF3366&center=true&vCenter=true&width=800&height=80&lines=KENYA+CENSUS+DATA+PIPELINE;CLEANING+%2B+REGRESSION+%2B+HYPOTHESIS)](https://github.com/steph45acke-hue/kenya-census-data-pipeline)
 
 <div align="center">
 
 <a href="https://github.com/steph45acke-hue/kenya-census-data-pipeline">
-  <img src="watermarked_img_12954197342813232702.jpg" alt="Kenya Census Pipeline Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/steph45acke-hue/kenya-census-data-pipeline/main/watermarked_img_12954197342813232702.jpg" alt="Kenya Census Pipeline Banner" width="100%">
 </a>
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/steph45acke-hue/kenya-census-data-pipeline)
@@ -77,6 +79,7 @@ A complete **PYTHON + SQL + STREAMLIT** pipeline processing 2019 Kenya census da
 ### 📊 Project Overview
 
 A dedicated **Python & Streamlit** data pipeline processing official census records through automated ETL data cleaning, **Ordinary Least Squares (OLS) Regression** testing land area versus population ($R^2 = 0.053$, $p = 0.120$), and **Welch’s T-Test Hypothesis Testing** comparing urban versus rural density variance ($p = 0.1316$) across all 47 Kenyan counties.
+
 
 
 
