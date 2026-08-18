@@ -64,7 +64,7 @@ A complete **PYTHON + SQL + STREAMLIT** pipeline processing 2019 Kenya census da
 <div align="center">
 
 <a href="https://github.com/steph45acke-hue/kenya-census-data-pipeline">
-  <img src="https://images.unsplash.com/photo-1551836022-d5d88e9218df?q=80&w=1000&auto=format&fit=crop" alt="Kenya Census Data Pipeline Visual" width="100%">
+  <img src="https://images.unsplash.com/photo-1596627136940-39c4f259a433?q=80&w=1000&auto=format&fit=crop" alt="Kenyan Data Analyst Working on Demographics Pipeline" width="100%">
 </a>
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/steph45acke-hue/kenya-census-data-pipeline)
@@ -74,8 +74,7 @@ A complete **PYTHON + SQL + STREAMLIT** pipeline processing 2019 Kenya census da
 
 </div>
 
-A detailed visual map showcasing Kenya's demographic distribution across all 47 counties, backed by an automated data pipeline featuring Ordinary Least Squares (OLS) Regression testing land area versus population ($R^2 = 0.053$, $p = 0.120$) and Welch’s T-Test Hypothesis Testing analyzing urban versus rural density variance ($p = 0.1316$).
-
+A detailed visual analytics platform showcasing Kenya's demographic distribution across all 47 counties, backed by an automated data pipeline featuring Ordinary Least Squares (OLS) Regression testing land area versus population ($R^2 = 0.053$, $p = 0.120$) and Welch’s T-Test Hypothesis Testing analyzing urban versus rural density variance ($p = 0.1316$).
 
 
 [![Enterprise CRM Analytics Engine](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&height=80&lines=ENTERPRISE+CRM+ANALYTICS;PYTHON+%2B+SQL+ETL+PIPELINE)](https://github.com/steph45acke-hue/CRM_ANALYTICS_DASHBOARD)<div align="center">
