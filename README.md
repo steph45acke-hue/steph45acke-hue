@@ -59,6 +59,23 @@ A full-stack financial database and interactive analytics dashboard built with M
 A complete **PYTHON + SQL + STREAMLIT** pipeline processing 2019 Kenya census data, managing relational database queries, and displaying live interactive insights.
 
 
+
+[![KENYA CENSUS PIPELINE](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&height=80&lines=KENYA+CENSUS+DATA+PIPELINE;REGRESSION+%2B+HYPOTHESIS+%2B+CLEANING)](https://github.com/steph45acke-hue/kenya-census-data-pipeline)
+
+<div align="center">
+
+[![Banner](https://raw.githubusercontent.com/steph45acke-hue/kenya-census-data-pipeline/main/watermarked_img_12764791923248855107.jpg)](https://github.com/steph45acke-hue/kenya-census-data-pipeline)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/steph45acke-hue/kenya-census-data-pipeline)
+[![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Statsmodels](https://img.shields.io/badge/Statsmodels-Regression-1f425f?style=for-the-badge&logo=python&logoColor=white)](https://www.statsmodels.org/)
+
+</div>
+
+A complete **PYTHON + STREAMLIT** data pipeline featuring automated data cleaning, **Ordinary Least Squares (OLS) Regression** testing land area vs. population ($R^2=0.053$, $p=0.120$), and **Welch’s T-Test Hypothesis Testing** comparing urban versus rural density variance ($p=0.1316$) across all 47 Kenyan counties.
+
+
+
 [![Enterprise CRM Analytics Engine](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&height=80&lines=ENTERPRISE+CRM+ANALYTICS;PYTHON+%2B+SQL+ETL+PIPELINE)](https://github.com/steph45acke-hue/CRM_ANALYTICS_DASHBOARD)<div align="center">
 
 [![Banner](https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1000&auto=format&fit=crop)](https://github.com/steph45acke-hue/CRM_ANALYTICS_DASHBOARD)
