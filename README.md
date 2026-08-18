@@ -64,7 +64,7 @@ A complete **PYTHON + SQL + STREAMLIT** pipeline processing 2019 Kenya census da
 <div align="center">
 
 <a href="https://github.com/steph45acke-hue/kenya-census-data-pipeline">
-  <img src="https://raw.githubusercontent.com/steph45acke-hue/kenya-census-data-pipeline/main/watermarked_img_10421556807299416968.jpg" alt="Kenya Census Demographics Map" width="100%">
+  <img src="https://images.unsplash.com/photo-1542838132-92c53300491e?q=80&w=1000&auto=format&fit=crop" alt="Kenya Census Dashboard Preview" width="100%">
 </a>
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/steph45acke-hue/kenya-census-data-pipeline)
@@ -74,7 +74,7 @@ A complete **PYTHON + SQL + STREAMLIT** pipeline processing 2019 Kenya census da
 
 </div>
 
-A detailed visual map showcasing Kenya's demographic distribution across all 47 counties, backed by an automated data pipeline featuring Ordinary Least Squares (OLS) Regression testing land area versus population ($R^2 = 0.053$, $p = 0.120$) and Welch’s T-Test Hypothesis Testing analyzing urban versus rural density variance ($p = 0.1316$).
+A detailed visual map and analytics platform showcasing Kenya's demographic distribution across all 47 counties, backed by an automated data pipeline featuring Ordinary Least Squares (OLS) Regression testing land area versus population ($R^2 = 0.053$, $p = 0.120$) and Welch’s T-Test Hypothesis Testing analyzing urban versus rural density variance ($p = 0.1316$).
 
 
 
