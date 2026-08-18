@@ -64,7 +64,7 @@ A complete **PYTHON + SQL + STREAMLIT** pipeline processing 2019 Kenya census da
 <div align="center">
 
 <a href="https://github.com/steph45acke-hue/kenya-census-data-pipeline">
-  <img src="https://images.unsplash.com/photo-1524661135-423995f22d0b?q=80&w=1000&auto=format&fit=crop" alt="Kenya Census Demographics Map and Geography" width="100%">
+  <img src="https://images.unsplash.com/photo-1551836022-d5d88e9218df?q=80&w=1000&auto=format&fit=crop" alt="Kenya Census Data Pipeline Visual" width="100%">
 </a>
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/steph45acke-hue/kenya-census-data-pipeline)
