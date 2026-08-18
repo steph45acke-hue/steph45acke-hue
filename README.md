@@ -59,7 +59,6 @@ A full-stack financial database and interactive analytics dashboard built with M
 A complete **PYTHON + SQL + STREAMLIT** pipeline processing 2019 Kenya census data, managing relational database queries, and displaying live interactive insights.
 
 
-
 [![KENYA CENSUS PIPELINE](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FF3366&center=true&vCenter=true&width=800&height=80&lines=KENYA+CENSUS+DATA+PIPELINE;CLEANING+%2B+REGRESSION+%2B+HYPOTHESIS)](https://github.com/steph45acke-hue/kenya-census-data-pipeline)
 
 <div align="center">
