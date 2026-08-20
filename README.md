@@ -88,19 +88,23 @@ A detailed visual analytics platform showcasing Kenya's demographic distribution
 
 An automated end-to-end Python and SQL ETL (Extract, Transform, Load) pipeline and business intelligence engine designed to connect directly to relational MySQL databases, execute multi-table joins, and compute key commercial KPIs.
 
+<div align="center">
+  <a href="https://github.com/steph45acke-hue/THE_EAST_AFRICAN_CROSS_BOARDER_TRADE_AND_LOGISTICS_INTELLIGENCE_PLATFORM">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodersRank/cosmo/master/screens/project_v2.gif">
+      <img src="https://raw.githubusercontent.com/CodersRank/cosmo/master/screens/project_v2.gif" width="100%" style="border-radius: 12px; box-shadow: 0px 4px 15px rgba(0,255,0,0.2);">
+    </picture>
+    <br><br>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=00FF66&center=true&vCenter=true&width=800&height=60&lines=The+East+African+Trade+Intelligence+Platform;Powered+by+Python+%7C+SQL+%7C+Streamlit;Building+Data+Infrastructure+for+Logistics" alt="Typing SVG" />
+  </a>
+</div>
 
+<p align="center" style="margin-top: 25px; font-size: 16px; color: #cccccc;">
+  Central hub for optimizing East African trade corridors. This professional data engineering platform simulates and analyzes complex logistics networks using a robust stack: <strong>Python</strong> for ETL, <strong>SQL</strong> for database architecture, and <strong>Streamlit</strong> for interactive BI dashboards. Click the visualization above to explore the full architecture and code.
+</p>
 
+---
 
-[![Distributed Ledger Technology Implementation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FFB703&center=true&vCenter=true&width=800&height=80&lines=DISTRIBUTED+LEDGER+TECHNOLOGY;PYTHON+%2B+SQL+%2B+SHA-256+BLOCKCHAIN)](https://github.com/steph45acke-hue/DISTRIBUTED_LEDGER_TECHNOLOGY_IMPLEMENTATION)<div align="center">
-
-[![Banner](https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1000&auto=format&fit=crop)](https://github.com/steph45acke-hue/DISTRIBUTED_LEDGER_TECHNOLOGY_IMPLEMENTATION)
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/steph45acke-hue/DISTRIBUTED_LEDGER_TECHNOLOGY_IMPLEMENTATION)
-[![Python](https://img.shields.io/badge/Python-Core-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/MySQL-Backend-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Security](https://img.shields.io/badge/SHA--256-Crypto-FF5722?style=for-the-badge&logo=letsencrypt&logoColor=white)](https://en.wikipedia.org/wiki/SHA-2)</div>
-
-A lightweight, backend-driven core simulating cryptographic blockchain integrity and immutable data structures, securing transactional data headers through SHA-256 hashing and MySQL foreign-key relational constraints for tamper-evident auditing.
 
 
 
