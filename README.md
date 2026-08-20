@@ -88,13 +88,9 @@ A detailed visual analytics platform showcasing Kenya's demographic distribution
 
 An automated end-to-end Python and SQL ETL (Extract, Transform, Load) pipeline and business intelligence engine designed to connect directly to relational MySQL databases, execute multi-table joins, and compute key commercial KPIs.
 
----
 <div align="center">
   <a href="https://github.com/steph45acke-hue/THE_EAST_AFRICAN_CROSS_BOARDER_TRADE_AND_LOGISTICS_INTELLIGENCE_PLATFORM">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://replicate.delivery/xpbkg/F6S9yN5O6bapPhsPqN399YqBf8v91G4eZ568871W637371bSA/output.png">
-      <img src="https://replicate.delivery/xpbkg/F6S9yN5O6bapPhsPqN399YqBf8v91G4eZ568871W637371bSA/output.png" width="100%" style="border-radius: 15px; box-shadow: 0px 5px 25px rgba(0,255,150,0.4); border: 2px solid #00ff99;" alt="East Africa Logistics Intelligence Platform Dashboard">
-    </picture>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:003366&height=220&section=header&text=EAST%20AFRICA%20LOGISTICS%20PLATFORM&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Python%20|%20SQL%20|%20Streamlit&descSize=16&descColor=00ff99" width="100%" style="border-radius: 12px; box-shadow: 0px 5px 20px rgba(0,255,150,0.3);" alt="East Africa Logistics Intelligence Platform">
   </a>
 </div>
 
@@ -102,28 +98,14 @@ An automated end-to-end Python and SQL ETL (Extract, Transform, Load) pipeline a
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&height=60&lines=THE+EAST+AFRICAN+TRADE+INTELLIGENCE+PLATFORM;POWERED+BY+SQL%2C+PYTHON+%2B+STREAMLIT;BUILDING+DATA+INFRASTRUCTURE+FOR+LOGISTICS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=800&height=50&lines=Enterprise+Data+Engine+for+EAC+Trade+Corridors;Automated+ETL+Pipelines+with+Python+%26+SQL;Interactive+Executive+BI+Dashboards+via+Streamlit" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
-<p align="center" style="font-size: 16px; color: #cccccc;">
-  <strong>The East African Cross-Border Trade & Logistics Intelligence Platform</strong> is an enterprise data engine modeling trade corridors across Mombasa, Nairobi, Kampala, and Dar es Salaam. Built using <strong>Python</strong> for automated ETL pipelines, <strong>SQL</strong> for relational data warehousing, and <strong>Streamlit</strong> for interactive business intelligence dashboards. Click the visual above to explore the repository.
+<p align="center" style="font-size: 15px; color: #cccccc;">
+  <strong>The East African Cross-Border Trade & Logistics Intelligence Platform</strong> is an enterprise data engine modeling trade corridors across Mombasa, Nairobi, Kampala, and Dar es Salaam. Built using <strong>Python</strong> for automated ETL pipelines, <strong>SQL</strong> for relational data warehousing, and <strong>Streamlit</strong> for interactive business intelligence dashboards. Click the banner above to explore the full repository.
 </p>
 
 ---
-
-
-
-
-
-### 📫 PROFESSIONAL CONNECT
-<p>
-  <a href="https://github.com/steph45acke-hue">
-    <img src="https://img.shields.io/badge/GitHub-steph45acke_hue-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://wa.me/254111301468">
-    <img src="https://img.shields.io/badge/WhatsApp-0111301468-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-</p>
