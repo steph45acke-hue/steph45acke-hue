@@ -88,23 +88,31 @@ A detailed visual analytics platform showcasing Kenya's demographic distribution
 
 An automated end-to-end Python and SQL ETL (Extract, Transform, Load) pipeline and business intelligence engine designed to connect directly to relational MySQL databases, execute multi-table joins, and compute key commercial KPIs.
 
+---
 <div align="center">
   <a href="https://github.com/steph45acke-hue/THE_EAST_AFRICAN_CROSS_BOARDER_TRADE_AND_LOGISTICS_INTELLIGENCE_PLATFORM">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodersRank/cosmo/master/screens/project_v2.gif">
-      <img src="https://raw.githubusercontent.com/CodersRank/cosmo/master/screens/project_v2.gif" width="100%" style="border-radius: 12px; box-shadow: 0px 4px 15px rgba(0,255,0,0.2);">
+      <source media="(prefers-color-scheme: dark)" srcset="https://replicate.delivery/xpbkg/F6S9yN5O6bapPhsPqN399YqBf8v91G4eZ568871W637371bSA/output.png">
+      <img src="https://replicate.delivery/xpbkg/F6S9yN5O6bapPhsPqN399YqBf8v91G4eZ568871W637371bSA/output.png" width="100%" style="border-radius: 15px; box-shadow: 0px 5px 25px rgba(0,255,150,0.4); border: 2px solid #00ff99;" alt="East Africa Logistics Intelligence Platform Dashboard">
     </picture>
-    <br><br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=00FF66&center=true&vCenter=true&width=800&height=60&lines=The+East+African+Trade+Intelligence+Platform;Powered+by+Python+%7C+SQL+%7C+Streamlit;Building+Data+Infrastructure+for+Logistics" alt="Typing SVG" />
   </a>
 </div>
 
-<p align="center" style="margin-top: 25px; font-size: 16px; color: #cccccc;">
-  Central hub for optimizing East African trade corridors. This professional data engineering platform simulates and analyzes complex logistics networks using a robust stack: <strong>Python</strong> for ETL, <strong>SQL</strong> for database architecture, and <strong>Streamlit</strong> for interactive BI dashboards. Click the visualization above to explore the full architecture and code.
+<br>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&height=60&lines=THE+EAST+AFRICAN+TRADE+INTELLIGENCE+PLATFORM;POWERED+BY+SQL%2C+PYTHON+%2B+STREAMLIT;BUILDING+DATA+INFRASTRUCTURE+FOR+LOGISTICS" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
+
+<p align="center" style="font-size: 16px; color: #cccccc;">
+  <strong>The East African Cross-Border Trade & Logistics Intelligence Platform</strong> is an enterprise data engine modeling trade corridors across Mombasa, Nairobi, Kampala, and Dar es Salaam. Built using <strong>Python</strong> for automated ETL pipelines, <strong>SQL</strong> for relational data warehousing, and <strong>Streamlit</strong> for interactive business intelligence dashboards. Click the visual above to explore the repository.
 </p>
 
 ---
-
 
 
 
