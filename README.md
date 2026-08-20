@@ -114,3 +114,22 @@ A detailed visual analytics platform showcasing Kenya's demographic distribution
 
 An automated end-to-end Python and SQL ETL (Extract, Transform, Load) pipeline and business intelligence engine designed to connect directly to relational MySQL databases, execute multi-table joins, and compute key commercial KPIs.
 
+
+
+---
+
+## 📬 Professional Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/stephen-mwangi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Stephen_Mwangi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/254111301468" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp_/_Call-0111301468-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/steph45acke-hue" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-steph45acke_hue-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</div>
