@@ -31,33 +31,12 @@
 * **Web & Visualization Tools:** Streamlit (Primary Visualization & Web App Engine), Automated Executive Dashboards
 
 ---
-### 🚀 FEATURED PRODUCTION SYSTEMS
 
+### 🚀 FEATUREED PRODUCTION SYSTEMS
 
-
-<div align="center">
-  <a href="https://github.com/steph45acke-hue/THE_EAST_AFRICAN_CROSS_BOARDER_TRADE_AND_LOGISTICS_INTELLIGENCE_PLATFORM">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:003366&height=220&section=header&text=EAST%20AFRICA%20LOGISTICS%20PLATFORM&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Python%20|%20SQL%20|%20Streamlit&descSize=16&descColor=00ff99" width="100%" style="border-radius: 12px; box-shadow: 0px 5px 20px rgba(0,255,150,0.3);" alt="East Africa Logistics Intelligence Platform">
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=800&height=50&lines=Enterprise+Data+Engine+for+EAC+Trade+Corridors;Automated+ETL+Pipelines+with+Python+%26+SQL;Interactive+Executive+BI+Dashboards+via+Streamlit" alt="Typing SVG" />
-  </a>
-</div>
-
-<br>
-
-<p align="center" style="font-size: 15px; color: #cccccc;">
-  <strong>The East African Cross-Border Trade & Logistics Intelligence Platform</strong> is an enterprise data engine modeling trade corridors across Mombasa, Nairobi, Kampala, and Dar es Salaam. Built using <strong>Python</strong> for automated ETL pipelines, <strong>SQL</strong> for relational data warehousing, and <strong>Streamlit</strong> for interactive business intelligence dashboards. Click the banner above to explore the full repository.
-</p>
-
----
-
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
 [![STOCK TRADING PLATFORM](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&height=80&lines=STOCK+TRADING+PLATFORM;PYTHON+%2B+SQL+%2B+STREAMLIT)](https://github.com/steph45acke-hue/STOCK_TRADING_PLATFORM)<div align="center">
 
@@ -70,20 +49,7 @@
 
 A full-stack financial database and interactive analytics dashboard built with MySQL and Python to simulate a live retail stock brokerage backend with real-time equity valuation and transaction auditing.
 
-
-
-
-[![KENYA CENSUS PROJECT](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&height=80&lines=KENYA+CENSUS+PROJECT;PYTHON+%2B+SQL+%2B+STREAMLIT)](https://github.com/steph45acke-hue/KENYA_CENSUS_PROJECT)<div align="center">
-
-[![Banner](https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1000&auto=format&fit=crop)](https://github.com/steph45acke-hue/KENYA_CENSUS_PROJECT)
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/steph45acke-hue/KENYA_CENSUS_PROJECT)
-[![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)</div>
-
-A complete **PYTHON + SQL + STREAMLIT** pipeline processing 2019 Kenya census data, managing relational database queries, and displaying live interactive insights.
-
+<br>
 
 [![KENYA CENSUS PIPELINE](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FF3366&center=true&vCenter=true&width=800&height=80&lines=KENYA+CENSUS+DATA+PIPELINE;CLEANING+%2B+REGRESSION+%2B+HYPOTHESIS)](https://github.com/steph45acke-hue/kenya-census-data-pipeline)
 
@@ -102,6 +68,21 @@ A complete **PYTHON + SQL + STREAMLIT** pipeline processing 2019 Kenya census da
 
 A detailed visual analytics platform showcasing Kenya's demographic distribution across all 47 counties, backed by an automated data pipeline featuring Ordinary Least Squares (OLS) Regression testing land area versus population ($R^2 = 0.053$, $p = 0.120$) and Welch’s T-Test Hypothesis Testing analyzing urban versus rural density variance ($p = 0.1316$).
 
+    </td>
+    <td width="50%" valign="top">
+
+[![KENYA CENSUS PROJECT](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&height=80&lines=KENYA+CENSUS+PROJECT;PYTHON+%2B+SQL+%2B+STREAMLIT)](https://github.com/steph45acke-hue/KENYA_CENSUS_PROJECT)<div align="center">
+
+[![Banner](https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1000&auto=format&fit=crop)](https://github.com/steph45acke-hue/KENYA_CENSUS_PROJECT)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/steph45acke-hue/KENYA_CENSUS_PROJECT)
+[![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)</div>
+
+A complete **PYTHON + SQL + STREAMLIT** pipeline processing 2019 Kenya census data, managing relational database queries, and displaying live interactive insights.
+
+<br>
 
 [![Enterprise CRM Analytics Engine](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&height=80&lines=ENTERPRISE+CRM+ANALYTICS;PYTHON+%2B+SQL+ETL+PIPELINE)](https://github.com/steph45acke-hue/CRM_ANALYTICS_DASHBOARD)<div align="center">
 
@@ -113,6 +94,28 @@ A detailed visual analytics platform showcasing Kenya's demographic distribution
 [![Pandas](https://img.shields.io/badge/Pandas-ETL-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)</div>
 
 An automated end-to-end Python and SQL ETL (Extract, Transform, Load) pipeline and business intelligence engine designed to connect directly to relational MySQL databases, execute multi-table joins, and compute key commercial KPIs.
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📬 Professional Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/stephen-mwangi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Stephen_Mwangi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/254111301468" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp_/_Call-0111301468-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/steph45acke-hue" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-steph45acke_hue-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</div>
 
 
 
