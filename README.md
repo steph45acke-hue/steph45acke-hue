@@ -31,7 +31,7 @@
 * **Web & Visualization Tools:** Streamlit (Primary Visualization & Web App Engine), Automated Executive Dashboards
 
 ---
-### 🚀 FEATUREED PRODUCTION SYSTEMS
+
 
 
 ### 🚀 FEATURED PRODUCTION SYSTEMS
@@ -117,10 +117,6 @@ A complete **PYTHON + SQL + STREAMLIT** pipeline processing 2019 Kenya census da
 [![Pandas](https://img.shields.io/badge/Pandas-ETL-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)</div>
 
 An automated end-to-end Python and SQL ETL (Extract, Transform, Load) pipeline and business intelligence engine designed to connect directly to relational MySQL databases, execute multi-table joins, and compute key commercial KPIs.
-
-    </td>
-  </tr>
-</table>
 
 ---
 
