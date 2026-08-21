@@ -31,7 +31,6 @@
 * **Web & Visualization Tools:** Streamlit (Primary Visualization & Web App Engine), Automated Executive Dashboards
 
 ---
-
 ### 🚀 FEATUREED PRODUCTION SYSTEMS
 
 <table>
@@ -68,8 +67,6 @@ A full-stack financial database and interactive analytics dashboard built with M
 
 A detailed visual analytics platform showcasing Kenya's demographic distribution across all 47 counties, backed by an automated data pipeline featuring Ordinary Least Squares (OLS) Regression testing land area versus population ($R^2 = 0.053$, $p = 0.120$) and Welch’s T-Test Hypothesis Testing analyzing urban versus rural density variance ($p = 0.1316$).
 
-    </td>
-    <td width="50%" valign="top">
 
 [![KENYA CENSUS PROJECT](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&height=80&lines=KENYA+CENSUS+PROJECT;PYTHON+%2B+SQL+%2B+STREAMLIT)](https://github.com/steph45acke-hue/KENYA_CENSUS_PROJECT)<div align="center">
 
@@ -121,18 +118,4 @@ An automated end-to-end Python and SQL ETL (Extract, Transform, Load) pipeline a
 
 ---
 
-## 📬 Professional Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/stephen-mwangi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Stephen_Mwangi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/254111301468" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp_/_Call-0111301468-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/steph45acke-hue" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-steph45acke_hue-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-</div>
+#
