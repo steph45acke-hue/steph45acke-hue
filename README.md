@@ -33,6 +33,32 @@
 ---
 ### 🚀 FEATUREED PRODUCTION SYSTEMS
 
+
+### 🚀 FEATURED PRODUCTION SYSTEMS
+
+<div align="center">
+  <a href="https://github.com/steph45acke-hue/THE_EAST_AFRICAN_CROSS_BOARDER_TRADE_AND_LOGISTICS_INTELLIGENCE_PLATFORM">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:003366&height=220&section=header&text=EAST%20AFRICA%20LOGISTICS%20PLATFORM&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Python%20|%20SQL%20|%20Streamlit&descSize=16&descColor=00ff99" width="100%" style="border-radius: 12px; box-shadow: 0px 5px 20px rgba(0,255,150,0.3);" alt="East Africa Logistics Intelligence Platform">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=800&height=50&lines=Enterprise+Data+Engine+for+EAC+Trade+Corridors;Automated+ETL+Pipelines+with+Python+%26+SQL;Interactive+Executive+BI+Dashboards+via+Streamlit" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
+
+<p align="center" style="font-size: 15px; color: #cccccc;">
+  <strong>The East African Cross-Border Trade & Logistics Intelligence Platform</strong> is an enterprise data engine modeling trade corridors across Mombasa, Nairobi, Kampala, and Dar es Salaam. Built using <strong>Python</strong> for automated ETL pipelines, <strong>SQL</strong> for relational data warehousing, and <strong>Streamlit</strong> for interactive business intelligence dashboards. Click the banner above to explore the full repository.
+</p>
+
+---
+
+
 <table>
   <tr>
     <td width="50%" valign="top">
