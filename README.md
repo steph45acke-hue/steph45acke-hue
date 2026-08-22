@@ -30,24 +30,6 @@
 * **Databases & Design:** MySQL Server, MySQL Workbench, ERD Modeling, Query Optimization
 * **Web & Visualization Tools:** Streamlit (Primary Visualization & Web App Engine), Automated Executive Dashboards
 
-BEST FEATURED PROJECTS
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-<div align="center">
-
-<a href="https://github.com/steph45acke-hue/THE_EAST_AFRICAN_CROSS_BOARDER_TRADE_AND_LOGISTICS_INTELLIGENCE_PLATFORM">
-  <img src="https://raw.githubusercontent.com/steph45acke-hue/THE_EAST_AFRICAN_CROSS_BOARDER_TRADE_AND_LOGISTICS_INTELLIGENCE_PLATFORM/main/banner.jpg" alt="East Africa Logistics Banner" width="100%">
-</a>
-
-<br>
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/steph45acke-hue/THE_EAST_AFRICAN_CROSS_BOARDER_TRADE_AND_LOGISTICS_INTELLIGENCE_PLATFORM)
-[![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 
 BEST FEATURED PROJECTS
