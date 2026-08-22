@@ -138,21 +138,37 @@ BEST FEATURED PROJECTS
 
 ---
 
- 
+<div align="center">
 
+## 🇰🇪 Kenya Census Project: National Statistics & Regional Insights
 
-[![KENYA CENSUS PROJECT](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&height=80&lines=KENYA+CENSUS+PROJECT;PYTHON+%2B+SQL+%2B+STREAMLIT)](https://github.com/steph45acke-hue/KENYA_CENSUS_PROJECT)<div align="center">
-
-[![Banner](https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1000&auto=format&fit=crop)](https://github.com/steph45acke-hue/KENYA_CENSUS_PROJECT)
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/steph45acke-hue/KENYA_CENSUS_PROJECT)
-[![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)</div>
-
-A complete **PYTHON + SQL + STREAMLIT** pipeline processing 2019 Kenya census data, managing relational database queries, and displaying live interactive insights.
+<a href="https://github.com/steph45acke-hue/KENYA_CENSUS_PROJECT">
+  <img src="https://raw.githubusercontent.com/steph45acke-hue/KENYA_CENSUS_PROJECT/main/banner.jpg" alt="Kenya Census Statistics Banner" width="100%">
+</a>
 
 <br>
+
+<a href="https://github.com/steph45acke-hue/KENYA_CENSUS_PROJECT">
+  <img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-black?style=for-the-badge&logo=github" alt="View Repository">
+</a>
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/PYTHON-3.14-blue?style=for-the-badge&logo=python" alt="Python">
+</a>
+<a href="https://streamlit.io/">
+  <img src="https://img.shields.io/badge/STREAMLIT-DASHBOARD-red?style=for-the-badge&logo=streamlit" alt="Streamlit">
+</a>
+<a href="https://www.mysql.com/">
+  <img src="https://img.shields.io/badge/MYSQL-DATABASE-blue?style=for-the-badge&logo=mysql" alt="MySQL">
+</a>
+
+</div>
+
+> **Project Overview:** A complete **Python**, **SQL**, and **Streamlit** pipeline processing the official 2019 Kenya census data. This project manages complex relational database queries and visualizes live, interactive insights, showcasing key regional activities and population statistics (e.g., Mount Kenya Farming, Coastal Tourism) across the nation.
+
+--- 
+
+
+
 
 [![Enterprise CRM Analytics Engine](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&height=80&lines=ENTERPRISE+CRM+ANALYTICS;PYTHON+%2B+SQL+ETL+PIPELINE)](https://github.com/steph45acke-hue/CRM_ANALYTICS_DASHBOARD)<div align="center">
 
