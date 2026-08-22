@@ -32,40 +32,28 @@
 
 BEST FEATURED PROJECTS
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
 <div align="center">
 
-## 🌍 The East African Cross-Border Trade & Logistics Intelligence Platform
-
 <a href="https://github.com/steph45acke-hue/THE_EAST_AFRICAN_CROSS_BOARDER_TRADE_AND_LOGISTICS_INTELLIGENCE_PLATFORM">
-  <img src="https://raw.githubusercontent.com/steph45acke-hue/THE_EAST_AFRICAN_CROSS_BOARDER_TRADE_AND_LOGISTICS_INTELLIGENCE_PLATFORM/main/banner.jpg" alt="East Africa Logistics Banner" width="85%">
+  <img src="https://raw.githubusercontent.com/steph45acke-hue/THE_EAST_AFRICAN_CROSS_BOARDER_TRADE_AND_LOGISTICS_INTELLIGENCE_PLATFORM/main/banner.jpg" alt="East Africa Logistics Banner" width="100%">
 </a>
 
 <br>
 
-<a href="https://github.com/steph45acke-hue/THE_EAST_AFRICAN_CROSS_BOARDER_TRADE_AND_LOGISTICS_INTELLIGENCE_PLATFORM">
-  <img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-black?style=for-the-badge&logo=github" alt="View Repository">
-</a>
-<a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/PYTHON-3.14-blue?style=for-the-badge&logo=python" alt="Python">
-</a>
-<a href="https://streamlit.io/">
-  <img src="https://img.shields.io/badge/STREAMLIT-DASHBOARD-red?style=for-the-badge&logo=streamlit" alt="Streamlit">
-</a>
-<a href="https://www.mysql.com/">
-  <img src="https://img.shields.io/badge/MYSQL-WAREHOUSE-blue?style=for-the-badge&logo=mysql" alt="MySQL">
-</a>
+[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/steph45acke-hue/THE_EAST_AFRICAN_CROSS_BOARDER_TRADE_AND_LOGISTICS_INTELLIGENCE_PLATFORM)
+[![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 </div>
 
-> **Project Overview:** An enterprise-grade trade corridor analytics engine modeling cross-border logistics networks across the Northern and Central corridors (connecting Mombasa, Nairobi, Kampala, and Dar es Salaam). Built using **Python** for automated ETL pipeline execution, **SQL** for relational data warehousing, and an interactive **Streamlit** executive dashboard to monitor transit efficiencies and bottleneck risks. Click the banner above to explore the repository.
+An enterprise-grade trade corridor analytics engine modeling cross-border logistics networks across the Northern and Central corridors, built with automated Python ETL pipelines, SQL warehousing, and an interactive Streamlit executive dashboard.
 
----
-
-
-
-<table>
-  <tr>
+    </td>
     <td width="50%" valign="top">
 
 <div align="center">
@@ -85,13 +73,12 @@ BEST FEATURED PROJECTS
 
 A full-stack financial database and interactive analytics dashboard built with MySQL and Python to simulate a live retail stock brokerage backend with real-time equity valuation and transaction auditing.
 
-  <table>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
 
 <div align="center">
-
-[![KENYA CENSUS PIPELINE](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FF3366&center=true&vCenter=true&width=800&height=80&lines=KENYA+CENSUS+DATA+PIPELINE;CLEANING+%2B+REGRESSION+%2B+HYPOTHESIS)](https://github.com/steph45acke-hue/kenya-census-data-pipeline)
 
 <a href="https://github.com/steph45acke-hue/kenya-census-data-pipeline">
   <img src="https://raw.githubusercontent.com/steph45acke-hue/kenya-census-data-pipeline/main/banner.jpg" alt="Kenya Census Data Pipeline Banner" width="100%">
@@ -106,8 +93,16 @@ A full-stack financial database and interactive analytics dashboard built with M
 
 </div>
 
-A detailed visual analytics platform showcasing Kenya's demographic distribution across all 47 counties, backed by an automated data pipeline featuring Ordinary Least Squares (OLS) Regression testing land area versus population ($R^2 = 0.053$, $p = 0.120$) and Welch’s T-Test Hypothesis Testing analyzing urban versus rural density variance ($p = 0.1316$).
+A detailed visual analytics platform showcasing Kenya's demographic distribution across all 47 counties, backed by an automated data pipeline featuring Ordinary Least Squares (OLS) Regression and Welch’s T-Test Hypothesis Testing.
 
+    </td>
+    <td width="50%" valign="top">
+      <!-- Leave blank or use for the next project when ready -->
+    </td>
+  </tr>
+</table>
+
+<br>
    
 
 
