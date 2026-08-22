@@ -85,19 +85,19 @@ BEST FEATURED PROJECTS
 
 A full-stack financial database and interactive analytics dashboard built with MySQL and Python to simulate a live retail stock brokerage backend with real-time equity valuation and transaction auditing.
 
-    </td>
-  </tr>
-</table>
-
-<br>
-
-[![KENYA CENSUS PIPELINE](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FF3366&center=true&vCenter=true&width=800&height=80&lines=KENYA+CENSUS+DATA+PIPELINE;CLEANING+%2B+REGRESSION+%2B+HYPOTHESIS)](https://github.com/steph45acke-hue/kenya-census-data-pipeline)
+  <table>
+  <tr>
+    <td width="50%" valign="top">
 
 <div align="center">
 
+[![KENYA CENSUS PIPELINE](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FF3366&center=true&vCenter=true&width=800&height=80&lines=KENYA+CENSUS+DATA+PIPELINE;CLEANING+%2B+REGRESSION+%2B+HYPOTHESIS)](https://github.com/steph45acke-hue/kenya-census-data-pipeline)
+
 <a href="https://github.com/steph45acke-hue/kenya-census-data-pipeline">
-  <img src="https://images.unsplash.com/photo-1531482615713-2afd69097998?q=80&w=1000&auto=format&fit=crop" alt="Kenyan Professional Collaborating on Data Analytics" width="100%">
+  <img src="https://raw.githubusercontent.com/steph45acke-hue/kenya-census-data-pipeline/main/banner.jpg" alt="Kenya Census Data Pipeline Banner" width="100%">
 </a>
+
+<br>
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/steph45acke-hue/kenya-census-data-pipeline)
 [![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -107,6 +107,8 @@ A full-stack financial database and interactive analytics dashboard built with M
 </div>
 
 A detailed visual analytics platform showcasing Kenya's demographic distribution across all 47 counties, backed by an automated data pipeline featuring Ordinary Least Squares (OLS) Regression testing land area versus population ($R^2 = 0.053$, $p = 0.120$) and Welch’s T-Test Hypothesis Testing analyzing urban versus rural density variance ($p = 0.1316$).
+
+   
 
 
 [![KENYA CENSUS PROJECT](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&height=80&lines=KENYA+CENSUS+PROJECT;PYTHON+%2B+SQL+%2B+STREAMLIT)](https://github.com/steph45acke-hue/KENYA_CENSUS_PROJECT)<div align="center">
