@@ -30,6 +30,7 @@
 * **Databases & Design:** MySQL Server, MySQL Workbench, ERD Modeling, Query Optimization
 * **Web & Visualization Tools:** Streamlit (Primary Visualization & Web App Engine), Automated Executive Dashboards
 
+BEST FEATURED PROJECTS
 
 
 <div align="center">
@@ -67,16 +68,26 @@
   <tr>
     <td width="50%" valign="top">
 
-[![STOCK TRADING PLATFORM](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&height=80&lines=STOCK+TRADING+PLATFORM;PYTHON+%2B+SQL+%2B+STREAMLIT)](https://github.com/steph45acke-hue/STOCK_TRADING_PLATFORM)<div align="center">
+<div align="center">
 
-[![Banner](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=1000&auto=format&fit=crop)](https://github.com/steph45acke-hue/STOCK_TRADING_PLATFORM)
+<a href="https://github.com/steph45acke-hue/STOCK_TRADING_PLATFORM">
+  <img src="https://raw.githubusercontent.com/steph45acke-hue/STOCK_TRADING_PLATFORM/main/banner.jpg" alt="Stock Trading Platform Banner" width="100%">
+</a>
+
+<br>
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/steph45acke-hue/STOCK_TRADING_PLATFORM)
 [![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)</div>
+[![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+
+</div>
 
 A full-stack financial database and interactive analytics dashboard built with MySQL and Python to simulate a live retail stock brokerage backend with real-time equity valuation and transaction auditing.
+
+    </td>
+  </tr>
+</table>
 
 <br>
 
