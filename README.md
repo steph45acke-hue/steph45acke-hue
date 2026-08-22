@@ -167,21 +167,36 @@ BEST FEATURED PROJECTS
 
 --- 
 
-
-
-
-[![Enterprise CRM Analytics Engine](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&height=80&lines=ENTERPRISE+CRM+ANALYTICS;PYTHON+%2B+SQL+ETL+PIPELINE)](https://github.com/steph45acke-hue/CRM_ANALYTICS_DASHBOARD)<div align="center">
-
-[![Banner](https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1000&auto=format&fit=crop)](https://github.com/steph45acke-hue/CRM_ANALYTICS_DASHBOARD)
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/steph45acke-hue/CRM_ANALYTICS_DASHBOARD)
-[![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Pandas](https://img.shields.io/badge/Pandas-ETL-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)</div>
-
-An automated end-to-end Python and SQL ETL (Extract, Transform, Load) pipeline and business intelligence engine designed to connect directly to relational MySQL databases, execute multi-table joins, and compute key commercial KPIs.
-
 <div align="center">
+
+## 💼 Enterprise CRM Analytics Engine & Commercial Intelligence
+
+<a href="https://github.com/steph45acke-hue/CRM_ANALYTICS_DASHBOARD">
+  <img src="https://raw.githubusercontent.com/steph45acke-hue/CRM_ANALYTICS_DASHBOARD/main/banner.jpg" alt="Enterprise CRM Analytics Engine Banner" width="100%">
+</a>
+
+<br>
+
+<a href="https://github.com/steph45acke-hue/CRM_ANALYTICS_DASHBOARD">
+  <img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-black?style=for-the-badge&logo=github" alt="View Repository">
+</a>
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/PYTHON-3.14-blue?style=for-the-badge&logo=python" alt="Python">
+</a>
+<a href="https://streamlit.io/">
+  <img src="https://img.shields.io/badge/STREAMLIT-DASHBOARD-red?style=for-the-badge&logo=streamlit" alt="Streamlit">
+</a>
+<a href="https://www.mysql.com/">
+  <img src="https://img.shields.io/badge/MYSQL-DATABASE-blue?style=for-the-badge&logo=mysql" alt="MySQL">
+</a>
+
+</div>
+
+> **Project Overview:** An enterprise-grade CRM analytics engine linking **Python** and **SQL** ETL pipelines to ingest, clean, and compute vital commercial key performance indicators (KPIs). Features advanced customer segmentation, lifetime value modeling, and an interactive executive dashboard for real-time sales and retention tracking.
+
+---
+
+
 
 ## 🛡️ Fraud Detection & Supply Chain Network Intelligence Engine
 
