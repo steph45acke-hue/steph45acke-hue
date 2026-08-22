@@ -118,6 +118,35 @@ A complete **PYTHON + SQL + STREAMLIT** pipeline processing 2019 Kenya census da
 
 An automated end-to-end Python and SQL ETL (Extract, Transform, Load) pipeline and business intelligence engine designed to connect directly to relational MySQL databases, execute multi-table joins, and compute key commercial KPIs.
 
+<div align="center">
+
+## 🛡️ Fraud Detection & Supply Chain Network Intelligence Engine
+
+<a href="https://github.com/steph45acke-hue/FRAUD_DETECTION_AND_SUPPLY_CHAIN_NETWORK_INTELLIGENCE_ENGINE">
+  <img src="https://raw.githubusercontent.com/steph45acke-hue/FRAUD_DETECTION_AND_SUPPLY_CHAIN_NETWORK_INTELLIGENCE_ENGINE/main/banner.jpg" alt="Fraud Detection Banner" width="85%">
+</a>
+
+<br>
+
+<a href="https://github.com/steph45acke-hue/FRAUD_DETECTION_AND_SUPPLY_CHAIN_NETWORK_INTELLIGENCE_ENGINE">
+  <img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-black?style=for-the-badge&logo=github" alt="View Repository">
+</a>
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/PYTHON-3.14-blue?style=for-the-badge&logo=python" alt="Python">
+</a>
+<a href="https://streamlit.io/">
+  <img src="https://img.shields.io/badge/STREAMLIT-DASHBOARD-red?style=for-the-badge&logo=streamlit" alt="Streamlit">
+</a>
+<a href="https://www.mysql.com/">
+  <img src="https://img.shields.io/badge/MYSQL-ANALYTICS-blue?style=for-the-badge&logo=mysql" alt="MySQL">
+</a>
+
+</div>
+
+> **Project Overview:** An automated analytical platform built to expose complex financial crimes. It utilizes advanced MySQL relational queries and window functions (`LAG`) to uncover multi-hop circular money laundering, high-velocity transaction bursts, and shared device fingerprinting, paired with an interactive real-time Python Streamlit dashboard.
+
+---
+
 ---
 
 ## 📬 Professional Connect
