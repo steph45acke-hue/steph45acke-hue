@@ -36,16 +36,24 @@ BEST FEATURED PROJECTS
 
 
 <p align="center">
-  <img src="banner.png" alt="E-Commerce Dynamic Pricing & Margin Intelligence Platform" width="100%">
+  <a href="https://github.com/steph45acke-hue/E-COMMERCE-DYNAMIC-PRICING-PLATFORM">
+    <img src="banner.png" alt="E-Commerce Dynamic Pricing & Margin Intelligence Platform" width="100%">
+  </a>
 </p>
 
-### [E-Commerce Dynamic Pricing and Merchant Console](https://github.com/steph45acke-hue/E-COMMERCE-DYNAMIC-PRICING-PLATFORM)
+<h3 align="center">
+  <a href="https://github.com/steph45acke-hue/E-COMMERCE-DYNAMIC-PRICING-PLATFORM">🛒 E-Commerce Dynamic Pricing & Margin Intelligence Platform</a>
+</h3>
 
-An enterprise-grade, data-driven dynamic pricing engine and margin intelligence platform built to automate competitive pricing, protect minimum profit margins, and manage dead-stock inventory across 1,000+ SKUs in real time. 
+<p align="center">
+  An enterprise-grade, data-driven dynamic pricing engine and margin intelligence platform built to automate competitive pricing, protect minimum profit margins, and manage dead-stock inventory across 1,000+ SKUs in real time.
+</p>
 
-* **The Architecture:** Integrates **MySQL Workbench** for relational database modeling, **Python (Pandas/NumPy)** for vectorized algorithmic pricing and cost-floor guardrails, and an interactive **Streamlit** web application for real-time executive decision-making.
+---
 
-<div align="center">
+* **Database Layer (MySQL Workbench):** Engineered normalized schemas (`dim_products`, `competitor_prices`, `fact_orders`), writing advanced multi-table joins and Common Table Expressions (CTEs) for deep market positioning analysis.
+* **Algorithmic Core (Python / Pandas / NumPy):** Developed robust data pipelines and vectorised simulation scripts to process market variables, evaluate inventory velocity, and enforce hard cost-floor guardrails to prevent loss-leader pricing.
+* **Presentation Layer (Streamlit):** Deployed an interactive web console providing stakeholders with live metric tracking, risk controls, and dynamic category filters for real-time executive decision-making.
 
 ## 🌍 The East African Cross-Border Trade & Logistics Intelligence Platform
 
