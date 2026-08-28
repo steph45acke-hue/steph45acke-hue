@@ -35,7 +35,7 @@
 BEST FEATURED PROJECTS
 
 <p align="center">
-  <a href="https://github.com/steph45acke-hue/E-COMMERCE-DYNAMIC-PRICING-PLATFORM_AND_MERCHANT_CONSOLE">
+  <a href="https://github.com/steph45acke-hue/E_COMMERCE_DYNAMIC_PRICING_PLATFORM_AND_MERCHANT_CONSOLE">
     <img src="https://raw.githubusercontent.com/steph45acke-hue/steph45acke-hue/main/banner.png" alt="E-Commerce Dynamic Pricing Platform Banner" width="100%">
   </a>
 </p>
@@ -47,11 +47,10 @@ BEST FEATURED PROJECTS
 </p>
 
 <p align="center">
-  <a href="https://github.com/steph45acke-hue/E-COMMERCE-DYNAMIC-PRICING-PLATFORM_AND_MERCHANT_CONSOLE"><strong>Explore Repository &rarr;</strong></a>
+  <a href="https://github.com/steph45acke-hue/E_COMMERCE_DYNAMIC_PRICING_PLATFORM_AND_MERCHANT_CONSOLE"><strong>Explore Repository &rarr;</strong></a>
 </p>
 
 ---
-
 ## 🌍 The East African Cross-Border Trade & Logistics Intelligence Platform
 
 <a href="https://github.com/steph45acke-hue/THE_EAST_AFRICAN_CROSS_BOARDER_TRADE_AND_LOGISTICS_INTELLIGENCE_PLATFORM">
