@@ -33,6 +33,18 @@
 
 
 BEST FEATURED PROJECTS
+
+
+<p align="center">
+  <img src="banner.png" alt="E-Commerce Dynamic Pricing & Margin Intelligence Platform" width="100%">
+</p>
+
+### [E-Commerce Dynamic Pricing and Merchant Console](https://github.com/steph45acke-hue/E-COMMERCE-DYNAMIC-PRICING-PLATFORM)
+
+An enterprise-grade, data-driven dynamic pricing engine and margin intelligence platform built to automate competitive pricing, protect minimum profit margins, and manage dead-stock inventory across 1,000+ SKUs in real time. 
+
+* **The Architecture:** Integrates **MySQL Workbench** for relational database modeling, **Python (Pandas/NumPy)** for vectorized algorithmic pricing and cost-floor guardrails, and an interactive **Streamlit** web application for real-time executive decision-making.
+
 <div align="center">
 
 ## 🌍 The East African Cross-Border Trade & Logistics Intelligence Platform
