@@ -36,7 +36,7 @@ BEST FEATURED PROJECTS
 
 <p align="center">
   <a href="https://github.com/steph45acke-hue/E-COMMERCE-DYNAMIC-PRICING-PLATFORM_AND_MERCHANT_CONSOLE">
-    <img src="banner.png" alt="E-Commerce Dynamic Pricing & Margin Intelligence Platform" width="100%">
+    <img src="https://raw.githubusercontent.com/steph45acke-hue/E-COMMERCE-DYNAMIC-PRICING-PLATFORM_AND_MERCHANT_CONSOLE/main/banner.png" alt="E-Commerce Dynamic Pricing & Margin Intelligence Platform" width="100%">
   </a>
 </p>
 
