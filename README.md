@@ -89,34 +89,15 @@ An interactive visual analytics platform showcasing Kenya's demographic distribu
 * **Geospatial & Interactive Frontend:** Deployed via **Streamlit** to deliver dynamic county-level choropleth mapping and population density visualization.
 * **Advanced Statistical Testing:** Implements **OLS Regression** to model land area versus population relationships alongside **Welch's T-Test** hypothesis testing for urban versus rural demographic variance.
 
-## 🇰🇪 Kenya Census Project: National Statistics & Regional Insights
+### 🇰🇪 Featured National Statistics & Regional Insights Project
 
-<a href="https://github.com/steph45acke-hue/KENYA_CENSUS_PROJECT">
-  <img src="https://raw.githubusercontent.com/steph45acke-hue/KENYA_CENSUS_PROJECT/main/banner.jpg" alt="Kenya Census Statistics Banner" width="100%">
-</a>
+[![Kenya Census Project Banner](https://raw.githubusercontent.com/steph45acke-hue/KENYA_CENSUS_PROJECT/main/banner.jpg)](https://github.com/steph45acke-hue/KENYA_CENSUS_PROJECT)
 
-<br>
-
-<a href="https://github.com/steph45acke-hue/KENYA_CENSUS_PROJECT">
-  <img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-black?style=for-the-badge&logo=github" alt="View Repository">
-</a>
-<a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/PYTHON-3.14-blue?style=for-the-badge&logo=python" alt="Python">
-</a>
-<a href="https://streamlit.io/">
-  <img src="https://img.shields.io/badge/STREAMLIT-DASHBOARD-red?style=for-the-badge&logo=streamlit" alt="Streamlit">
-</a>
-<a href="https://www.mysql.com/">
-  <img src="https://img.shields.io/badge/MYSQL-DATABASE-blue?style=for-the-badge&logo=mysql" alt="MySQL">
-</a>
-
-</div>
-
-> **Project Overview:** A complete **Python**, **SQL**, and **Streamlit** pipeline processing the official 2019 Kenya census data. This project manages complex relational database queries and visualizes live, interactive insights, showcasing key regional activities and population statistics (e.g., Mount Kenya Farming, Coastal Tourism) across the nation.
-
---- 
-
-<div align="center">
+#### **[Kenya Census Project: National Statistics & Regional Insights](https://github.com/steph45acke-hue/KENYA_CENSUS_PROJECT)**
+A comprehensive **Python**, **SQL**, and **Streamlit** data pipeline processing official national census records to deliver interactive regional insights and demographic analytics across Kenya's counties.
+* **Database & Warehousing:** Engineered normalized **MySQL** database architecture to store, query, and manage official national census and demographic datasets.
+* **Automated Data Pipeline:** Powered by robust **Python** scripts to execute data cleaning, transformation, and backend statistical processing.
+* **Interactive Dashboard:** Deployed via **Streamlit** to provide dynamic, real-time visual analytics exploring population distribution, density, and socio-economic indicators.
 
 ## 💼 Enterprise CRM Analytics Engine & Commercial Intelligence
 
