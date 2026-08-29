@@ -79,34 +79,16 @@ A full-stack financial database and interactive analytics dashboard built to sim
 * **Backend Engine:** Powered by **Python** scripts to process market orders, execute portfolio rebalancing logic, and calculate real-time asset valuations.
 * **Interactive Frontend:** Deployed via **Streamlit** to give simulated traders and administrators live visibility into portfolio performance metrics, profit/loss tracking, and trade execution logs.
 
-## 🇰🇪 Kenya Census Data Pipeline & Analytics Engine
+### 🇰🇪 Featured Demographic Analytics Project
 
-<a href="https://github.com/steph45acke-hue/kenya-census-data-pipeline">
-  <img src="https://raw.githubusercontent.com/steph45acke-hue/kenya-census-data-pipeline/main/banner.jpg" alt="Kenya Census Data Pipeline Banner" width="100%">
-</a>
+[![Kenya Census Data Pipeline Banner](https://raw.githubusercontent.com/steph45acke-hue/KENYA_CENSUS_DATA_PIPELINE_AND_ANALYTICS_ENGINE/main/banner.jpg)](https://github.com/steph45acke-hue/KENYA_CENSUS_DATA_PIPELINE_AND_ANALYTICS_ENGINE)
 
-<br>
+#### **[Kenya Census Data Pipeline & Analytics Engine](https://github.com/steph45acke-hue/KENYA_CENSUS_DATA_PIPELINE_AND_ANALYTICS_ENGINE)**
+An interactive visual analytics platform showcasing Kenya's demographic distribution across all 47 counties, backed by an automated data pipeline and rigorous statistical modeling.
+* **Automated Data Pipeline:** Engineered **Python** scripts to scrape, clean, and aggregate multi-source census data into a structured analytical database framework.
+* **Geospatial & Interactive Frontend:** Deployed via **Streamlit** to deliver dynamic county-level choropleth mapping and population density visualization.
+* **Advanced Statistical Testing:** Implements **OLS Regression** to model land area versus population relationships alongside **Welch's T-Test** hypothesis testing for urban versus rural demographic variance.
 
-<a href="https://github.com/steph45acke-hue/kenya-census-data-pipeline">
-  <img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-black?style=for-the-badge&logo=github" alt="View Repository">
-</a>
-<a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/PYTHON-3.14-blue?style=for-the-badge&logo=python" alt="Python">
-</a>
-<a href="https://streamlit.io/">
-  <img src="https://img.shields.io/badge/STREAMLIT-DASHBOARD-red?style=for-the-badge&logo=streamlit" alt="Streamlit">
-</a>
-<a href="https://www.statsmodels.org/">
-  <img src="https://img.shields.io/badge/STATSMODELS-ANALYTICS-blue?style=for-the-badge&logo=python" alt="Statsmodels">
-</a>
-
-</div>
-
-> **Project Overview:** A detailed visual analytics platform showcasing Kenya's demographic distribution across all 47 counties, backed by an automated data pipeline featuring Ordinary Least Squares (OLS) Regression testing land area versus population and Welch’s T-Test Hypothesis Testing analyzing urban versus rural density variance.
-
----
-
-<div align="center">
 
 ## 🇰🇪 Kenya Census Project: National Statistics & Regional Insights
 
