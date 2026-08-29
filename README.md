@@ -34,6 +34,15 @@
 
 BEST FEATURED PROJECTS
 
+
+### 🚀 Featured Data Science Project
+
+[![Supply Chain & Logistics Intelligence Platform Banner](https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/banner.png)](https://github.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER)
+
+#### **[A Supply Chain & Logistics Intelligence Platform](https://github.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER)**
+An enterprise-grade, end-to-end optimization system built to solve real-world operational inefficiencies across East African trade corridors. 
+* **Core Architecture:** Combines normalized MySQL relational database schemas, automated pre-computed analytical views, and a trained **Scikit-Learn** machine learning regression model ($R^2 = 0.9454$) to predict freight costs dynamically based on weight and distance.
+* **Interactive Frontend:** Powered by **Streamlit** and **PyDeck**, featuring 3D arc-line geospatial mapping for multi-node transport routes, live KPI executive tracking, and automated multi-tab Excel reporting.
 <p align="center">
   <a href="https://github.com/steph45acke-hue/E_COMMERCE_DYNAMIC_PRICING_PLATFORM_AND_MERCHANT_CONSOLE">
     <img src="https://raw.githubusercontent.com/steph45acke-hue/steph45acke-hue/main/banner.png" alt="E-Commerce Dynamic Pricing Platform Banner" width="100%">
@@ -196,30 +205,6 @@ BEST FEATURED PROJECTS
 
 
 
-## 🛡️ Fraud Detection & Supply Chain Network Intelligence Engine
-
-<a href="https://github.com/steph45acke-hue/FRAUD_DETECTION_AND_SUPPLY_CHAIN_NETWORK_INTELLIGENCE_ENGINE">
-  <img src="https://raw.githubusercontent.com/steph45acke-hue/FRAUD_DETECTION_AND_SUPPLY_CHAIN_NETWORK_INTELLIGENCE_ENGINE/main/banner.jpg" alt="Fraud Detection Banner" width="85%">
-</a>
-
-<br>
-
-<a href="https://github.com/steph45acke-hue/FRAUD_DETECTION_AND_SUPPLY_CHAIN_NETWORK_INTELLIGENCE_ENGINE">
-  <img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-black?style=for-the-badge&logo=github" alt="View Repository">
-</a>
-<a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/PYTHON-3.14-blue?style=for-the-badge&logo=python" alt="Python">
-</a>
-<a href="https://streamlit.io/">
-  <img src="https://img.shields.io/badge/STREAMLIT-DASHBOARD-red?style=for-the-badge&logo=streamlit" alt="Streamlit">
-</a>
-<a href="https://www.mysql.com/">
-  <img src="https://img.shields.io/badge/MYSQL-ANALYTICS-blue?style=for-the-badge&logo=mysql" alt="MySQL">
-</a>
-
-</div>
-
-> **Project Overview:** An automated analytical platform built to expose complex financial crimes. It utilizes advanced MySQL relational queries and window functions (`LAG`) to uncover multi-hop circular money laundering, high-velocity transaction bursts, and shared device fingerprinting, paired with an interactive real-time Python Streamlit dashboard.
 
 ---
 
