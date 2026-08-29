@@ -81,14 +81,13 @@ A full-stack financial database and interactive analytics dashboard built to sim
 
 ### 🇰🇪 Featured Demographic Analytics Project
 
-[![Kenya Census Data Pipeline Banner](https://raw.githubusercontent.com/steph45acke-hue/KENYA_CENSUS_DATA_PIPELINE_AND_ANALYTICS_ENGINE/main/banner.jpg)](https://github.com/steph45acke-hue/KENYA_CENSUS_DATA_PIPELINE_AND_ANALYTICS_ENGINE)
+[![Kenya Census Data Pipeline Banner](https://raw.githubusercontent.com/steph45acke-hue/kenya-census-data-pipeline/main/banner.jpg)](https://github.com/steph45acke-hue/kenya-census-data-pipeline)
 
-#### **[Kenya Census Data Pipeline & Analytics Engine](https://github.com/steph45acke-hue/KENYA_CENSUS_DATA_PIPELINE_AND_ANALYTICS_ENGINE)**
+#### **[Kenya Census Data Pipeline & Analytics Engine](https://github.com/steph45acke-hue/kenya-census-data-pipeline)**
 An interactive visual analytics platform showcasing Kenya's demographic distribution across all 47 counties, backed by an automated data pipeline and rigorous statistical modeling.
 * **Automated Data Pipeline:** Engineered **Python** scripts to scrape, clean, and aggregate multi-source census data into a structured analytical database framework.
 * **Geospatial & Interactive Frontend:** Deployed via **Streamlit** to deliver dynamic county-level choropleth mapping and population density visualization.
 * **Advanced Statistical Testing:** Implements **OLS Regression** to model land area versus population relationships alongside **Welch's T-Test** hypothesis testing for urban versus rural demographic variance.
-
 
 ## 🇰🇪 Kenya Census Project: National Statistics & Regional Insights
 
