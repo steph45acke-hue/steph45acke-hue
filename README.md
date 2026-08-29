@@ -32,7 +32,7 @@
 
 
 
-BEST FEATURED PROJECTS
+BEST  PROJECTS
 
 
 ### 🚀 Featured Data Science Project
@@ -60,34 +60,14 @@ An enterprise-grade, end-to-end optimization system built to solve real-world op
 </p>
 
 ---
-## 🌍 The East African Cross-Border Trade & Logistics Intelligence Platform
 
-<a href="https://github.com/steph45acke-hue/THE_EAST_AFRICAN_CROSS_BOARDER_TRADE_AND_LOGISTICS_INTELLIGENCE_PLATFORM">
-  <img src="https://raw.githubusercontent.com/steph45acke-hue/THE_EAST_AFRICAN_CROSS_BOARDER_TRADE_AND_LOGISTICS_INTELLIGENCE_PLATFORM/main/banner.jpg" alt="East Africa Logistics Banner" width="100%">
-</a>
 
-<br>
+[![East Africa Logistics Intelligence Platform Banner](https://raw.githubusercontent.com/steph45acke-hue/THE_EAST_AFRICAN_CROSS_BOARDER_TRADE_AND_LOGISTICS_INTELLIGENCE_PLATFORM/main/banner.jpg)](https://github.com/steph45acke-hue/THE_EAST_AFRICAN_CROSS_BOARDER_TRADE_AND_LOGISTICS_INTELLIGENCE_PLATFORM)
 
-<a href="https://github.com/steph45acke-hue/THE_EAST_AFRICAN_CROSS_BOARDER_TRADE_AND_LOGISTICS_INTELLIGENCE_PLATFORM">
-  <img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-black?style=for-the-badge&logo=github" alt="View Repository">
-</a>
-<a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/PYTHON-3.14-blue?style=for-the-badge&logo=python" alt="Python">
-</a>
-<a href="https://streamlit.io/">
-  <img src="https://img.shields.io/badge/STREAMLIT-DASHBOARD-red?style=for-the-badge&logo=streamlit" alt="Streamlit">
-</a>
-<a href="https://www.mysql.com/">
-  <img src="https://img.shields.io/badge/MYSQL-WAREHOUSE-blue?style=for-the-badge&logo=mysql" alt="MySQL">
-</a>
-
-</div>
-
-> **Project Overview:** An enterprise-grade trade corridor analytics engine modeling cross-border logistics networks across the Northern and Central corridors (connecting Mombasa, Nairobi, Kampala, and Dar es Salaam). Built using **Python** for automated ETL pipeline execution, **SQL** for relational data warehousing, and an interactive **Streamlit** executive dashboard to monitor transit efficiencies and bottleneck risks.
-
----
-
-<div align="center">
+#### **[The East African Cross-Border Trade & Logistics Intelligence Platform](https://github.com/steph45acke-hue/THE_EAST_AFRICAN_CROSS_BOARDER_TRADE_AND_LOGISTICS_INTELLIGENCE_PLATFORM)**
+An enterprise-grade trade corridor analytics engine engineered to model and optimize complex logistics networks across the Northern and Central Corridors (connecting Mombasa, Nairobi, Kampala, and Dar es Salaam).
+* **Data Foundation:** Utilizes automated **Python** ETL pipelines to aggregate and clean multi-source operational data into a structured **MySQL** data warehouse.
+* **Interactive Frontend:** Powered by an interactive **Streamlit** executive dashboard providing real-time visibility into transit KPIs, border crossing delays, and end-to-end corridor performance.
 
 ## 📈 Stock Trading Platform & Portfolio Simulation Engine
 
