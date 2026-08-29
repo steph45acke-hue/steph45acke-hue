@@ -69,34 +69,15 @@ An enterprise-grade trade corridor analytics engine engineered to model and opti
 * **Data Foundation:** Utilizes automated **Python** ETL pipelines to aggregate and clean multi-source operational data into a structured **MySQL** data warehouse.
 * **Interactive Frontend:** Powered by an interactive **Streamlit** executive dashboard providing real-time visibility into transit KPIs, border crossing delays, and end-to-end corridor performance.
 
-## 📈 Stock Trading Platform & Portfolio Simulation Engine
+### 📈 Featured Financial Platform
 
-<a href="https://github.com/steph45acke-hue/STOCK_TRADING_PLATFORM">
-  <img src="https://raw.githubusercontent.com/steph45acke-hue/STOCK_TRADING_PLATFORM/main/banner.jpg" alt="Stock Trading Platform Banner" width="100%">
-</a>
+[![Stock Trading Platform Banner](https://raw.githubusercontent.com/steph45acke-hue/STOCK_TRADING_PLATFORM/main/banner.jpg)](https://github.com/steph45acke-hue/STOCK_TRADING_PLATFORM)
 
-<br>
-
-<a href="https://github.com/steph45acke-hue/STOCK_TRADING_PLATFORM">
-  <img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-black?style=for-the-badge&logo=github" alt="View Repository">
-</a>
-<a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/PYTHON-3.14-blue?style=for-the-badge&logo=python" alt="Python">
-</a>
-<a href="https://streamlit.io/">
-  <img src="https://img.shields.io/badge/STREAMLIT-DASHBOARD-red?style=for-the-badge&logo=streamlit" alt="Streamlit">
-</a>
-<a href="https://www.mysql.com/">
-  <img src="https://img.shields.io/badge/MYSQL-DATABASE-blue?style=for-the-badge&logo=mysql" alt="MySQL">
-</a>
-
-</div>
-
-> **Project Overview:** A full-stack financial database and interactive analytics dashboard built with **MySQL** and **Python** to simulate a live retail stock brokerage backend with real-time equity valuation, automated order books, and secure transaction auditing.
-
----
-
-<div align="center">
+#### **[Stock Trading Platform & Portfolio Simulation Engine](https://github.com/steph45acke-hue/STOCK_TRADING_PLATFORM)**
+A full-stack financial database and interactive analytics dashboard built to simulate a live retail stock brokerage backend with real-time equity valuation, automated order books, and secure transaction auditing.
+* **Database & Warehousing:** Engineered normalized **MySQL** relational schemas to manage user accounts, live portfolio holdings, transaction ledgers, and historical ticker pricing data.
+* **Backend Engine:** Powered by **Python** scripts to process market orders, execute portfolio rebalancing logic, and calculate real-time asset valuations.
+* **Interactive Frontend:** Deployed via **Streamlit** to give simulated traders and administrators live visibility into portfolio performance metrics, profit/loss tracking, and trade execution logs.
 
 ## 🇰🇪 Kenya Census Data Pipeline & Analytics Engine
 
