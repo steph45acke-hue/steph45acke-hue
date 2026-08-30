@@ -99,30 +99,15 @@ A comprehensive **Python**, **SQL**, and **Streamlit** data pipeline processing 
 * **Automated Data Pipeline:** Powered by robust **Python** scripts to execute data cleaning, transformation, and backend statistical processing.
 * **Interactive Dashboard:** Deployed via **Streamlit** to provide dynamic, real-time visual analytics exploring population distribution, density, and socio-economic indicators.
 
-## 💼 Enterprise CRM Analytics Engine & Commercial Intelligence
+### 💼 Featured Commercial Intelligence & CRM Analytics Project
 
-<a href="https://github.com/steph45acke-hue/CRM_ANALYTICS_DASHBOARD">
-  <img src="https://raw.githubusercontent.com/steph45acke-hue/CRM_ANALYTICS_DASHBOARD/main/banner.jpg" alt="Enterprise CRM Analytics Engine Banner" width="100%">
-</a>
+[![Enterprise CRM Analytics Engine Banner](https://raw.githubusercontent.com/steph45acke-hue/CRM_ANALYTICS_DASHBOARD/main/banner.jpg)](https://github.com/steph45acke-hue/CRM_ANALYTICS_DASHBOARD)
 
-<br>
-
-<a href="https://github.com/steph45acke-hue/CRM_ANALYTICS_DASHBOARD">
-  <img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-black?style=for-the-badge&logo=github" alt="View Repository">
-</a>
-<a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/PYTHON-3.14-blue?style=for-the-badge&logo=python" alt="Python">
-</a>
-<a href="https://streamlit.io/">
-  <img src="https://img.shields.io/badge/STREAMLIT-DASHBOARD-red?style=for-the-badge&logo=streamlit" alt="Streamlit">
-</a>
-<a href="https://www.mysql.com/">
-  <img src="https://img.shields.io/badge/MYSQL-DATABASE-blue?style=for-the-badge&logo=mysql" alt="MySQL">
-</a>
-
-</div>
-
-> **Project Overview:** An enterprise-grade CRM analytics engine linking **Python** and **SQL** ETL pipelines to ingest, clean, and compute vital commercial key performance indicators (KPIs). Features advanced customer segmentation, lifetime value modeling, and an interactive executive dashboard for real-time sales and retention tracking.
+#### **[Enterprise CRM Analytics Engine & Commercial Intelligence](https://github.com/steph45acke-hue/CRM_ANALYTICS_DASHBOARD)**
+An enterprise-grade CRM analytics engine linking **Python** and **SQL** ETL pipelines to ingest, clean, and compute vital commercial key performance indicators (KPIs) with an interactive executive dashboard.
+* **ETL Pipeline & Warehousing:** Automated data extraction, transformation, and loading workflows using Python and normalized MySQL database architecture.
+* **Customer Segmentation:** Advanced behavioral grouping and customer lifetime value (CLV) modeling for precise commercial insights.
+* **Interactive Executive Dashboard:** Deployed via **Streamlit** to monitor real-time sales, user retention metrics, and churn prediction models.
 
 ---
 
