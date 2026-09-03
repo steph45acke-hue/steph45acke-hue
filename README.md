@@ -109,6 +109,19 @@ An enterprise-grade CRM analytics engine linking **Python** and **SQL** ETL pipe
 * **Customer Segmentation:** Advanced behavioral grouping and customer lifetime value (CLV) modeling for precise commercial insights.
 * **Interactive Executive Dashboard:** Deployed via **Streamlit** to monitor real-time sales, user retention metrics, and churn prediction models.
 
+
+### 🏡 Featured Real Estate Intelligence Project
+
+[![Real Estate Market Intelligence & Investment Engine Banner](https://raw.githubusercontent.com/steph45acke-hue/Real_market_intelligence_and_market_engine/main/bunner.jpg)](https://github.com/steph45acke-hue/Real_market_intelligence_and_market_engine)
+
+#### **[Real Estate Market Intelligence & Investment Engine](https://github.com/steph45acke-hue/Real_market_intelligence_and_market_engine)**
+A full-stack institutional-grade analytics and predictive machine learning platform bridging raw MySQL brokerage data with a real-time Streamlit executive interface.
+* **SQL Analytics & Warehousing:** Normalized relational database architecture and advanced queries extracting deep market insights via MySQL Workbench.
+* **Predictive Valuation Engine:** Machine learning pipeline leveraging a Random Forest Regressor achieving an $R^2$ of 0.9296 for high-precision property appraisal.
+* **Interactive Executive Dashboard:** Built using Streamlit to monitor real-time inventory datasets, dynamic parameter controls, and valuation estimates.
+
+---
+
 ---
 
 
