@@ -36,9 +36,9 @@ BEST  PROJECTS
 
 
 ### 🚀 Featured Data Science Project
-[![Nairobi Real Estate Valuation Platform Banner](https://raw.githubusercontent.com/steph45acke-hue/NAIROBI_RENTAL_YIELD_AND_REAL_ESTATE_VALUATION/main/banner.png)](https://github.com/steph45acke-hue/NAIROBI_RENTAL_YIELD_AND_REAL_ESTATE_VALUATION)
+[![Nairobi Real Estate Valuation Platform Banner](https://raw.githubusercontent.com/steph45acke-hue/NAIROBI_RENTAL_YIELD_AND_RENTAL_VALUATION_ENGINE/main/banner.png)](https://github.com/steph45acke-hue/NAIROBI_RENTAL_YIELD_AND_RENTAL_VALUATION_ENGINE)
 
-#### **[Nairobi Real Estate Valuation & Rental Yield Analytics Platform](https://github.com/steph45acke-hue/NAIROBI_RENTAL_YIELD_AND_REAL_ESTATE_VALUATION)**
+#### **[Nairobi Real Estate Valuation & Rental Yield Analytics Platform](https://github.com/steph45acke-hue/NAIROBI_RENTAL_YIELD_AND_RENTAL_VALUATION_ENGINE)**
 An enterprise-grade data science and analytics platform engineered to model, store, statistically evaluate, and predict urban property valuations and rental yields across Nairobi's prime micro-locations.
 * **Data Foundation & Storage:** Utilizes a custom **Python** scraper pipeline to generate structured datasets, migrated into a normalized Third Normal Form (**3NF**) relational database hosted on **MySQL** via SQLAlchemy.
 * **Econometrics & Machine Learning:** Implements rigorous Ordinary Least Squares (**OLS**) econometric diagnostics via `statsmodels` alongside predictive **Random Forest** machine learning models interpreted through **SHAP** explainability.
