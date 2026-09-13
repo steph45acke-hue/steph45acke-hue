@@ -36,30 +36,13 @@ BEST  PROJECTS
 
 
 ### 🚀 Featured Data Science Project
+[![Nairobi Real Estate Valuation Platform Banner](https://raw.githubusercontent.com/steph45acke-hue/NAIROBI_RENTAL_YIELD_AND_REAL_ESTATE_VALUATION/main/banner.png)](https://github.com/steph45acke-hue/NAIROBI_RENTAL_YIELD_AND_REAL_ESTATE_VALUATION)
 
-[![Supply Chain & Logistics Intelligence Platform Banner](https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/banner.png)](https://github.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER)
-
-#### **[A Supply Chain & Logistics Intelligence Platform](https://github.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER)**
-An enterprise-grade, end-to-end optimization system built to solve real-world operational inefficiencies across East African trade corridors. 
-* **Core Architecture:** Combines normalized MySQL relational database schemas, automated pre-computed analytical views, and a trained **Scikit-Learn** machine learning regression model ($R^2 = 0.9454$) to predict freight costs dynamically based on weight and distance.
-* **Interactive Frontend:** Powered by **Streamlit** and **PyDeck**, featuring 3D arc-line geospatial mapping for multi-node transport routes, live KPI executive tracking, and automated multi-tab Excel reporting.
-<p align="center">
-  <a href="https://github.com/steph45acke-hue/E_COMMERCE_DYNAMIC_PRICING_PLATFORM_AND_MERCHANT_CONSOLE">
-    <img src="https://raw.githubusercontent.com/steph45acke-hue/steph45acke-hue/main/banner.png" alt="E-Commerce Dynamic Pricing Platform Banner" width="100%">
-  </a>
-</p>
-
-<h2 align="center">🛒 Featured Project: E-Commerce Dynamic Pricing & Margin Intelligence Platform</h2>
-
-<p align="center">
-  An enterprise-grade, data-driven dynamic pricing engine and margin intelligence platform built to automate competitive pricing, protect minimum profit margins, and manage dead-stock inventory across 1,000+ SKUs in real time.
-</p>
-
-<p align="center">
-  <a href="https://github.com/steph45acke-hue/E_COMMERCE_DYNAMIC_PRICING_PLATFORM_AND_MERCHANT_CONSOLE"><strong>Explore Repository &rarr;</strong></a>
-</p>
-
----
+#### **[Nairobi Real Estate Valuation & Rental Yield Analytics Platform](https://github.com/steph45acke-hue/NAIROBI_RENTAL_YIELD_AND_REAL_ESTATE_VALUATION)**
+An enterprise-grade data science and analytics platform engineered to model, store, statistically evaluate, and predict urban property valuations and rental yields across Nairobi's prime micro-locations.
+* **Data Foundation & Storage:** Utilizes a custom **Python** scraper pipeline to generate structured datasets, migrated into a normalized Third Normal Form (**3NF**) relational database hosted on **MySQL** via SQLAlchemy.
+* **Econometrics & Machine Learning:** Implements rigorous Ordinary Least Squares (**OLS**) econometric diagnostics via `statsmodels` alongside predictive **Random Forest** machine learning models interpreted through **SHAP** explainability.
+* **Interactive Frontend:** Powered by an interactive **Streamlit** and **Plotly** web dashboard delivering real-time market KPIs, size-to-price distributions, and sub-county valuation analytics.
 
 
 [![East Africa Logistics Intelligence Platform Banner](https://raw.githubusercontent.com/steph45acke-hue/THE_EAST_AFRICAN_CROSS_BOARDER_TRADE_AND_LOGISTICS_INTELLIGENCE_PLATFORM/main/banner.jpg)](https://github.com/steph45acke-hue/THE_EAST_AFRICAN_CROSS_BOARDER_TRADE_AND_LOGISTICS_INTELLIGENCE_PLATFORM)
