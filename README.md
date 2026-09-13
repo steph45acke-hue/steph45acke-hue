@@ -43,7 +43,6 @@ An enterprise-grade data science and analytics platform engineered to model, sto
 * **Data Foundation & Storage:** Utilizes a custom **Python** scraper pipeline to generate structured datasets, migrated into a normalized Third Normal Form (**3NF**) relational database hosted on **MySQL** via SQLAlchemy.
 * **Econometrics & Machine Learning:** Implements rigorous Ordinary Least Squares (**OLS**) econometric diagnostics via `statsmodels` alongside predictive **Random Forest** machine learning models interpreted through **SHAP** explainability.
 * **Interactive Frontend:** Powered by an interactive **Streamlit** and **Plotly** web dashboard delivering real-time market KPIs, size-to-price distributions, and sub-county valuation analytics.
-
 [![East Africa Logistics Intelligence Platform Banner](https://raw.githubusercontent.com/steph45acke-hue/THE_EAST_AFRICAN_CROSS_BOARDER_TRADE_AND_LOGISTICS_INTELLIGENCE_PLATFORM/main/banner.jpg)](https://github.com/steph45acke-hue/THE_EAST_AFRICAN_CROSS_BOARDER_TRADE_AND_LOGISTICS_INTELLIGENCE_PLATFORM)
 
 #### **[The East African Cross-Border Trade & Logistics Intelligence Platform](https://github.com/steph45acke-hue/THE_EAST_AFRICAN_CROSS_BOARDER_TRADE_AND_LOGISTICS_INTELLIGENCE_PLATFORM)**
