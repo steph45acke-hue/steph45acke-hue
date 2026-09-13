@@ -134,16 +134,3 @@ A full-stack institutional-grade analytics and predictive machine learning platf
 
 #
 
----
-
-<div align="center">
-
-### 📊 GitHub Analytics & Profile Footprint
-
-[![Steph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=steph45acke-hue&show_icons=true&theme=tokyonight&hide_border=true&bg_color=121212&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0)](https://github.com/steph45acke-hue)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steph45acke-hue&layout=compact&theme=tokyonight&hide_border=true&bg_color=121212&title_color=38bdf8&text_color=e2e8f0)](https://github.com/steph45acke-hue)
-
-*Statistics & Economics Analytics Portfolio • Engineered with Python, SQL, & Machine Learning*
-
-</div>
