@@ -36,6 +36,15 @@ BEST  PROJECTS
 
 
 ### 🚀 Featured Data Science Project
+
+[![Kilele Retail Analytics Engine Banner](https://raw.githubusercontent.com/steph45acke-hue/KILELE_RETAILS_ANALYTICS_ENGINE/main/kilele_banner.png)](https://github.com/steph45acke-hue/KILELE_RETAILS_ANALYTICS_ENGINE)
+
+#### **[Kilele Retail Analytics Engine](https://github.com/steph45acke-hue/KILELE_RETAILS_ANALYTICS_ENGINE)**
+An enterprise-grade, end-to-end retail data platform engineered to solve multi-branch inventory and revenue tracking challenges through a fully integrated data pipeline.
+* **Database Engineering & SQL:** Built on a normalized MySQL relational architecture leveraging advanced window functions (`ROW_NUMBER()`, `LEAD()`) and complex multi-table joins to guarantee absolute data integrity.
+* **Advanced Analytics & ML:** Powered by Python, Pandas, and NumPy for automated ingestion pipelines, featuring K-Means clustering for branch segmentation and linear regression for sales velocity forecasting.
+* **Interactive Frontend:** Deployed via an executive Streamlit web application utilizing dark-themed Plotly charts, sidebar branch filters, and category-partitioned product leaderboards.
+
 [![Nairobi Real Estate Valuation Platform Banner](https://raw.githubusercontent.com/steph45acke-hue/NAIROBI_RENTAL_YIELD_AND_RENTAL_VALUATION_ENGINE/main/banner.png)](https://github.com/steph45acke-hue/NAIROBI_RENTAL_YIELD_AND_RENTAL_VALUATION_ENGINE)
 
 #### **[Nairobi Real Estate Valuation & Rental Yield Analytics Platform](https://github.com/steph45acke-hue/NAIROBI_RENTAL_YIELD_AND_RENTAL_VALUATION_ENGINE)**
@@ -79,16 +88,6 @@ A comprehensive **Python**, **SQL**, and **Streamlit** data pipeline processing 
 * **Database & Warehousing:** Engineered normalized **MySQL** database architecture to store, query, and manage official national census and demographic datasets.
 * **Automated Data Pipeline:** Powered by robust **Python** scripts to execute data cleaning, transformation, and backend statistical processing.
 * **Interactive Dashboard:** Deployed via **Streamlit** to provide dynamic, real-time visual analytics exploring population distribution, density, and socio-economic indicators.
-
-### 💼 Featured Commercial Intelligence & CRM Analytics Project
-
-[![Enterprise CRM Analytics Engine Banner](https://raw.githubusercontent.com/steph45acke-hue/CRM_ANALYTICS_DASHBOARD/main/banner.jpg)](https://github.com/steph45acke-hue/CRM_ANALYTICS_DASHBOARD)
-
-#### **[Enterprise CRM Analytics Engine & Commercial Intelligence](https://github.com/steph45acke-hue/CRM_ANALYTICS_DASHBOARD)**
-An enterprise-grade CRM analytics engine linking **Python** and **SQL** ETL pipelines to ingest, clean, and compute vital commercial key performance indicators (KPIs) with an interactive executive dashboard.
-* **ETL Pipeline & Warehousing:** Automated data extraction, transformation, and loading workflows using Python and normalized MySQL database architecture.
-* **Customer Segmentation:** Advanced behavioral grouping and customer lifetime value (CLV) modeling for precise commercial insights.
-* **Interactive Executive Dashboard:** Deployed via **Streamlit** to monitor real-time sales, user retention metrics, and churn prediction models.
 
 
 ### 🏡 Featured Real Estate Intelligence Project
