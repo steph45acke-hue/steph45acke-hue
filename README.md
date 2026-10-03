@@ -36,6 +36,13 @@ BEST  PROJECTS
 
 
 ### 🚀 Featured Data Science Project
+[![M-Pesa Customer Churn Prediction Engine Banner](https://raw.githubusercontent.com/steph45acke-hue/FINANCIAL_INCLUSION_AND_MOBILE_MONEY-MPESA-_CHURN_PREDICTOR/main/project_banner.png)](https://github.com/steph45acke-hue/FINANCIAL_INCLUSION_AND_MOBILE_MONEY-MPESA-_CHURN_PREDICTOR)
+
+#### **[M-Pesa Customer Churn Prediction Engine](https://github.com/steph45acke-hue/FINANCIAL_INCLUSION_AND_MOBILE_MONEY-MPESA-_CHURN_PREDICTOR)**
+An enterprise-grade, end-to-end Kenyan fintech data platform engineered to model, predict, and mitigate mobile money customer defection through behavioral analytics and automated risk scoring.
+* **Database Engineering & SQL:** Built on a normalized MySQL relational database architecture using MySQL Workbench, featuring complex multi-table `JOIN` queries and data pipelines for secure extraction.
+* **Advanced Analytics & ML:** Powered by Python, Pandas, NumPy, and Scikit-Learn, featuring a high-performance Logistic Regression classification model (achieving >99% AUC) and feature importance analysis.
+* **Interactive Frontend:** Deployed via an executive Streamlit web utility featuring real-time risk scoring, custom profile input sliders, and dynamic financial retention recommendations.
 
 [![Kilele Retail Analytics Engine Banner](https://raw.githubusercontent.com/steph45acke-hue/KILELE_RETAILS_ANALYTICS_ENGINE/main/kilele_banner.png)](https://github.com/steph45acke-hue/KILELE_RETAILS_ANALYTICS_ENGINE)
 
@@ -59,15 +66,8 @@ An enterprise-grade trade corridor analytics engine engineered to model and opti
 * **Data Foundation:** Utilizes automated **Python** ETL pipelines to aggregate and clean multi-source operational data into a structured **MySQL** data warehouse.
 * **Interactive Frontend:** Powered by an interactive **Streamlit** executive dashboard providing real-time visibility into transit KPIs, border crossing delays, and end-to-end corridor performance.
 
-### 📈 Featured Financial Platform
 
-[![Stock Trading Platform Banner](https://raw.githubusercontent.com/steph45acke-hue/STOCK_TRADING_PLATFORM/main/banner.jpg)](https://github.com/steph45acke-hue/STOCK_TRADING_PLATFORM)
 
-#### **[Stock Trading Platform & Portfolio Simulation Engine](https://github.com/steph45acke-hue/STOCK_TRADING_PLATFORM)**
-A full-stack financial database and interactive analytics dashboard built to simulate a live retail stock brokerage backend with real-time equity valuation, automated order books, and secure transaction auditing.
-* **Database & Warehousing:** Engineered normalized **MySQL** relational schemas to manage user accounts, live portfolio holdings, transaction ledgers, and historical ticker pricing data.
-* **Backend Engine:** Powered by **Python** scripts to process market orders, execute portfolio rebalancing logic, and calculate real-time asset valuations.
-* **Interactive Frontend:** Deployed via **Streamlit** to give simulated traders and administrators live visibility into portfolio performance metrics, profit/loss tracking, and trade execution logs.
 
 ### 🇰🇪 Featured Demographic Analytics Project
 
