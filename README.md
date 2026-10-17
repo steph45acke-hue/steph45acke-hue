@@ -36,6 +36,17 @@ BEST  PROJECTS
 
 
 ### 🚀 Featured Data Science Project
+
+
+[![Kenya Agricultural Market Intelligence & Forecasting Engine Banner](https://raw.githubusercontent.com/steph45acke-hue/KENYA_AGRICULTURAL_YIELD_AND_MAIZE_PRICE_FORECASTING_ENGINE/main/banner.png)](https://github.com/steph45acke-hue/KENYA_AGRICULTURAL_YIELD_AND_MAIZE_PRICE_FORECASTING_ENGINE)
+
+#### **[Kenya Agricultural Market Intelligence & Forecasting Engine](https://github.com/steph45acke-hue/KENYA_AGRICULTURAL_YIELD_AND_MAIZE_PRICE_FORECASTING_ENGINE)**
+An interactive, production-grade decision support platform engineered to monitor wholesale maize prices, track county supply chains, analyze rainfall impact on crop yields, and generate 6-month econometric price predictions across key Kenyan agricultural hubs.
+- **Geospatial & Database Engineering:** Built using MapLibre mapping and a normalized relational database schema structured in MySQL Workbench, featuring optimized multi-table querying and spatial data pipelines.
+- **Data Analytics & Time-Series Modeling:** Powered by Python, Pandas (v3.0+), and NumPy, performing comparative trend analysis, weather-yield correlation metrics, and robust temporal feature engineering.
+- **Econometric Forecasting & Interactive Frontend:** Deployed via an executive Streamlit web application featuring 6-month predictive pricing models, 95% uncertainty confidence intervals, and dynamic agricultural market intelligence dashboards.
+
+
 [![M-Pesa Customer Churn Prediction Engine Banner](https://raw.githubusercontent.com/steph45acke-hue/FINANCIAL_INCLUSION_AND_MOBILE_MONEY-MPESA-_CHURN_PREDICTOR/main/project_banner.png)](https://github.com/steph45acke-hue/FINANCIAL_INCLUSION_AND_MOBILE_MONEY-MPESA-_CHURN_PREDICTOR)
 
 #### **[M-Pesa Customer Churn Prediction Engine](https://github.com/steph45acke-hue/FINANCIAL_INCLUSION_AND_MOBILE_MONEY-MPESA-_CHURN_PREDICTOR)**
@@ -89,25 +100,6 @@ A comprehensive **Python**, **SQL**, and **Streamlit** data pipeline processing 
 * **Automated Data Pipeline:** Powered by robust **Python** scripts to execute data cleaning, transformation, and backend statistical processing.
 * **Interactive Dashboard:** Deployed via **Streamlit** to provide dynamic, real-time visual analytics exploring population distribution, density, and socio-economic indicators.
 
-
-### 🏡 Featured Real Estate Intelligence Project
-
-[![Real Estate Market Intelligence & Investment Engine Banner](https://raw.githubusercontent.com/steph45acke-hue/Real_market_intelligence_and_market_engine/main/bunner.jpg)](https://github.com/steph45acke-hue/Real_market_intelligence_and_market_engine)
-
-#### **[Real Estate Market Intelligence & Investment Engine](https://github.com/steph45acke-hue/Real_market_intelligence_and_market_engine)**
-A full-stack institutional-grade analytics and predictive machine learning platform bridging raw MySQL brokerage data with a real-time Streamlit executive interface.
-* **SQL Analytics & Warehousing:** Normalized relational database architecture and advanced queries extracting deep market insights via MySQL Workbench.
-* **Predictive Valuation Engine:** Machine learning pipeline leveraging a Random Forest Regressor achieving an $R^2$ of 0.9296 for high-precision property appraisal.
-* **Interactive Executive Dashboard:** Built using Streamlit to monitor real-time inventory datasets, dynamic parameter controls, and valuation estimates.
-
----
-
----
-
-
-
-
----
 
 ---
 
