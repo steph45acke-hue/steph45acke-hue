@@ -37,6 +37,14 @@ BEST  PROJECTS
 
 ### 🚀 Featured Data Science Project
 
+[![Kenya Economic Intelligence & Forecasting Engine Banner](https://raw.githubusercontent.com/steph45acke-hue/KENYA_ECONOMIC_INTELLIGENCE_AND_FORECASTING_ENGINE/main/bunner.png)](https://github.com/steph45acke-hue/KENYA_ECONOMIC_INTELLIGENCE_AND_FORECASTING_ENGINE)
+
+#### **[Kenya Economic Intelligence & Forecasting Engine](https://github.com/steph45acke-hue/KENYA_ECONOMIC_INTELLIGENCE_AND_FORECASTING_ENGINE)**
+An interactive, cloud-deployed macroeconomic forecasting platform engineered to predict retail maize prices in Kenya by modeling macro dynamics (CPI, exchange rates, central bank interest rates) alongside historical price signals.
+- **Database & Pipeline Architecture**: Built with a normalized MySQL database schema (`kenya_economic_db`) managed via SQLAlchemy and optimized Pandas/NumPy ETL pipelines with anti-leakage temporal feature engineering.
+- **Machine Learning & Econometric Modeling**: Implemented baseline Linear Regression, L2-regularized Ridge models, and Tuned Random Forest Regressors to capture non-linear market interactions across out-of-sample evaluation windows.
+- **Interactive Cloud Web Application**: Deployed live on Streamlit Community Cloud, featuring dynamic model evaluation tabs, residual error diagnostics, feature importance weightings, and real-time scenario simulation controls.
+
 
 [![Kenya Agricultural Market Intelligence & Forecasting Engine Banner](https://raw.githubusercontent.com/steph45acke-hue/KENYA_AGRICULTURAL_YIELD_AND_MAIZE_PRICE_FORECASTING_ENGINE/main/banner.png)](https://github.com/steph45acke-hue/KENYA_AGRICULTURAL_YIELD_AND_MAIZE_PRICE_FORECASTING_ENGINE)
 
