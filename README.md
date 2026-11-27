@@ -1,110 +1,68 @@
-Stephen Mwangi - Data Scientist
-🚀 STEPHEN MWANGI
-DATA SCIENTIST
-Python • SQL • Machine Learning • Forecasting • Data Analytics • Streamlit
+<p align="center">
+  <img src="profile_banner.png" alt="Stephen Munene — Data Scientist" width="100%">
+</p>
 
-Transforming data into actionable insights through analytics, machine learning, statistical modeling, and intelligent decision-support systems.
+<div align="center">
 
-  
+# DATA SCIENTIST
+### STEPHEN MUNENE
 
-👨‍💻 ABOUT ME
-Data Scientist with a strong foundation in Statistics, Economics, Machine Learning, Forecasting, and Data Analytics.
+> **AIM** — *Transforming complex quantitative signals, relational data structures, and predictive models into clear, explainable, and decision-ready intelligence.*
 
-Passionate about transforming raw data into meaningful insights that support strategic decision-making, business intelligence, and operational improvement.
+<img src="https://img.shields.io/badge/STATISTICS%20%26%20ECONOMICS-UNDERGRADUATE-0F172A?style=flat-square&labelColor=0284C7&color=0F172A" alt="Statistics and Economics Undergraduate"/>
+<img src="https://img.shields.io/badge/BASE-NAIROBI%2C%20KENYA-0F172A?style=flat-square&labelColor=0D9488&color=0F172A" alt="Nairobi, Kenya"/>
+<img src="https://img.shields.io/badge/FOCUS-PYTHON%20%C2%B7%20SQL%20%C2%B7%20ML%20%C2%B7%20STREAMLIT-0F172A?style=flat-square&labelColor=1E293B&color=0F172A" alt="Core Focus"/>
 
-Areas of Interest
-🔹 Data Science
+</div>
 
-🔹 Machine Learning
+---
 
-🔹 Predictive Analytics
+### 🎓 Academic Background
 
-🔹 Statistical Modeling
+> **STATISTICS & ECONOMICS UNDERGRADUATE** · *The Co-operative University of Kenya*  
+> Building a strong quantitative foundation across probability, statistical inference, econometric modeling, and economic analysis.
 
-🔹 Business Intelligence
+* **Institutional Context:** **The Co-operative University of Kenya** provides a structured academic environment rooted in applied economics, finance, quantitative methods, and institutional research—shaping how analytical models connect to real economic behavior and measurable outcomes.
 
-🔹 SQL Database Engineering
+---
 
-🔹 Python Development
+### 📍 Location
 
-🔹 Streamlit Applications
+> **Nairobi, Kenya** *(East Africa Time · EAT / UTC+3)*  
+> Operating from Kenya's primary technology and commercial hub, focused on emerging-market telemetry, economic indicators, and practical data systems.
 
-🎓 ACADEMIC BACKGROUND
-The Co-operative University of Kenya
-Bachelor of Science (Statistics & Economics)
+---
 
-Relevant Areas of Expertise:
+### 💼 Experience
 
-Statistical Inference
-Econometrics
-Probability Theory
-Data Analytics
-Quantitative Research
-Economic Analysis
-Predictive Modeling
-💼 EXPERIENCE
-Kilele | Nyeri, Kenya
-Operational & Analytical Problem Solving
+> **Kilele** *(Mini Company — Nyeri, Kenya)* · **Operational & Analytical Problem Solving**  
+> Diagnosed real operational challenges for a Nyeri-based mini company, organizing raw figures and turning scattered records into clear analytical findings that supported practical decisions.
 
-Organized and analyzed operational business records.
-Produced structured analytical findings for decision support.
-Applied problem-solving approaches to improve operational understanding.
-Applied Data Science Projects
-Python • SQL • Machine Learning • Streamlit
+* **Applied Data Science, Forecasting & Analytics Systems**
+  * Built forecasting and classification pipelines in Python (`Pandas`, `NumPy`, `Scikit-Learn`) with strict chronological splits, leakage prevention, anomaly detection, and prediction intervals.
+  * Engineered relational and star-schema SQL databases in MySQL with window functions, query optimization, and SQL-to-Python reconciliation.
+  * Developed interactive Streamlit web applications, Excel analytical models, and clear technical documentation that translate model outputs into actionable explanations.
 
-Built forecasting and predictive analytics systems.
-Developed machine learning models using Scikit-Learn.
-Designed and optimized SQL databases.
-Developed Streamlit applications and analytical dashboards.
-Created Excel-based forecasting and business analysis tools.
-Produced structured technical reports and project documentation.
-⚡ TECH STACK
+---
 
+### 🛠️ TECHNICAL ARCHITECTURE & STACK
 
-🛠 DATA SCIENCE TOOLKIT
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+</p>
 
+* **Languages & Libraries:** Python, SQL, VBA, Pandas, NumPy, Scikit-Learn
+* **Databases & Design:** MySQL Server, MySQL Workbench, ERD Modeling, Query Optimization
+* **Web & Visualization Tools:** Streamlit (Primary Visualization & Web App Engine), Automated Executive Dashboards
 
-📊 GITHUB ANALYTICS
- 
-
-🔥 CONTRIBUTION STREAK
-
-
-🏆 GITHUB TROPHIES
-
-
-🎯 CURRENT FOCUS
-✅ Data Science
-
-✅ Machine Learning
-
-✅ Forecasting Models
-
-✅ Predictive Analytics
-
-✅ SQL Engineering
-
-✅ Streamlit Development
-
-✅ Business Intelligence
-
-✅ Statistical Programming
-
-🌍 LOCATION
-📍 Nairobi, Kenya
-
-🕒 East Africa Time (UTC +3)
-
-📫 CONTACT INFORMATION
-📧 Email: steph45.ac.ke@gmail.com
-
-📱 Phone: +254 111 301 468
-
-💬 WhatsApp: +254 111 301 468
-
-💼 LinkedIn: Stephen Mwangi
-
-⭐ Turning Data Into Decisions
+---
 
 
 BEST  PROJECTS
