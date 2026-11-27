@@ -1,34 +1,93 @@
-<h1 align="center">DATA SCIENTIST</h1>
-<h3 align="center">STEPHEN MUNENE</h3>
+<!-- ===================================================================== -->
+<!-- HERO HEADER & DYNAMIC MISSION BANNER                                  -->
+<!-- ===================================================================== -->
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MISSION-SOLVING%20PROBLEMS%20%26%20GIVING%20SOLUTIONS%20WITH%20EXPLANATION-success?style=for-the-badge&logo=codeforces&logoColor=white" alt="Mission">
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=STEPHEN%20MUNENE&fontSize=46&fontColor=00F5D4&fontAlignY=38&desc=DATA%20SCIENTIST%20%7C%20ECONOMETRIC%20%26%20ML%20SYSTEMS%20ARCHITECT&descSize=16&descAlignY=62&descColor=E2E8F0" width="100%" alt="Stephen Munene Header"/>
+
+  <br/>
+
+  <!-- Dynamic Typing Mission Statement (Wide, High-Impact Presence) -->
+  <a href="https://github.com/steph45acke-hue">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3200&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=true&width=900&height=85&lines=MISSION%3A+SOLVING+COMPLEX+REAL-WORLD+PROBLEMS+WITH+DATA;DELIVERING+EXPLAINABLE+SOLUTIONS+%26+PRODUCTION+INTELLIGENCE" alt="Mission Typing Banner" />
+  </a>
+
+  <br/>
+
+  <!-- Core Pillar Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/FOCUS-PYTHON%20%7C%20SQL%20%7C%20MACHINE%20LEARNING%20%7C%20STREAMLIT-0D1117?style=for-the-badge&logo=databricks&logoColor=00F5D4" alt="Core Focus"/>
+    <img src="https://img.shields.io/badge/DISCIPLINE-STATISTICS%20%26%20ECONOMICS-1E293B?style=for-the-badge&logo=academia&logoColor=38BDF8" alt="Discipline"/>
+    <img src="https://img.shields.io/badge/LOCATION-NAIROBI%2C%20KENYA-064E3B?style=for-the-badge&logo=googlemaps&logoColor=34D399" alt="Location"/>
+  </p>
+
+</div>
 
 ---
 
-### 👨‍💻 PROFESSIONAL BACKGROUND
-<p>
-  Statistics & Economics undergraduate at <b>The Co-operative University of Kenya</b>. Focused on translating complex data and economic models into production-grade software systems, automated database architectures, and real-time decision-making applications.
-</p>
+<!-- ===================================================================== -->
+<!-- ACADEMIC & PROFESSIONAL FOUNDATION                                      -->
+<!-- ===================================================================== -->
+### 🎓 ACADEMIC & PROFESSIONAL FOUNDATION
+
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <p align="center">
+        <img src="https://img.shields.io/badge/B.Sc.%20IN%20STATISTICS%20%26%20ECONOMICS-0F172A?style=for-the-badge&logo=bookstack&logoColor=FBBF24" alt="Statistics and Economics"/>
+      </p>
+      <blockquote>
+        <b>🏛️ THE CO-OPERATIVE UNIVERSITY OF KENYA (CUK) — NAIROBI</b><br/>
+        <i>A premier Kenyan public university chartered for excellence in cooperative business, applied economics, finance, and quantitative research—equipping analytical practitioners to model emerging-market dynamics and institutional data systems.</i>
+      </blockquote>
+      <p>
+        Grounded in rigorous statistical inference, econometric modeling, and quantitative risk analysis, I engineer end-to-end data products that bridge raw operational telemetry and executive decision-making—turning messy datasets into leakage-safe predictive engines, normalized relational warehouses, and interactive web applications.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ TECHNICAL ARCHITECTURE & STACK
+<!-- ===================================================================== -->
+<!-- CORE TECHNICAL ARCHITECTURE & 4-PILLAR SPECIALIZATION                 -->
+<!-- ===================================================================== -->
+### ⚡ TECHNICAL ARCHITECTURE & CORE SPECIALIZATION
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,scikitlearn,pandas,git,github,vscode&theme=dark&perline=7" alt="Core Tech Icons"/>
+</div>
 
-* **Languages & Libraries:** Python, SQL, VBA, Pandas, NumPy
-* **Databases & Design:** MySQL Server, MySQL Workbench, ERD Modeling, Query Optimization
-* **Web & Visualization Tools:** Streamlit (Primary Visualization & Web App Engine), Automated Executive Dashboards
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/01_%7C_PYTHON_DATA_ENGINEERING-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/><br/><br/>
+      • <b>Analytical Stack:</b> Pandas, NumPy, SciPy, Statsmodels<br/>
+      • <b>Pipelines:</b> Automated ETL, idempotent ingestion, Parquet/CSV warehousing, and vectorized time-series transformations
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/02_%7C_SQL_%26_RELATIONAL_WAREHOUSING-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/><br/><br/>
+      • <b>Database Engines:</b> MySQL Server 8.0, MySQL Workbench, SQLAlchemy<br/>
+      • <b>Architecture:</b> 3NF & Star-Schema ERD design, composite indexing, window functions, and ACID transaction rollbacks
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/03_%7C_MACHINE_LEARNING_%26_FORECASTING-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/><br/><br/>
+      • <b>Modeling Suite:</b> Scikit-Learn (Random Forest, Extra Trees, Gradient Boosting, Ridge/Lasso), Clustering & Anomaly Detection<br/>
+      • <b>Rigor:</b> Chronological splits, anti-leakage pipelines, prediction intervals, and permutation explainability
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/04_%7C_STREAMLIT_%26_DECISION_APPS-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/><br/><br/>
+      • <b>Deployment:</b> Interactive Streamlit web apps, real-time scenario simulators, and executive KPI dashboards<br/>
+      • <b>Supporting Tooling:</b> Advanced Excel (Regression, Pivot Tables, VBA), Git, GitHub, VS Code
+    </td>
+  </tr>
+</table>
+
+---
 
 
 
