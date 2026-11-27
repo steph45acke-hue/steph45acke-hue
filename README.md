@@ -4,7 +4,7 @@
   <h3>STEPHEN MUNENE</h3>
 
   <p>
-    <img src="https://img.shields.io/badge/AIM-TRANSFORMING%20RAW%20DATA%20INTO%20CLEAR%2C%20EXPLAINABLE%20%26%20DECISION--READY%20INTELLIGENCE-0F172A?style=for-the-badge&logo=target&logoColor=38BDF8" alt="Aim"/>
+    <img src="https://img.shields.io/badge/AIM-TRANSFORMING%20RAW%20DATA%20INTO%20CLEAR%2C%20EXPLAINABLE%20%26%20DECISION--READY%20INTELLIGENCE-1D4ED8?style=for-the-badge&logo=target&logoColor=67E8F9" alt="Aim"/>
   </p>
 
   <p>
@@ -21,15 +21,15 @@
   <tr>
     <td valign="top">
       <div align="center">
-        <img src="https://img.shields.io/badge/DEGREE-STATISTICS%20%26%20ECONOMICS-1E293B?style=for-the-badge&logo=academia&logoColor=FBBF24" alt="Statistics and Economics"/>
-        <img src="https://img.shields.io/badge/INSTITUTION-THE%20CO--OPERATIVE%20UNIVERSITY%20OF%20KENYA-064E3B?style=for-the-badge&logo=university&logoColor=34D399" alt="The Co-operative University of Kenya"/>
+        <img src="https://img.shields.io/badge/ACADEMIC%20TRACK-STATISTICS%20%26%20ECONOMICS%20UNDERGRADUATE-7C2D12?style=for-the-badge&logo=academia&logoColor=FDE047" alt="Statistics and Economics Undergraduate"/>
+        <img src="https://img.shields.io/badge/INSTITUTION-THE%20CO--OPERATIVE%20UNIVERSITY%20OF%20KENYA-0F766E?style=for-the-badge&logo=university&logoColor=99F6E4" alt="The Co-operative University of Kenya"/>
       </div>
       <br/>
       <p>
-        Pursuing a degree in <b>STATISTICS &amp; ECONOMICS</b> at <b>The Co-operative University of Kenya</b>, building a rigorous quantitative foundation across probability, statistical inference, econometric modeling, and economic analysis.
+        <b>STATISTICS &amp; ECONOMICS UNDERGRADUATE</b> at <b>The Co-operative University of Kenya</b>, building a strong quantitative foundation across probability, statistical inference, econometric modeling, and economic analysis.
       </p>
       <p>
-        <b>The Co-operative University of Kenya</b> provides a strong academic environment rooted in applied economics, finance, quantitative methods, and institutional research—shaping how analytical models are connected to real economic behavior and measurable outcomes.
+        <b>The Co-operative University of Kenya</b> fosters a structured academic environment rooted in applied economics, finance, quantitative methods, and institutional research—shaping how analytical models connect to real economic behavior and measurable outcomes.
       </p>
     </td>
   </tr>
@@ -43,12 +43,13 @@
   <tr>
     <td valign="top">
       <div align="center">
-        <img src="https://img.shields.io/badge/BASE-NAIROBI%2C%20KENYA-111827?style=for-the-badge&logo=googlemaps&logoColor=F87171" alt="Nairobi, Kenya"/>
-        <img src="https://img.shields.io/badge/REGION-EAST%20AFRICA%20%7C%20EAT%20(UTC%2B3)-1E293B?style=for-the-badge&logo=clockify&logoColor=60A5FA" alt="East Africa Time"/>
+        <img src="https://img.shields.io/badge/CITY-NAIROBI%2C%20KENYA-1E1B4B?style=for-the-badge&logo=googlemaps&logoColor=F472B6" alt="Nairobi, Kenya"/>
+        <img src="https://img.shields.io/badge/TIMEZONE-EAST%20AFRICA%20TIME%20(EAT%20%2F%20UTC%2B3)-065F46?style=for-the-badge&logo=clockify&logoColor=A7F3D0" alt="East Africa Time"/>
+        <img src="https://img.shields.io/badge/HUB-EAST%20AFRICA%20TECH%20%26%20ANALYTICS-312E81?style=for-the-badge&logo=rocket&logoColor=C4B5FD" alt="East Africa Analytics"/>
       </div>
       <br/>
       <p align="center">
-        Based in <b>Nairobi, Kenya</b> — building data-driven solutions with a strong lens on emerging-market telemetry, economic indicators, and scalable analytical workflows.
+        <b>📍 NAIROBI, KENYA</b> — Operating from Kenya's primary technology and commercial hub, focused on data systems, economic telemetry, and practical analytical solutions.
       </p>
     </td>
   </tr>
@@ -61,9 +62,23 @@
 <table width="100%">
   <tr>
     <td valign="top">
+      <div align="center">
+        <img src="https://img.shields.io/badge/FEATURED%20CASE-KILELE%20%7C%20NYERI%2C%20KENYA-4C1D95?style=for-the-badge&logo=sparkles&logoColor=FDE68A" alt="Kilele Nyeri"/>
+        <img src="https://img.shields.io/badge/ROLE-DATA%20%26%20ANALYTICS%20PROBLEM%20SOLVER-0E7490?style=for-the-badge&logo=chartline&logoColor=CFFAFE" alt="Analytics Problem Solver"/>
+      </div>
+      <br/>
       <p>
-        <b>📊 Applied Data Science, Forecasting &amp; Analytics Projects</b><br/>
-        <i>End-to-End Pipeline Engineering, SQL Modeling &amp; Interactive Applications</i>
+        <b>🏔️ Kilele (Mini Company — Nyeri, Kenya)</b><br/>
+        <i>Operational &amp; Analytical Problem Solving</i>
+      </p>
+      <ul>
+        <li><b>Structured Problem Diagnosis:</b> Partnered with <b>Kilele</b>, a mini company based in <b>Nyeri</b>, to diagnose operational bottlenecks, organize scattered business records, and turn raw day-to-day figures into clear analytical findings.</li>
+        <li><b>Data-Backed Recommendations:</b> Applied quantitative reasoning, trend tracking, and structured reporting so team decisions were backed by clear evidence rather than guesswork.</li>
+      </ul>
+      <hr/>
+      <p>
+        <b>📊 Applied Data Science, Forecasting &amp; Analytics Systems</b><br/>
+        <i>Python, SQL Warehousing &amp; Interactive Applications</i>
       </p>
       <ul>
         <li><b>Predictive &amp; Time-Series Modeling:</b> Built forecasting and classification workflows using Python (Pandas, NumPy, Scikit-Learn) with strict chronological train/validation/test splits, leakage prevention, anomaly detection, and uncertainty intervals.</li>
@@ -74,6 +89,7 @@
   </tr>
 </table>
 
+---
 ---
 ### ⚡ TECHNICAL ARCHITECTURE & CORE SPECIALIZATION
 
