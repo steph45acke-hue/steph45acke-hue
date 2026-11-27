@@ -1,82 +1,110 @@
-<div align="center">
+Stephen Mwangi - Data Scientist
+🚀 STEPHEN MWANGI
+DATA SCIENTIST
+Python • SQL • Machine Learning • Forecasting • Data Analytics • Streamlit
 
-# DATA SCIENTIST
-### STEPHEN MUNENE
+Transforming data into actionable insights through analytics, machine learning, statistical modeling, and intelligent decision-support systems.
 
-> **AIM** — *Transforming complex quantitative signals, relational data structures, and predictive models into clear, explainable, and decision-ready intelligence.*
+  
 
-<img src="https://img.shields.io/badge/STATISTICS%20%26%20ECONOMICS-UNDERGRADUATE-0F172A?style=flat-square&labelColor=0284C7&color=0F172A" alt="Statistics and Economics Undergraduate"/>
-<img src="https://img.shields.io/badge/BASE-NAIROBI%2C%20KENYA-0F172A?style=flat-square&labelColor=0D9488&color=0F172A" alt="Nairobi, Kenya"/>
-<img src="https://img.shields.io/badge/FOCUS-PYTHON%20%C2%B7%20SQL%20%C2%B7%20ML%20%C2%B7%20STREAMLIT-0F172A?style=flat-square&labelColor=1E293B&color=0F172A" alt="Core Focus"/>
+👨‍💻 ABOUT ME
+Data Scientist with a strong foundation in Statistics, Economics, Machine Learning, Forecasting, and Data Analytics.
 
-</div>
+Passionate about transforming raw data into meaningful insights that support strategic decision-making, business intelligence, and operational improvement.
 
----
+Areas of Interest
+🔹 Data Science
 
-### 🎓 Academic Background
+🔹 Machine Learning
 
-> **STATISTICS & ECONOMICS UNDERGRADUATE** · *The Co-operative University of Kenya*  
-> Building a strong quantitative foundation across probability, statistical inference, econometric modeling, and economic analysis.
+🔹 Predictive Analytics
 
-* **Institutional Context:** **The Co-operative University of Kenya** provides a structured academic environment rooted in applied economics, finance, quantitative methods, and institutional research—shaping how analytical models connect to real economic behavior and measurable outcomes.
+🔹 Statistical Modeling
 
----
+🔹 Business Intelligence
 
-### 📍 Location
+🔹 SQL Database Engineering
 
-> **Nairobi, Kenya** *(East Africa Time · EAT / UTC+3)*  
-> Operating from Kenya's primary technology and commercial hub, focused on emerging-market telemetry, economic indicators, and practical data systems.
+🔹 Python Development
 
----
+🔹 Streamlit Applications
 
-### 💼 Experience
+🎓 ACADEMIC BACKGROUND
+The Co-operative University of Kenya
+Bachelor of Science (Statistics & Economics)
 
-> **Kilele** *(Mini Company — Nyeri, Kenya)* · **Operational & Analytical Problem Solving**  
-> Diagnosed real operational challenges for a Nyeri-based mini company, organizing raw figures and turning scattered records into clear analytical findings that supported practical decisions.
+Relevant Areas of Expertise:
 
-* **Applied Data Science, Forecasting & Analytics Systems**
-  * Built forecasting and classification pipelines in Python (`Pandas`, `NumPy`, `Scikit-Learn`) with strict chronological splits, leakage prevention, anomaly detection, and prediction intervals.
-  * Engineered relational and star-schema SQL databases in MySQL with window functions, query optimization, and SQL-to-Python reconciliation.
-  * Developed interactive Streamlit web applications, Excel analytical models, and clear technical documentation that translate model outputs into actionable explanations.
+Statistical Inference
+Econometrics
+Probability Theory
+Data Analytics
+Quantitative Research
+Economic Analysis
+Predictive Modeling
+💼 EXPERIENCE
+Kilele | Nyeri, Kenya
+Operational & Analytical Problem Solving
 
----
-### ⚡ TECHNICAL ARCHITECTURE & CORE SPECIALIZATION
+Organized and analyzed operational business records.
+Produced structured analytical findings for decision support.
+Applied problem-solving approaches to improve operational understanding.
+Applied Data Science Projects
+Python • SQL • Machine Learning • Streamlit
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,scikitlearn,pandas,git,github,vscode&theme=dark&perline=7" alt="Core Tech Icons"/>
-</div>
+Built forecasting and predictive analytics systems.
+Developed machine learning models using Scikit-Learn.
+Designed and optimized SQL databases.
+Developed Streamlit applications and analytical dashboards.
+Created Excel-based forecasting and business analysis tools.
+Produced structured technical reports and project documentation.
+⚡ TECH STACK
 
-<br/>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/01_%7C_PYTHON_DATA_ENGINEERING-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/><br/><br/>
-      • <b>Analytical Stack:</b> Pandas, NumPy, SciPy, Statsmodels<br/>
-      • <b>Pipelines:</b> Automated ETL, idempotent ingestion, Parquet/CSV warehousing, and vectorized time-series transformations
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/02_%7C_SQL_%26_RELATIONAL_WAREHOUSING-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/><br/><br/>
-      • <b>Database Engines:</b> MySQL Server 8.0, MySQL Workbench, SQLAlchemy<br/>
-      • <b>Architecture:</b> 3NF & Star-Schema ERD design, composite indexing, window functions, and ACID transaction rollbacks
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/03_%7C_MACHINE_LEARNING_%26_FORECASTING-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/><br/><br/>
-      • <b>Modeling Suite:</b> Scikit-Learn (Random Forest, Extra Trees, Gradient Boosting, Ridge/Lasso), Clustering & Anomaly Detection<br/>
-      • <b>Rigor:</b> Chronological splits, anti-leakage pipelines, prediction intervals, and permutation explainability
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/04_%7C_STREAMLIT_%26_DECISION_APPS-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/><br/><br/>
-      • <b>Deployment:</b> Interactive Streamlit web apps, real-time scenario simulators, and executive KPI dashboards<br/>
-      • <b>Supporting Tooling:</b> Advanced Excel (Regression, Pivot Tables, VBA), Git, GitHub, VS Code
-    </td>
-  </tr>
-</table>
+🛠 DATA SCIENCE TOOLKIT
 
----
 
+📊 GITHUB ANALYTICS
+ 
+
+🔥 CONTRIBUTION STREAK
+
+
+🏆 GITHUB TROPHIES
+
+
+🎯 CURRENT FOCUS
+✅ Data Science
+
+✅ Machine Learning
+
+✅ Forecasting Models
+
+✅ Predictive Analytics
+
+✅ SQL Engineering
+
+✅ Streamlit Development
+
+✅ Business Intelligence
+
+✅ Statistical Programming
+
+🌍 LOCATION
+📍 Nairobi, Kenya
+
+🕒 East Africa Time (UTC +3)
+
+📫 CONTACT INFORMATION
+📧 Email: steph45.ac.ke@gmail.com
+
+📱 Phone: +254 111 301 468
+
+💬 WhatsApp: +254 111 301 468
+
+💼 LinkedIn: Stephen Mwangi
+
+⭐ Turning Data Into Decisions
 
 
 BEST  PROJECTS
