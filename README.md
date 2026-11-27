@@ -1,62 +1,62 @@
 <div align="center">
 
-# DATA SCIENTIST
-### STEPHEN MUNENE
+# **DATA SCIENTIST**
+### **STEPHEN MUNENE**
 
-> **AIM** — *Transforming complex quantitative signals, relational data structures, and predictive models into clear, explainable, and decision-ready intelligence that solves real-world problems.*
+> **AIM: TRANSFORMING COMPLEX QUANTITATIVE SIGNALS, RELATIONAL DATA STRUCTURES, AND PREDICTIVE MODELS INTO CLEAR, EXPLAINABLE, AND DECISION-READY INTELLIGENCE THAT SOLVES REAL-WORLD PROBLEMS.**
 
 <img src="https://img.shields.io/badge/STATISTICS%20%26%20ECONOMICS-UNDERGRADUATE-0F172A?style=for-the-badge&labelColor=0284C7&color=0F172A" alt="Statistics and Economics Undergraduate"/>
-<img src="https://img.shields.io/badge/BASE-NAIROBI%2C%20KENYA-0F172A?style=for-the-badge&labelColor=0D9488&color=0F172A" alt="Nairobi, Kenya"/>
-<img src="https://img.shields.io/badge/FOCUS-PYTHON%20%C2%B7%20SQL%20%C2%B7%20ML%20%C2%B7%20STREAMLIT-0F172A?style=for-the-badge&labelColor=0369A1&color=0F172A" alt="Core Focus"/>
+<img src="https://img.shields.io/badge/LOCATION-NAIROBI%2C%20KENYA-0F172A?style=for-the-badge&labelColor=0D9488&color=0F172A" alt="Nairobi, Kenya"/>
+<img src="https://img.shields.io/badge/CORE%20STACK-PYTHON%20%C2%B7%20SQL%20%C2%B7%20ML%20%C2%B7%20STREAMLIT-0F172A?style=for-the-badge&labelColor=0369A1&color=0F172A" alt="Core Stack"/>
 
 </div>
 
 ---
 
-### 🎓 Academic Background
+### **🎓 ACADEMIC BACKGROUND**
 
-> **STATISTICS & ECONOMICS UNDERGRADUATE** · *The Co-operative University of Kenya*  
-> Grounded in probability, statistical inference, econometric modeling, and quantitative economic analysis.
+> **STATISTICS & ECONOMICS UNDERGRADUATE** · **THE CO-OPERATIVE UNIVERSITY OF KENYA**  
+> **BUILT ON A STRONG QUANTITATIVE FOUNDATION IN PROBABILITY, STATISTICAL INFERENCE, ECONOMETRIC MODELING, AND ECONOMIC ANALYSIS.**
 
-* **The Co-operative University of Kenya (CUK):** Provides a structured academic foundation in applied economics, finance, quantitative methods, and institutional research—shaping how statistical models connect to real economic behavior and measurable outcomes.
-
----
-
-### 📍 Location
-
-> **Nairobi, Kenya** · *East Africa Time (EAT / UTC+3)*  
-> Operating from Kenya's primary technology and commercial hub, focused on emerging-market telemetry, economic indicators, and practical data systems.
+* **THE CO-OPERATIVE UNIVERSITY OF KENYA (CUK):** **PROVIDES A STRUCTURED ACADEMIC ENVIRONMENT ROOTED IN APPLIED ECONOMICS, FINANCE, QUANTITATIVE METHODS, AND INSTITUTIONAL RESEARCH — SHAPING HOW STATISTICAL MODELS CONNECT TO REAL ECONOMIC BEHAVIOR AND MEASURABLE OUTCOMES.**
 
 ---
 
-### 💼 Experience
+### **📍 LOCATION**
 
-> **Kilele** *(Mini Company — Nyeri, Kenya)* · **Operational & Analytical Problem Solving**  
-> Diagnosed real operational challenges for a Nyeri-based mini company, organizing raw figures and structuring clear analytical findings to support practical, evidence-backed decisions.
-
-* **Applied Data Science, Forecasting & Analytics Systems**
-  * Built forecasting and classification workflows in Python (`Pandas`, `NumPy`, `Scikit-Learn`) with strict chronological splits, leakage prevention, anomaly detection, and prediction intervals.
-  * Engineered relational and star-schema SQL databases in MySQL with window functions, query optimization, and SQL-to-Python reconciliation.
-  * Developed interactive Streamlit web applications, Excel analytical models, and clear technical documentation that translate model outputs into actionable explanations.
+> **NAIROBI, KENYA** · **EAST AFRICA TIME (EAT / UTC+3)**  
+> **OPERATING FROM KENYA'S PRIMARY TECHNOLOGY AND COMMERCIAL HUB, FOCUSED ON EMERGING-MARKET TELEMETRY, ECONOMIC INDICATORS, AND PRACTICAL DATA SYSTEMS.**
 
 ---
 
-### 🛠️ TECHNICAL ARCHITECTURE & STACK
+### **💼 EXPERIENCE**
+
+> **KILELE (MINI COMPANY — NYERI, KENYA)** · **OPERATIONAL & ANALYTICAL PROBLEM SOLVING**  
+> **DIAGNOSED REAL OPERATIONAL CHALLENGES FOR A NYERI-BASED MINI COMPANY, ORGANIZING RAW FIGURES AND STRUCTURING CLEAR ANALYTICAL FINDINGS TO SUPPORT PRACTICAL, EVIDENCE-BACKED DECISIONS.**
+
+* **APPLIED DATA SCIENCE, FORECASTING & ANALYTICS SYSTEMS**
+  * **BUILT FORECASTING AND CLASSIFICATION WORKFLOWS IN PYTHON (PANDAS, NUMPY, SCIKIT-LEARN) WITH STRICT CHRONOLOGICAL SPLITS, LEAKAGE PREVENTION, ANOMALY DETECTION, AND PREDICTION INTERVALS.**
+  * **ENGINEERED RELATIONAL AND STAR-SCHEMA SQL DATABASES IN MYSQL WITH WINDOW FUNCTIONS, QUERY OPTIMIZATION, AND SQL-TO-PYTHON RECONCILIATION.**
+  * **DEVELOPED INTERACTIVE STREAMLIT WEB APPLICATIONS, EXCEL ANALYTICAL MODELS, AND CLEAR TECHNICAL DOCUMENTATION THAT TRANSLATE MODEL OUTPUTS INTO ACTIONABLE EXPLANATIONS.**
+
+---
+
+### **🛠️ TECHNICAL ARCHITECTURE & STACK**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/MACHINE_LEARNING-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
 
-* **Languages & Libraries:** Python, SQL, VBA, Pandas, NumPy, Scikit-Learn
-* **Databases & Design:** MySQL Server, MySQL Workbench, ERD Modeling, Query Optimization
-* **Web & Visualization Tools:** Streamlit (Primary Visualization & Web App Engine), Automated Executive Dashboards
+* **LANGUAGES & LIBRARIES:** **PYTHON, SQL, VBA, PANDAS, NUMPY, SCIKIT-LEARN**
+* **DATABASES & DESIGN:** **MYSQL SERVER, MYSQL WORKBENCH, ERD MODELING, QUERY OPTIMIZATION**
+* **WEB & VISUALIZATION TOOLS:** **STREAMLIT (PRIMARY VISUALIZATION & WEB APP ENGINE), AUTOMATED EXECUTIVE DASHBOARDS**
 
 ---
 
