@@ -37,6 +37,14 @@ BEST  PROJECTS
 
 ### 🚀 Featured Data Science Project
 
+[![Kenya Household Electric Power Telemetry Banner](https://raw.githubusercontent.com/steph45acke-hue/KENYA_HOUSEHOLD_ELECTRIC_POWER_CONSUMPTION/main/bunner.png)](https://github.com/steph45acke-hue/KENYA_HOUSEHOLD_ELECTRIC_POWER_CONSUMPTION)
+
+#### **[Kenya Household Electric Power Telemetry](https://github.com/steph45acke-hue/KENYA_HOUSEHOLD_ELECTRIC_POWER_CONSUMPTION)**
+An end-to-end data engineering, relational SQL warehousing, and machine learning forecasting project analyzing household power telemetry (`kW` / `kWh`), load profiles, high-load events, and anomalies across chronological time splits.
+- **ETL, SQL Warehousing & Optimization**: Built idempotent ingestion/ETL pipelines, relational/star-schema SQL tables, composite indexing benchmarks, atomic transaction rollbacks, and SQL-to-Pandas daily energy reconciliation.
+- **Feature Engineering & Leakage Prevention**: Engineered strictly past-available lag, rolling window, cyclical calendar, sub-meter share, and residual energy features under a chronological train/validation/test split fitted on training folds only.
+- **Forecasting, Classification, Clustering & Diagnostics**: Benchmarked linear and tree-ensemble regressors (`RandomForest`, `ExtraTrees`, `GradBoost`) and high-load classifiers (`>= 2.5 kW` at `t + 1h`), paired with daily load-profile clustering, anomaly detection, prediction intervals, and hourly error/explainability analysis.
+
 [![Kenya Economic Intelligence & Forecasting Engine Banner](https://raw.githubusercontent.com/steph45acke-hue/KENYA_ECONOMIC_INTELLIGENCE_AND_FORECASTING_ENGINE/main/bunner.png)](https://github.com/steph45acke-hue/KENYA_ECONOMIC_INTELLIGENCE_AND_FORECASTING_ENGINE)
 
 #### **[Kenya Economic Intelligence & Forecasting Engine](https://github.com/steph45acke-hue/KENYA_ECONOMIC_INTELLIGENCE_AND_FORECASTING_ENGINE)**
@@ -78,36 +86,6 @@ An enterprise-grade data science and analytics platform engineered to model, sto
 * **Data Foundation & Storage:** Utilizes a custom **Python** scraper pipeline to generate structured datasets, migrated into a normalized Third Normal Form (**3NF**) relational database hosted on **MySQL** via SQLAlchemy.
 * **Econometrics & Machine Learning:** Implements rigorous Ordinary Least Squares (**OLS**) econometric diagnostics via `statsmodels` alongside predictive **Random Forest** machine learning models interpreted through **SHAP** explainability.
 * **Interactive Frontend:** Powered by an interactive **Streamlit** and **Plotly** web dashboard delivering real-time market KPIs, size-to-price distributions, and sub-county valuation analytics.
-[![East Africa Logistics Intelligence Platform Banner](https://raw.githubusercontent.com/steph45acke-hue/THE_EAST_AFRICAN_CROSS_BOARDER_TRADE_AND_LOGISTICS_INTELLIGENCE_PLATFORM/main/banner.jpg)](https://github.com/steph45acke-hue/THE_EAST_AFRICAN_CROSS_BOARDER_TRADE_AND_LOGISTICS_INTELLIGENCE_PLATFORM)
-
-#### **[The East African Cross-Border Trade & Logistics Intelligence Platform](https://github.com/steph45acke-hue/THE_EAST_AFRICAN_CROSS_BOARDER_TRADE_AND_LOGISTICS_INTELLIGENCE_PLATFORM)**
-An enterprise-grade trade corridor analytics engine engineered to model and optimize complex logistics networks across the Northern and Central Corridors (connecting Mombasa, Nairobi, Kampala, and Dar es Salaam).
-* **Data Foundation:** Utilizes automated **Python** ETL pipelines to aggregate and clean multi-source operational data into a structured **MySQL** data warehouse.
-* **Interactive Frontend:** Powered by an interactive **Streamlit** executive dashboard providing real-time visibility into transit KPIs, border crossing delays, and end-to-end corridor performance.
-
-
-
-
-### 🇰🇪 Featured Demographic Analytics Project
-
-[![Kenya Census Data Pipeline Banner](https://raw.githubusercontent.com/steph45acke-hue/kenya-census-data-pipeline/main/banner.jpg)](https://github.com/steph45acke-hue/kenya-census-data-pipeline)
-
-#### **[Kenya Census Data Pipeline & Analytics Engine](https://github.com/steph45acke-hue/kenya-census-data-pipeline)**
-An interactive visual analytics platform showcasing Kenya's demographic distribution across all 47 counties, backed by an automated data pipeline and rigorous statistical modeling.
-* **Automated Data Pipeline:** Engineered **Python** scripts to scrape, clean, and aggregate multi-source census data into a structured analytical database framework.
-* **Geospatial & Interactive Frontend:** Deployed via **Streamlit** to deliver dynamic county-level choropleth mapping and population density visualization.
-* **Advanced Statistical Testing:** Implements **OLS Regression** to model land area versus population relationships alongside **Welch's T-Test** hypothesis testing for urban versus rural demographic variance.
-
-### 🇰🇪 Featured National Statistics & Regional Insights Project
-
-[![Kenya Census Project Banner](https://raw.githubusercontent.com/steph45acke-hue/KENYA_CENSUS_PROJECT/main/banner.jpg)](https://github.com/steph45acke-hue/KENYA_CENSUS_PROJECT)
-
-#### **[Kenya Census Project: National Statistics & Regional Insights](https://github.com/steph45acke-hue/KENYA_CENSUS_PROJECT)**
-A comprehensive **Python**, **SQL**, and **Streamlit** data pipeline processing official national census records to deliver interactive regional insights and demographic analytics across Kenya's counties.
-* **Database & Warehousing:** Engineered normalized **MySQL** database architecture to store, query, and manage official national census and demographic datasets.
-* **Automated Data Pipeline:** Powered by robust **Python** scripts to execute data cleaning, transformation, and backend statistical processing.
-* **Interactive Dashboard:** Deployed via **Streamlit** to provide dynamic, real-time visual analytics exploring population distribution, density, and socio-economic indicators.
-
 
 ---
 
