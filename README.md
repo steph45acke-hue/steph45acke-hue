@@ -1,95 +1,44 @@
 <div align="center">
 
-  <h1>DATA SCIENTIST</h1>
-  <h3>STEPHEN MUNENE</h3>
+# DATA SCIENTIST
+### STEPHEN MUNENE
 
-  <p>
-    <img src="https://img.shields.io/badge/AIM-TRANSFORMING%20RAW%20DATA%20INTO%20CLEAR%2C%20EXPLAINABLE%20%26%20DECISION--READY%20INTELLIGENCE-1D4ED8?style=for-the-badge&logo=target&logoColor=67E8F9" alt="Aim"/>
-  </p>
+> **AIM** — *Transforming complex quantitative signals, relational data structures, and predictive models into clear, explainable, and decision-ready intelligence.*
 
-  <p>
-    <i>Turning complex quantitative signals, relational data structures, and predictive models into transparent insights that drive real-world decisions.</i>
-  </p>
+<img src="https://img.shields.io/badge/STATISTICS%20%26%20ECONOMICS-UNDERGRADUATE-0F172A?style=flat-square&labelColor=0284C7&color=0F172A" alt="Statistics and Economics Undergraduate"/>
+<img src="https://img.shields.io/badge/BASE-NAIROBI%2C%20KENYA-0F172A?style=flat-square&labelColor=0D9488&color=0F172A" alt="Nairobi, Kenya"/>
+<img src="https://img.shields.io/badge/FOCUS-PYTHON%20%C2%B7%20SQL%20%C2%B7%20ML%20%C2%B7%20STREAMLIT-0F172A?style=flat-square&labelColor=1E293B&color=0F172A" alt="Core Focus"/>
 
 </div>
 
 ---
 
-### 🎓 ACADEMIC BACKGROUND
+### 🎓 Academic Background
 
-<table width="100%">
-  <tr>
-    <td valign="top">
-      <div align="center">
-        <img src="https://img.shields.io/badge/ACADEMIC%20TRACK-STATISTICS%20%26%20ECONOMICS%20UNDERGRADUATE-7C2D12?style=for-the-badge&logo=academia&logoColor=FDE047" alt="Statistics and Economics Undergraduate"/>
-        <img src="https://img.shields.io/badge/INSTITUTION-THE%20CO--OPERATIVE%20UNIVERSITY%20OF%20KENYA-0F766E?style=for-the-badge&logo=university&logoColor=99F6E4" alt="The Co-operative University of Kenya"/>
-      </div>
-      <br/>
-      <p>
-        <b>STATISTICS &amp; ECONOMICS UNDERGRADUATE</b> at <b>The Co-operative University of Kenya</b>, building a strong quantitative foundation across probability, statistical inference, econometric modeling, and economic analysis.
-      </p>
-      <p>
-        <b>The Co-operative University of Kenya</b> fosters a structured academic environment rooted in applied economics, finance, quantitative methods, and institutional research—shaping how analytical models connect to real economic behavior and measurable outcomes.
-      </p>
-    </td>
-  </tr>
-</table>
+> **STATISTICS & ECONOMICS UNDERGRADUATE** · *The Co-operative University of Kenya*  
+> Building a strong quantitative foundation across probability, statistical inference, econometric modeling, and economic analysis.
+
+* **Institutional Context:** **The Co-operative University of Kenya** provides a structured academic environment rooted in applied economics, finance, quantitative methods, and institutional research—shaping how analytical models connect to real economic behavior and measurable outcomes.
 
 ---
 
-### 📍 LOCATION
+### 📍 Location
 
-<table width="100%">
-  <tr>
-    <td valign="top">
-      <div align="center">
-        <img src="https://img.shields.io/badge/CITY-NAIROBI%2C%20KENYA-1E1B4B?style=for-the-badge&logo=googlemaps&logoColor=F472B6" alt="Nairobi, Kenya"/>
-        <img src="https://img.shields.io/badge/TIMEZONE-EAST%20AFRICA%20TIME%20(EAT%20%2F%20UTC%2B3)-065F46?style=for-the-badge&logo=clockify&logoColor=A7F3D0" alt="East Africa Time"/>
-        <img src="https://img.shields.io/badge/HUB-EAST%20AFRICA%20TECH%20%26%20ANALYTICS-312E81?style=for-the-badge&logo=rocket&logoColor=C4B5FD" alt="East Africa Analytics"/>
-      </div>
-      <br/>
-      <p align="center">
-        <b>📍 NAIROBI, KENYA</b> — Operating from Kenya's primary technology and commercial hub, focused on data systems, economic telemetry, and practical analytical solutions.
-      </p>
-    </td>
-  </tr>
-</table>
+> **Nairobi, Kenya** *(East Africa Time · EAT / UTC+3)*  
+> Operating from Kenya's primary technology and commercial hub, focused on emerging-market telemetry, economic indicators, and practical data systems.
 
 ---
 
-### 💼 EXPERIENCE
+### 💼 Experience
 
-<table width="100%">
-  <tr>
-    <td valign="top">
-      <div align="center">
-        <img src="https://img.shields.io/badge/FEATURED%20CASE-KILELE%20%7C%20NYERI%2C%20KENYA-4C1D95?style=for-the-badge&logo=sparkles&logoColor=FDE68A" alt="Kilele Nyeri"/>
-        <img src="https://img.shields.io/badge/ROLE-DATA%20%26%20ANALYTICS%20PROBLEM%20SOLVER-0E7490?style=for-the-badge&logo=chartline&logoColor=CFFAFE" alt="Analytics Problem Solver"/>
-      </div>
-      <br/>
-      <p>
-        <b>🏔️ Kilele (Mini Company — Nyeri, Kenya)</b><br/>
-        <i>Operational &amp; Analytical Problem Solving</i>
-      </p>
-      <ul>
-        <li><b>Structured Problem Diagnosis:</b> Partnered with <b>Kilele</b>, a mini company based in <b>Nyeri</b>, to diagnose operational bottlenecks, organize scattered business records, and turn raw day-to-day figures into clear analytical findings.</li>
-        <li><b>Data-Backed Recommendations:</b> Applied quantitative reasoning, trend tracking, and structured reporting so team decisions were backed by clear evidence rather than guesswork.</li>
-      </ul>
-      <hr/>
-      <p>
-        <b>📊 Applied Data Science, Forecasting &amp; Analytics Systems</b><br/>
-        <i>Python, SQL Warehousing &amp; Interactive Applications</i>
-      </p>
-      <ul>
-        <li><b>Predictive &amp; Time-Series Modeling:</b> Built forecasting and classification workflows using Python (Pandas, NumPy, Scikit-Learn) with strict chronological train/validation/test splits, leakage prevention, anomaly detection, and uncertainty intervals.</li>
-        <li><b>Relational Database &amp; ETL Engineering:</b> Designed normalized and star-schema SQL databases in MySQL with window functions, query optimization, automated data cleaning, and SQL-to-Python reconciliation.</li>
-        <li><b>Interactive Decision Tools &amp; Reporting:</b> Developed Streamlit web applications, Excel analytical models, and structured technical documentation that translate model outputs into clear, actionable explanations.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+> **Kilele** *(Mini Company — Nyeri, Kenya)* · **Operational & Analytical Problem Solving**  
+> Diagnosed real operational challenges for a Nyeri-based mini company, organizing raw figures and turning scattered records into clear analytical findings that supported practical decisions.
 
----
+* **Applied Data Science, Forecasting & Analytics Systems**
+  * Built forecasting and classification pipelines in Python (`Pandas`, `NumPy`, `Scikit-Learn`) with strict chronological splits, leakage prevention, anomaly detection, and prediction intervals.
+  * Engineered relational and star-schema SQL databases in MySQL with window functions, query optimization, and SQL-to-Python reconciliation.
+  * Developed interactive Streamlit web applications, Excel analytical models, and clear technical documentation that translate model outputs into actionable explanations.
+
 ---
 ### ⚡ TECHNICAL ARCHITECTURE & CORE SPECIALIZATION
 
