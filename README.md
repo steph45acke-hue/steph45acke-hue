@@ -1,17 +1,13 @@
-<p align="center">
-  <img src="profile_banner.png" alt="Stephen Munene — Data Scientist" width="100%">
-</p>
-
 <div align="center">
 
 # DATA SCIENTIST
 ### STEPHEN MUNENE
 
-> **AIM** — *Transforming complex quantitative signals, relational data structures, and predictive models into clear, explainable, and decision-ready intelligence.*
+> **AIM** — *Transforming complex quantitative signals, relational data structures, and predictive models into clear, explainable, and decision-ready intelligence that solves real-world problems.*
 
-<img src="https://img.shields.io/badge/STATISTICS%20%26%20ECONOMICS-UNDERGRADUATE-0F172A?style=flat-square&labelColor=0284C7&color=0F172A" alt="Statistics and Economics Undergraduate"/>
-<img src="https://img.shields.io/badge/BASE-NAIROBI%2C%20KENYA-0F172A?style=flat-square&labelColor=0D9488&color=0F172A" alt="Nairobi, Kenya"/>
-<img src="https://img.shields.io/badge/FOCUS-PYTHON%20%C2%B7%20SQL%20%C2%B7%20ML%20%C2%B7%20STREAMLIT-0F172A?style=flat-square&labelColor=1E293B&color=0F172A" alt="Core Focus"/>
+<img src="https://img.shields.io/badge/STATISTICS%20%26%20ECONOMICS-UNDERGRADUATE-0F172A?style=for-the-badge&labelColor=0284C7&color=0F172A" alt="Statistics and Economics Undergraduate"/>
+<img src="https://img.shields.io/badge/BASE-NAIROBI%2C%20KENYA-0F172A?style=for-the-badge&labelColor=0D9488&color=0F172A" alt="Nairobi, Kenya"/>
+<img src="https://img.shields.io/badge/FOCUS-PYTHON%20%C2%B7%20SQL%20%C2%B7%20ML%20%C2%B7%20STREAMLIT-0F172A?style=for-the-badge&labelColor=0369A1&color=0F172A" alt="Core Focus"/>
 
 </div>
 
@@ -20,15 +16,15 @@
 ### 🎓 Academic Background
 
 > **STATISTICS & ECONOMICS UNDERGRADUATE** · *The Co-operative University of Kenya*  
-> Building a strong quantitative foundation across probability, statistical inference, econometric modeling, and economic analysis.
+> Grounded in probability, statistical inference, econometric modeling, and quantitative economic analysis.
 
-* **Institutional Context:** **The Co-operative University of Kenya** provides a structured academic environment rooted in applied economics, finance, quantitative methods, and institutional research—shaping how analytical models connect to real economic behavior and measurable outcomes.
+* **The Co-operative University of Kenya (CUK):** Provides a structured academic foundation in applied economics, finance, quantitative methods, and institutional research—shaping how statistical models connect to real economic behavior and measurable outcomes.
 
 ---
 
 ### 📍 Location
 
-> **Nairobi, Kenya** *(East Africa Time · EAT / UTC+3)*  
+> **Nairobi, Kenya** · *East Africa Time (EAT / UTC+3)*  
 > Operating from Kenya's primary technology and commercial hub, focused on emerging-market telemetry, economic indicators, and practical data systems.
 
 ---
@@ -36,10 +32,10 @@
 ### 💼 Experience
 
 > **Kilele** *(Mini Company — Nyeri, Kenya)* · **Operational & Analytical Problem Solving**  
-> Diagnosed real operational challenges for a Nyeri-based mini company, organizing raw figures and turning scattered records into clear analytical findings that supported practical decisions.
+> Diagnosed real operational challenges for a Nyeri-based mini company, organizing raw figures and structuring clear analytical findings to support practical, evidence-backed decisions.
 
 * **Applied Data Science, Forecasting & Analytics Systems**
-  * Built forecasting and classification pipelines in Python (`Pandas`, `NumPy`, `Scikit-Learn`) with strict chronological splits, leakage prevention, anomaly detection, and prediction intervals.
+  * Built forecasting and classification workflows in Python (`Pandas`, `NumPy`, `Scikit-Learn`) with strict chronological splits, leakage prevention, anomaly detection, and prediction intervals.
   * Engineered relational and star-schema SQL databases in MySQL with window functions, query optimization, and SQL-to-Python reconciliation.
   * Developed interactive Streamlit web applications, Excel analytical models, and clear technical documentation that translate model outputs into actionable explanations.
 
