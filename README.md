@@ -9,7 +9,7 @@
 
 <img src="https://img.shields.io/badge/STATISTICS%20%26%20ECONOMICS-UNDERGRADUATE-0F172A?style=for-the-badge&labelColor=0284C7&color=0F172A" alt="Statistics and Economics Undergraduate"/>
 <img src="https://img.shields.io/badge/LOCATION-NAIROBI%2C%20KENYA-0F172A?style=for-the-badge&labelColor=0D9488&color=0F172A" alt="Nairobi, Kenya"/>
-<img src="https://img.shields.io/badge/CORE%20STACK-PYTHON%20%C2%B7%20SQL%20%C2%B7%20ML%20%C2%B7%20STREAMLIT-0F172A?style=for-the-badge&labelColor=0369A1&color=0F172A" alt="Core Stack"/>
+<img src="https://img.shields.io/badge/CORE%20STACK-PYTHON%20%C2%B7%20SQL%20%C2%B7%20ML%20%C2%B7%20STREAMLIT-0F172A?style=for-the-badge&labelColor=7C3AED&color=0F172A" alt="Core Stack"/>
 
 </div>
 
@@ -41,6 +41,24 @@
 
 ---
 
+### **🛠️ TECHNICAL ARCHITECTURE & STACK**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FACC15" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-0F766E?style=for-the-badge&logo=mysql&logoColor=5EEAD4" alt="SQL">
+  <img src="https://img.shields.io/badge/MACHINE_LEARNING-B45309?style=for-the-badge&logo=scikitlearn&logoColor=FDE68A" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/STREAMLIT-BE123C?style=for-the-badge&logo=streamlit&logoColor=FDA4AF" alt="Streamlit">
+  <img src="https://img.shields.io/badge/EXCEL-15803D?style=for-the-badge&logo=microsoft-excel&logoColor=86EFAC" alt="Excel">
+  <img src="https://img.shields.io/badge/GIT-C2410C?style=for-the-badge&logo=git&logoColor=FDBA74" alt="Git">
+  <img src="https://img.shields.io/badge/GITHUB-1E1B4B?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_CODE-0369A1?style=for-the-badge&logo=visual-studio-code&logoColor=7DD3FC" alt="VS Code">
+</p>
+
+* **LANGUAGES & LIBRARIES:** **PYTHON, SQL, VBA, PANDAS, NUMPY, SCIKIT-LEARN**
+* **DATABASES & DESIGN:** **MYSQL SERVER, MYSQL WORKBENCH, ERD MODELING, QUERY OPTIMIZATION**
+* **WEB & VISUALIZATION TOOLS:** **STREAMLIT (PRIMARY VISUALIZATION & WEB APP ENGINE), AUTOMATED EXECUTIVE DASHBOARDS**
+
+---
 
 BEST  PROJECTS
 
