@@ -1,47 +1,35 @@
-<!-- ===================================================================== -->
-<!-- HERO HEADER & DYNAMIC MISSION BANNER                                  -->
-<!-- ===================================================================== -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=STEPHEN%20MUNENE&fontSize=46&fontColor=00F5D4&fontAlignY=38&desc=DATA%20SCIENTIST%20%7C%20ECONOMETRIC%20%26%20ML%20SYSTEMS%20ARCHITECT&descSize=16&descAlignY=62&descColor=E2E8F0" width="100%" alt="Stephen Munene Header"/>
+  <h1>DATA SCIENTIST</h1>
+  <h3>STEPHEN MUNENE</h3>
 
-  <br/>
-
-  <!-- Dynamic Typing Mission Statement (Wide, High-Impact Presence) -->
-  <a href="https://github.com/steph45acke-hue">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3200&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=true&width=900&height=85&lines=MISSION%3A+SOLVING+COMPLEX+REAL-WORLD+PROBLEMS+WITH+DATA;DELIVERING+EXPLAINABLE+SOLUTIONS+%26+PRODUCTION+INTELLIGENCE" alt="Mission Typing Banner" />
-  </a>
-
-  <br/>
-
-  <!-- Core Pillar Badges -->
   <p>
-    <img src="https://img.shields.io/badge/FOCUS-PYTHON%20%7C%20SQL%20%7C%20MACHINE%20LEARNING%20%7C%20STREAMLIT-0D1117?style=for-the-badge&logo=databricks&logoColor=00F5D4" alt="Core Focus"/>
-    <img src="https://img.shields.io/badge/DISCIPLINE-STATISTICS%20%26%20ECONOMICS-1E293B?style=for-the-badge&logo=academia&logoColor=38BDF8" alt="Discipline"/>
-    <img src="https://img.shields.io/badge/LOCATION-NAIROBI%2C%20KENYA-064E3B?style=for-the-badge&logo=googlemaps&logoColor=34D399" alt="Location"/>
+    <img src="https://img.shields.io/badge/AIM-TRANSFORMING%20RAW%20DATA%20INTO%20CLEAR%2C%20EXPLAINABLE%20%26%20DECISION--READY%20INTELLIGENCE-0F172A?style=for-the-badge&logo=target&logoColor=38BDF8" alt="Aim"/>
+  </p>
+
+  <p>
+    <i>Turning complex quantitative signals, relational data structures, and predictive models into transparent insights that drive real-world decisions.</i>
   </p>
 
 </div>
 
 ---
 
-<!-- ===================================================================== -->
-<!-- ACADEMIC & PROFESSIONAL FOUNDATION                                      -->
-<!-- ===================================================================== -->
-### 🎓 ACADEMIC & PROFESSIONAL FOUNDATION
+### 🎓 ACADEMIC BACKGROUND
 
 <table width="100%">
   <tr>
-    <td width="100%" valign="top">
-      <p align="center">
-        <img src="https://img.shields.io/badge/B.Sc.%20IN%20STATISTICS%20%26%20ECONOMICS-0F172A?style=for-the-badge&logo=bookstack&logoColor=FBBF24" alt="Statistics and Economics"/>
-      </p>
-      <blockquote>
-        <b>🏛️ THE CO-OPERATIVE UNIVERSITY OF KENYA (CUK) — NAIROBI</b><br/>
-        <i>A premier Kenyan public university chartered for excellence in cooperative business, applied economics, finance, and quantitative research—equipping analytical practitioners to model emerging-market dynamics and institutional data systems.</i>
-      </blockquote>
+    <td valign="top">
+      <div align="center">
+        <img src="https://img.shields.io/badge/DEGREE-STATISTICS%20%26%20ECONOMICS-1E293B?style=for-the-badge&logo=academia&logoColor=FBBF24" alt="Statistics and Economics"/>
+        <img src="https://img.shields.io/badge/INSTITUTION-THE%20CO--OPERATIVE%20UNIVERSITY%20OF%20KENYA-064E3B?style=for-the-badge&logo=university&logoColor=34D399" alt="The Co-operative University of Kenya"/>
+      </div>
+      <br/>
       <p>
-        Grounded in rigorous statistical inference, econometric modeling, and quantitative risk analysis, I engineer end-to-end data products that bridge raw operational telemetry and executive decision-making—turning messy datasets into leakage-safe predictive engines, normalized relational warehouses, and interactive web applications.
+        Pursuing a degree in <b>STATISTICS &amp; ECONOMICS</b> at <b>The Co-operative University of Kenya</b>, building a rigorous quantitative foundation across probability, statistical inference, econometric modeling, and economic analysis.
+      </p>
+      <p>
+        <b>The Co-operative University of Kenya</b> provides a strong academic environment rooted in applied economics, finance, quantitative methods, and institutional research—shaping how analytical models are connected to real economic behavior and measurable outcomes.
       </p>
     </td>
   </tr>
@@ -49,9 +37,44 @@
 
 ---
 
-<!-- ===================================================================== -->
-<!-- CORE TECHNICAL ARCHITECTURE & 4-PILLAR SPECIALIZATION                 -->
-<!-- ===================================================================== -->
+### 📍 LOCATION
+
+<table width="100%">
+  <tr>
+    <td valign="top">
+      <div align="center">
+        <img src="https://img.shields.io/badge/BASE-NAIROBI%2C%20KENYA-111827?style=for-the-badge&logo=googlemaps&logoColor=F87171" alt="Nairobi, Kenya"/>
+        <img src="https://img.shields.io/badge/REGION-EAST%20AFRICA%20%7C%20EAT%20(UTC%2B3)-1E293B?style=for-the-badge&logo=clockify&logoColor=60A5FA" alt="East Africa Time"/>
+      </div>
+      <br/>
+      <p align="center">
+        Based in <b>Nairobi, Kenya</b> — building data-driven solutions with a strong lens on emerging-market telemetry, economic indicators, and scalable analytical workflows.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💼 EXPERIENCE
+
+<table width="100%">
+  <tr>
+    <td valign="top">
+      <p>
+        <b>📊 Applied Data Science, Forecasting &amp; Analytics Projects</b><br/>
+        <i>End-to-End Pipeline Engineering, SQL Modeling &amp; Interactive Applications</i>
+      </p>
+      <ul>
+        <li><b>Predictive &amp; Time-Series Modeling:</b> Built forecasting and classification workflows using Python (Pandas, NumPy, Scikit-Learn) with strict chronological train/validation/test splits, leakage prevention, anomaly detection, and uncertainty intervals.</li>
+        <li><b>Relational Database &amp; ETL Engineering:</b> Designed normalized and star-schema SQL databases in MySQL with window functions, query optimization, automated data cleaning, and SQL-to-Python reconciliation.</li>
+        <li><b>Interactive Decision Tools &amp; Reporting:</b> Developed Streamlit web applications, Excel analytical models, and structured technical documentation that translate model outputs into clear, actionable explanations.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
 ### ⚡ TECHNICAL ARCHITECTURE & CORE SPECIALIZATION
 
 <div align="center">
